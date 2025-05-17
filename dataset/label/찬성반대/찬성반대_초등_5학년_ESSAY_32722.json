@@ -1,0 +1,302 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 소수의 의견에 반대합니다.#@문장구분#\n왜냐면 소수에 생각도 중요하지만 다수결 자체가 더 많은사람이 뽑은거를 하는건데 다수결로 한거면 그 소수에 사람들도 다수결에 찬성한거고 다수결에 찬성을 한것이면 자신의 운명 또한 인정해야하고 그렇다고 소수의 의견이 중요하지 않은건 아니죠#@문장구분# 하지만 다수결을 한 이상 더 하고싶은 사람이 많은거 다수결에서는 룰이기 때문에 소수의 의견도 존중해야하지만 룰도 지켜야하니 다수의 의견이 좋다고 생각합니다#@문장구분# 예를 들어서 소수의 의견을 하자고 갑작스럽게 룰을 바꾸면 다수들도 기분이 나쁘니까 근데 다수 편만들어도 소수가 슬프죠#@문장구분# 하지만 게임은 정정당당하게하는거죠#@문장구분# 게임에서 핵을쓰면 벤을 당해 핵쟁이가 게임을 못하게하는것처럼 심판이 센서가 떨어졌는데 일부러 보지않은게 들통나면 심판을 못하는것 처럼 게임도 정정당당하게 하지 않으면 같이하는 사람들과 주변인들이 기분 나쁘고 상대방은 그 사람과 다신 게임을 같이 하고 싶은 마음이 안 생기겠죠#@문장구분# 그럼 게임을 정정당당하게하지 않는 사람 근처에는 더 이상 친구가 없겠죠#@문장구분# 그럼 그 사람은 매우 슬플것 같죠?#@문장구분#\n그러니까 게임은 정정당당! 알겠죠#@문장구분# 아무리 소수에 의견을 들어야한다고 쳐도 게임에 룰을 정해져있고 함부로 바꿀수없는거죠#@문장구분# 그러니까 다수에 의견이 더 좋다고 생각하는거죠#@문장구분# 다수는 여러사람이 고른 정정당당하게 받힌 의견이니까 소수들도 자기가 고른것이 떨어지더라도 다수팀을 응원하고 축하하면 정정당당한 어린이가 돼야겠조?#@문장구분#",
+      "paragraph_len": 949,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20.333334,
+      26,
+      22.733334
+    ],
+    "essay_scoreT_avg": 23.022223,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.08.02",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "032",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "찬성반대",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "소수의 의견에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "\n왜냐면 소수에 생각도 중요하지만 다수결 자체가 더 많은 사람이 뽑은거를 하는 건데 다수결로 한거면 그 소수에 사람들도 다수결에 찬성 한거고 다수결에 찬성을 한 것이면면 자신의 운명 또한 인정해야하고 그렇다고 소수의 의견이 중요하지 않은건 아니죠",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n왜냐면 소수에 생각도 중요하지만 다수결 자체가 더 <문법_맞춤법>많은사람이 뽑은거를 하는건데</문법_맞춤법> 다수결로 한거면 그 소수에 사람들도 다수결에 찬성한거고 다수결에 찬성을 한것이면 자신의 운명 또한 인정해야하고 그렇다고 소수의 의견이 중요하지 않은건 아니죠",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 다수결을 한 이상 더 하고 싶은 사람이 많은 거 다수결에서는 룰이기 때문에 소수의 의견도 존중해야 하지만 룰도 지켜야하니 다수의 의견이 좋다고 생각합니다",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하지만 다수결을 한 이상 더 <문법_맞춤법>하고싶은 사람이 많은거</문법_맞춤법> 다수결에서는 룰이기 때문에 소수의 의견도 존중해야하지만 룰도 지켜야하니 다수의 의견이 좋다고 생각합니다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 예를 들어서 소수의 의견을 하자고 갑작스럽게 룰을 바꾸면 다수들도 기분이 나쁘니까 근데 다수 편만 들어도 소수가 슬프죠",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 예를 들어서 소수의 의견을 하자고 갑작스럽게 룰을 바꾸면 다수들도 기분이 나쁘니까 근데 다수 <문법_맞춤법>편만들어도</문법_맞춤법> 소수가 슬프죠",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 게임은 정정당당하게 하는 거죠",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하지만 게임은 <문법_맞춤법>정정당당하게하는거죠</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 게임에서 핵을 쓰면 벤을 당해 핵쟁이가 게임을 못하게 하는 것처럼 심판이 센서가 떨어졌는데 일부러 보지않은게 들통나면 심판을 못하는것 처럼 게임도 정정당당하게 하지 않으면 같이하는 사람들과 주변인들이 기분 나쁘고 상대방은 그 사람과 다신 게임을 같이 하고 싶은 마음이 안 생기겠죠",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 게임에서 <문법_맞춤법>핵을쓰면</문법_맞춤법> 벤을 당해 핵쟁이가 게임을 못하게하는것처럼 심판이 센서가 떨어졌는데 일부러 보지않은게 들통나면 심판을 못하는것 처럼 게임도 정정당당하게 하지 않으면 같이하는 사람들과 주변인들이 기분 나쁘고 상대방은 그 사람과 다신 게임을 같이 하고 싶은 마음이 안 생기겠죠",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그럼 게임을 정정당당하게 하지 않는 사람 근처에는 더 이상 친구가 없겠죠",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그럼 게임을 정<문법_맞춤법>정당당하게하지</문법_맞춤법> 않는 사람 근처에는 더 이상 친구가 없겠죠",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그럼 그 사람은 매우 슬플 것 같죠?",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그럼 그 사람은 매우 <문법_맞춤법>슬플것 </문법_맞춤법>같죠?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 아무리 소수에 의견을 들어야 한다고 쳐도 게임에 룰을 정해져있고 함부로 바꿀수 없는 거죠",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 아무리 소수에 의견을 <문법_맞춤법>들어야한다고</문법_맞춤법> 쳐도 게임에 룰을 정해져있고 함부로 바꿀수없는거죠",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 다수는 여러사람이 고른 정정당당하게 받힌 의견이니까 소수들도 자기가 고른것이 떨어지더라도 다수팀을 응원하고 축하하면 정정당당한 어린이가 되야겠죠?",
+      "sentence_corr_reason": [
+        "맞춤법, 교정 필요"
+      ],
+      "sentence_id": "0012",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 다수는 여러사람이 고른 정정당당하게 받힌 의견이니까 소수들도 자기가 고른것이 떨어지더라도 다수팀을 응원하고 축하하면 정정당당한 어린이가 <문법_맞춤법>돼야겠조?</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_32722",
+    "essay_prompt": " 민주주의 사회에서의 의사결정은 다수결의 원칙으로 정합니다. 여기서 다수결이란 더 많은 사람이 좋다고 한 방법으로 결정하는 것을 말합니다.\n\n 대통령이나 국회의원 선거뿐만 아니라 반장선거나 학교 임원 선거에서도 다수의 의견을 전체 의사로 보고 결정하지요.\n\n 우리같이 민주주의 국가에서 사는 많은 사람은 다수결의 원칙이 합리적인 방식이라고 생각하고 있습니다. 대부분의 상황에서는 다수의 사람이 낸 의견이 옳은 결정일 때가 많기 때문입니다.\n\n 다만, 이러한 다수결의 원칙은 소수의 의견이 반영 안 된다는 뜻도 있습니다. 소수 사람들의 의견이 옳았지만, 민주주의 사회의 다수결의 원칙으로 인해 옳지 않은 방향으로 결정되는 경우도 있습니다.\n\n 여러분의 의견은 어떠신가요? 다수결의 의견을 우선시 해야 할 까요? 아니면 소수의 의견도 어느 정도 반영해야 할까요?\n\n 다수의 의견만 수용하는 것이 최선의 방법이라는 생각에 찬성하시면 그 이유에 관해 설명해주세요. 반대의 입장이면 그 이유와 소수의 의견을 얼마나 반영해야 할지 작성해주세요.",
+    "essay_type": "찬성반대",
+    "essay_level": "1",
+    "essay_len": 709,
+    "essay_main_subject": "소수의 의견에 대한 본인의 생각"
+  }
+}

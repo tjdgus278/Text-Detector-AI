@@ -1,0 +1,341 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "아직까지도 폭력예방교육을 많이 받았지만 폭력이 끊이질 않고 있습니다.#@문장구분# 폭력은 가해자한테는 사소하거나 좀 심한 유형에 장난일 수 있어도 피해자한테는 평생 영원히 남을 수 없는 상처가 됩니다.#@문장구분# 폭력은 아주 크고 나쁜 범죄이므로 하루빨리 완전히 폭력을 예방해야 합니다.#@문장구분#\n 첫째, 혼자 감추지 말고 선생님이나 부모님, 친구나 친한 어른들에게 도움을 요청해야합니다.#@문장구분# 폭력을 당한 학생의 인터뷰를 봤는데 폭력을 당하는 동안 '언젠가는 멈추겠지, 나 혼자 해결할 수 있을 거야' 라는 생각에 쉽게 도와달라는 말이 나오지 않았다고 한다.#@문장구분# 하지만 더 나약한 모습을 보일수록 폭력은 잦아들지 않을 것이다.#@문장구분# 도움을 요청해야 이 지긋지긋한 폭력에서도 빠져나오고 새로운 학교생활을 시작할 수 있다.#@문장구분# 그러므로 당당하게 도움을 요청해야 한다.#@문장구분#\n 둘째, 가해자도 자신의 죄와 잘못을 뉘우치고 옆에서 믿을 수 있는 든든한 친구로 거듭나야 합니다.#@문장구분# 많은 피해자는 아주 힘들고 벗어날 수 없는 상황에 있습니다.#@문장구분# 이런 상황을 모르고 약한 사람을 때리고 왕따시키고 험담하고 욕하고 여러가지로 폭력을 하는 가해자는 상대방의 입장을 전혀 생각하지 않는 것입니다.#@문장구분# 상대방의 입장을 생각하고 내가 이런 상황에서 폭력을 당하면 어떤 느낌일까?등을 생각해서 하루빨리 자신의 행동을 고쳐야 합니다.#@문장구분# 피해자도 '폭력을 당하는 건 죽는것보다 끔찍하다' 라고 얘기할 정도입니다.#@문장구분# 그런데도 요즘엔 사이버폭력도 생겨서 피해자의 생명을 노리고 있습니다.#@문장구분# 가해자들은 장난이었다고만 말하고있ㅈ만 진심으로 배려하고 잘못한 점을 고치고 반성하고 친구를 위로해주고 지켜주는 든든한 친구가 돼야합니다.#@문장구분# 가해자들도 이 점을 알야아 합니다.#@문장구분#\n 요즘에도 폭력이 끊이지 않고 있습니다.#@문장구분# 우리도 피해자가 힘든 걸 알지만 쉽게 나설 수 없고 폭력은 더 심해지고 있습니다.#@문장구분# 두려워하지말고 어른들께 도움을 요청하고 옆에서 든든한 친구가 되야합니다.#@문장구분# 또 우리는 '방관자가 아닌 '도우미' 가 되서 친구를 도와줘야 합니다.#@문장구분# 폭력은 남을 깎아내리고 폄하할 수 밖에 없는 나쁜 행동입니다.#@문장구분# 학교가 더 이상 두렵고 무서운 곳이 아닌 친구와 같이 재밌고 신나는 공부를 할 수 있는 곳이 될 수 있도록 노력합시다!",
+      "paragraph_len": 1492,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.52222,
+      30,
+      22.966667
+    ],
+    "essay_scoreT_avg": 25.162964,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          2,
+          3
+        ],
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          2,
+          0,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.08.10",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "032",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "폭력 예방 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "아직까지도 폭력 예방교육을 많이 받았지만 폭력이 끊이질 않고 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "아직까지도 <문법_맞춤법>폭력예방교육을</문법_맞춤법> 많이 받았지만 폭력이 끊이질 않고 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 첫째, 혼자 감추지 말고 선생님이나 부모님, 친구나 친한 어른들에게 도움을 요청해야 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 첫째, 혼자 감추지 말고 선생님이나 부모님, 친구나 친한 어른들에게 도움을 <문법_맞춤법>요청해야합니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 폭력을 당한 학생의 인터뷰를 봤는데 폭력을 당하는 동안 '언젠가는 멈추겠지, 나 혼자 해결할 수 있을 거야'라는 생각에 쉽게 도와달라는 말이 나오지 않았다고 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 폭력을 당한 학생의 인터뷰를 봤는데 폭력을 당하는 동안 '언젠가는 멈추겠지, 나 혼자 해결할 수 있을 거야'<문법_맞춤법> 라는</문법_맞춤법> 생각에 쉽게 도와달라는 말이 나오지 않았다고 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이런 상황을 모르고 약한 사람을 때리고 왕따시키고 험담하고 욕하고 여러 가지로 폭력을 하는 가해자는 상대방의 입장을 전혀 생각하지 않는 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이런 상황을 모르고 약한 사람을 때리고 왕따시키고 험담하고 욕하고 <문법_맞춤법>여러가지로 </문법_맞춤법>폭력을 하는 가해자는 상대방의 입장을 전혀 생각하지 않는 것입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 상대방의 입장을 생각하고 내가 이런 상황에서 폭력을 당하면 어떤 느낌일까? 등을 생각해서 하루빨리 자신의 행동을 고쳐야 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 상대방의 입장을 생각하고 내가 이런 상황에서 폭력을 당하면 어떤 느낌일까?<문법_맞춤법>등을</문법_맞춤법> 생각해서 하루빨리 자신의 행동을 고쳐야 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 피해자도 '폭력을 당하는 건 죽는 것보다 끔찍하다'라고 얘기할 정도입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 피해자도 '폭력을 당하는 건 <문법_맞춤법>죽는것보다</문법_맞춤법> 끔찍하다' 라고 얘기할 정도입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그런데도 요즘엔 사이버 폭력도 생겨서 피해자의 생명을 노리고 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그런데도 요즘엔 <문법_맞춤법>사이버폭력도</문법_맞춤법> 생겨서 피해자의 생명을 노리고 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 가해자들은 장난이었다고만 말하고 있지만 진심으로 배려하고 잘못한 점을 고치고 반성하고 친구를 위로해 주고 지켜주는 든든한 친구가 돼야 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 가해자들은 장난이었다고만 <문법_맞춤법>말하고있ㅈ만</문법_맞춤법> 진심으로 배려하고 잘못한 점을 고치고 반성하고 친구를 위로해주고 지켜주는 든든한 친구가 돼야합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 가해자들도 이 점을 알아야 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 가해자들도 이 점을 <문법_맞춤법>알야아</문법_맞춤법> 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 두려워하지 말고 어른들께 도움을 요청하고 옆에서 든든한 친구가 돼야 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0019",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>두려워하지말고</문법_맞춤법> 어른들께 도움을 요청하고 옆에서 든든한 친구가 되야합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또 우리는 '방관자가 아닌 '도우미' 가 돼서 친구를 도와줘야 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0020",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": " 또 우리는 '방관자가 아닌 '도우미' 가 <문법_어미>되서</문법_어미> 친구를 도와줘야 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 폭력은 남을 깎아내리고 폄하할 수밖에 없는 나쁜 행동입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0021",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 폭력은 남을 깎아내리고 폄하할 <문법_맞춤법>수 밖에</문법_맞춤법> 없는 나쁜 행동입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_32741",
+    "essay_prompt": " 요즘 학교에서는 신체적인 폭력뿐만 아니라 미디어 발달로 인한 사이버 폭력과 언어폭력이 점점 많아지고 있습니다.\n\n 또한, 학교폭력 피해를 본 학생의 나이가 점점 낮아지고 있어 심각한 사회적 문제로 나타나고 있습니다.\n\n 학교폭력을 예방하기 위해 노력을 많이 하고 있지만 제대로 해결되지 않는다는 의견이 많습니다.\n\n 한쪽에서는 학교폭력을 일으킨 학생에 대한 처벌을 더욱 강력하게 하자는 의견이 있습니다. 더 나아가 폭력에 한에서는 법을 개편해서 청소년 보호법이 아닌 강력한 법을 시행하자는 의견도 있습니다.\n\n 다른 쪽에서는 학생에 대한 처벌보다 보호자에 대한 처벌을 강화하는 의견을 제시하기도 합니다.\n\n 학교 폭력을 예방하는 방법과 대처하는 방법은 다양합니다. 학교 폭력을 줄일 수 있는 방법에 대한 자기 생각을 작성해주세요. 그리고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 1073,
+    "essay_main_subject": "폭력 예방 방법"
+  }
+}

@@ -1,0 +1,310 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "폭력을 당하면 피해자의 입장은 안좋은거다#@문장구분# 왜냐하면 신체적인폭력도 당하고 정신적인폭력도 당해서 정말 않좋을거다#@문장구분#포폭력을 예방하기 위해선 선생님이나 부모님께 말씀드리고 큰길로 다니고 친구들도 많이 많이 사귀면 좋을거갇다#@문장구분# 학교폭력한 애와 같은 학교를 다니기 싫다면 슬프지만 전학도 하면 괜찮은 거같다#@문장구분# 학교폭력은 최소한 줄이기 위해선 운동도 하면 좋을거 같다#@문장구분# 같이 때리는게 아니라 학교폭력 당하는걸 막거나 피하려고 운동을 하는것이다#@문장구분# 정신적으로 폭력을 받았다면 정신과도 가는걸 추천한다#@문장구분# 폭력을 당하고 있을때 말로하지마 그만해 멈춰!!등 말을하고 말을 해도 계속 그러면 신고나 전학등을 시키는게 좋을거 같다#@문장구분# 학교폭력을 당해 힘들고 학교는가기 싫다면 학교를 좀 쉬는게 좋을거 같다#@문장구분# 그리고 요즘 시대엔 온라인 수업도 있기 때문에 학교 선생님께 온라인 수업 내주세요라고 하면 주실수도 있으니깐 나쁘지 않을거 같다#@문장구분# 아니면 학교폭력한 애를 휴학을 시키는게 좋을거 같다#@문장구분# 나의 입장 으로 생각하면 무적권 일단 선생님고 부모님께 말씀드리고 신고해서 무적권 전학시킬것이다#@문장구분# 그리고 학교폭력을 혼자하진 않으니깐 단체로 전학 시킬거다#@문장구분# 한학교에 않시키고 다른학교 따로 따로1명씩 전학시킬것이다#@문장구분# 기분을 다시 정확히 말하면 슬프고 말할수없을정도로 속상했을거같다",
+      "paragraph_len": 907,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20.3,
+      30,
+      21.188889
+    ],
+    "essay_scoreT_avg": 23.82963,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          2,
+          3
+        ],
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          2,
+          0,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.07.26",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "041",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "폭력 예방 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "폭력을 당하면 피해자의 입장은 안 좋은거다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "폭력을 당하면 피해자의 입장은 <문법_맞춤법>안좋은거다</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 신체적인 폭력도 당하고 정신적인 폭력도 당해서 정말 안 좋을거다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐하면 <문법_맞춤법>신체적인폭력도 당하고 정신적인폭력도 당해서 정말 않좋을거다</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "폭력을 예방하기 위해선 선생님이나 부모님께 말씀드리고 큰 길로 다니고 친구들도 많이 많이 사귀면 좋을거갇다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>포폭력을 예방하기 위해선 선생님이나 부모님께 말씀드리고 큰길</문법_맞춤법>로 다니고 친구들도 많이 많이 사귀면 좋을거갇다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 학교폭력한 애와 같은 학교를 다니기 싫다면 슬프지만 <스타일링_담화 맥락 오류>전학도 하면 괜찮은</스타일링_담화 맥락 오류> 거같다",
+      "sentence_corr_txt_styling": " 학교폭력한 애와 같은 학교를 다니기 싫다면 슬프지만 전학을 가면 괜찮을 거같다",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 학교폭력은 <스타일링_담화 맥락 오류>최소한</스타일링_담화 맥락 오류> 줄이기 위해선 운동도 하면 좋을거 같다",
+      "sentence_corr_txt_styling": " 학교폭력은 최소한으로 줄이기 위해선 운동도 하면 좋을거 같다",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 폭력을 당하고 있을때 말로 하지마 그만해 멈춰!! 등 말을 하고 말을 해도 계속 그러면 신고나 전학 등을 시키는 것이 좋을 것 같다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 폭력을 당하고 있을때 <문법_맞춤법>말로하지마 그만해 멈춰!!등 말을하고 말을 해도 계속 그러면 신고나 전학등을 시키는게 좋을거</문법_맞춤법> 같다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 요즘 시대엔 온라인 수업도 있기 때문에 학교 선생님께 온라인 수업 내주세요라고 하면 주실 수도 있으니까 나쁘지 않을거 같다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 요즘 시대엔 온라인 수업도 있기 때문에 학교 선생님께 온라인 수업 내주세요라고 하면 <문법_맞춤법>주실수도 있으니깐</문법_맞춤법> 나쁘지 않을거 같다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나의 입장 으로 생각하면 무조건 일단 선생님과 부모님께 말씀드리고 신고해서 무조건 전학시킬것이다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나의 입장 으로 생각하면 <문법_맞춤법>무적권 일단 선생님고 부모님께 말씀드리고 신고해서 무적권</문법_맞춤법> 전학시킬것이다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 한학교에 않시키고 다른학교 따로따로 1명씩 전학시킬것이다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 한학교에 않시키고 다른학교 <문법_맞춤법>따로 따로1명씩</문법_맞춤법> 전학시킬것이다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 기분을 다시 정확히 말하면 슬프고 말할 수 없을 정도로 속상했을거같다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 기분을 다시 정확히 말하면 슬프고 <문법_맞춤법>말할수없을정도로</문법_맞춤법> 속상했을거같다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_32669",
+    "essay_prompt": " 요즘 학교에서는 신체적인 폭력뿐만 아니라 미디어 발달로 인한 사이버 폭력과 언어폭력이 점점 많아지고 있습니다.\n\n 또한, 학교폭력 피해를 본 학생의 나이가 점점 낮아지고 있어 심각한 사회적 문제로 나타나고 있습니다.\n\n 학교폭력을 예방하기 위해 노력을 많이 하고 있지만 제대로 해결되지 않는다는 의견이 많습니다.\n\n 한쪽에서는 학교폭력을 일으킨 학생에 대한 처벌을 더욱 강력하게 하자는 의견이 있습니다. 더 나아가 폭력에 한에서는 법을 개편해서 청소년 보호법이 아닌 강력한 법을 시행하자는 의견도 있습니다.\n\n 다른 쪽에서는 학생에 대한 처벌보다 보호자에 대한 처벌을 강화하는 의견을 제시하기도 합니다.\n\n 학교 폭력을 예방하는 방법과 대처하는 방법은 다양합니다. 학교 폭력을 줄일 수 있는 방법에 대한 자기 생각을 작성해주세요. 그리고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 627,
+    "essay_main_subject": "폭력 예방 방법"
+  }
+}

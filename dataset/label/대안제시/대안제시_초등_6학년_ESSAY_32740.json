@@ -1,0 +1,325 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "동물을 키우는 것은 힘든 일입니다. #@문장구분#하지만 저도 반려동물로 햄스터를 키운적이 있습니다.#@문장구분# 훈련도 안해서 자주 깨물곤 했지만 괜찮았습니다. #@문장구분#아무튼 요즘 반려동물을 키우는 사람이 많아졌습니다. #@문장구분#그리고 반려동물을 키우는 사람이 점점 늘면서 반려동물을 그냥 버리는 경우도 있습니다.#@문장구분# 제 생각으로는 반려동물을 버리면 안되는 이유를 알려드리겠습니다. #@문장구분#첫째, 법을 높여 아무도 동물을 버리거나 학대하지 못하도록하는 것입니다. #@문장구분#법이 강하면 함부로 반려동물을 버리거나 학대하지 못하도록하는 것입니다.#@문장구분# 법이 강하면 함부로 반려동물을 버리거나 학대를 할 수없습니다.#@문장구분# 둘째, 반려 동물을 입양할 때부터 법으로 경고하는 것입니다.#@문장구분# 입양할 때부터 각서에 이름과 집 주소를 쓰는 것입니다. #@문장구분#그렇게 한다면 범인을쉽게 잡을 수있을 것입니다. #@문장구분#셋째, 한 번버리고 나서 벌금을 내고 반려 동물을 입양하지 못하도록 제한하는 것입니다.#@문장구분# 둘째처럼 법을 시행한뒤 셋째법을 만들면 범죄가 일어날 확률이 매우 줄어들 것입니다.#@문장구분# 그리고 반려동물을 키우시려면 제대로 키우셨으면 좋겠습니다#@문장구분#. 요즘은 반려동물에 대한 범죄가 많이 일어나서 요즘엔 잘 키워야 합니다.#@문장구분# 너무 스트레스 받게하지마시고반려동물을 잘 키워주셨으면 좋겠습니다#@문장구분#",
+      "paragraph_len": 941,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.077778,
+      30,
+      20.3
+    ],
+    "essay_scoreT_avg": 24.125925,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          2,
+          3
+        ],
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          2,
+          0,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.08.20",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "032",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "대안제시",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "반려동물 증가와 유기에 대한 대안제시",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "하지만 저도 반려동물로 햄스터를 키운 적이 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "하지만 저도 반려동물로 햄스터를 <문법_기타>키운적이 </문법_기타>있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 훈련도 안 해서 자주 깨물곤 했지만 괜찮았습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 훈련도 <문법_기타>안해서 </문법_기타>자주 깨물곤 했지만 괜찮았습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 제 생각으로는 반려동물을 버리면 안 되는 이유를 알려드리겠습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 제 생각으로는 반려동물을 버리면 <문법_기타>안되는 </문법_기타>이유를 알려드리겠습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "첫째, 법을 높여 아무도 동물을 버리거나 학대하지 못 하도록 하는 것입니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "첫째, 법을 높여 아무도 동물을 버리거나 학대하지 <문법_기타>못하도록하는 </문법_기타>것입니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "법이 강하면 함부로 반려동물을 버리거나 학대하지 못 하도록 하는 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "법이 강하면 함부로 반려동물을 버리거나 학대하지 <문법_기타>못하도록하는 </문법_기타>것입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 법이 강하면 함부로 반려동물을 버리거나 학대를 할 수 없습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 법이 강하면 함부로 반려동물을 버리거나 학대를 할 <문법_기타>수없습니다</문법_기타>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 둘째, 반려동물을 입양할 때부터 법으로 경고하는 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 둘째, <문법_기타>반려 동물을</문법_기타> 입양할 때부터 법으로 경고하는 것입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그렇게 한다면 범인을 쉽게 잡을 수 있을 것입니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "그렇게 한다면 <문법_기타>범인을쉽게 </문법_기타>잡을 수있을 것입니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "셋째, 한 번 버리고 나서 벌금을 내고 반려동물을 입양하지 못하도록 제한하는 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "셋째, 한 <문법_기타>번버리고 </문법_기타>나서 벌금을 내고 반려 동물을 입양하지 못하도록 제한하는 것입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 둘째처럼 법을 시행한 뒤 셋째 법을 만들면 범죄가 일어날 확률이 매우 줄어들 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 둘째처럼 법을 <문법_기타>시행한뒤 </문법_기타>셋째법을 만들면 범죄가 일어날 확률이 매우 줄어들 것입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 너무 스트레스 받게 하지 마시고 반려동물을 잘 키워주셨으면 좋겠습니다",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0017",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 너무 스트레스 <문법_기타>받게하지마시고반려동물을 </문법_기타>잘 키워주셨으면 좋겠습니다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_32740",
+    "essay_prompt": " 현대인들은 강아지나 고양이 등 다양한 반려동물을 키우며 행복과 위로를 받고 있습니다. 최근에는 반려동물을 키우는 가정의 수가 20% 증가하였다고 합니다.\n\n 하지만 정말 안타깝게도 버림받는 동물의 수도 해마다 증가하여 15%나 높아졌다고 보도되었습니다.\n\n 단순히 귀엽다는 이유로 데리고 갔지만, 막상 키우다 보니 금전적으로나 시간상으로 부담이 되는 상황이 많이 생겨 유기했다는 사람들이 많습니다. 그렇다고 해서 책임질 수 없는 반려동물들을 유기하는 행동이 옳은 것일까요? 많은 사람들이 옳지 않다고 생각할 것입니다.\n\n 그렇다면 반려동물 유기를 방지하기 위해 어떻게 해야 할까요? 반려동물을 키우는 것에 대한 자격을 강화해야 할까요? 아니면 단체를 구성해 반려동물을 키우는 사람들을 지속해서 관리해야 할까요?\n\n 반려동물 유기에 대한 자기 생각을 작성하고 반려동물 유기를 대처할 수 있는 자신만의 대안을 작성해보세요.",
+    "essay_type": "대안제시",
+    "essay_level": "2",
+    "essay_len": 602,
+    "essay_main_subject": "반려동물 증가와 유기에 대한 대안제시"
+  }
+}

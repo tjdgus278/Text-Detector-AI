@@ -1,0 +1,234 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "우리가 몸과 건강을 위해 지켜야 하는 위생들중 하나는 손깨끗하게 닦기 그리고 몸을깨끗이 하기 입니다#@문장구분# 그럼으로 몸을 깨끗하게 하는 방법은 샤워하고 세수도한다#@문장구분# 그리고 손도 잘 닦는다#@문장구분# 밥을 먹기 전에는 손을 닦고 밥을 먹은 후에는 양치를 한다#@문장구분# 그리고 식사를 할때는 골고루 먹고 샤워를 할때도 머리부터 발가락까지 깨끗하게 닦는다#@문장구분# 운동도 열심히 하면 우리들의 몸이 건강해지고 튼튼해지 것이다#@문장구분# 나는 비록 골고루 먹진 않지만 아마도 크면 골고루 먹겠지?#@문장구분# 그리고 손을 닦는 30초가 부족 하다면 손소독재를 바르고 여름에는 상한음식을 먹지 않는다#@문장구분# 유통기간이 지나지 않게 음식물쓰레기는 벌레가 꼬이지 않게 음식물 쓰레기 통에 넣고 일반 쓰레기도 찰때마다 빨리 버리면 손이 편할것이고 제활용도 열심히 잘 한다#@문장구분# 그리고 마지 막으로 음식물 쓰레기를 버리기 귀찮다면 먹을 만큼만 덜어서 먹자.#@문장구분#",
+      "paragraph_len": 629,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5714285,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5238094,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      24.333334,
+      25.6,
+      22.733334
+    ],
+    "essay_scoreT_avg": 24.222223,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.02",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "041",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "위생을 지키는 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "우리가 몸과 건강을 위해 지켜야 하는 위생들 중 하나는 손깨끗하게 닦기 그리고 몸을 깨끗이 하기입니다",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "우리가 몸과 건강을 위해 지켜야 하는 <문법_맞춤법>위생들중 하</문법_맞춤법>나는 손깨끗하게 닦기 그리고 몸을깨끗이 하기 입니다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러므로 몸을 깨끗하게 하는 방법은 샤워하고 세수도 한다",
+      "sentence_corr_reason": [
+        "맞춤법 교정 필요"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그럼으로 </문법_맞춤법>몸을 깨끗하게 하는 방법은 샤워하고 세수도한다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 식사를 할 때는 골고루 먹고 샤워를 할때도 머리부터 발가락까지 깨끗하게 닦는다",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 식사를 <문법_맞춤법>할때는 </문법_맞춤법>골고루 먹고 샤워를 할때도 머리부터 발가락까지 깨끗하게 닦는다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 운동도 열심히 하면 우리들의 몸이 건강해지고 튼튼 해지 것이다",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 운동도 열심히 하면 우리들의 몸이 건강해지고 <문법_맞춤법>튼튼해지</문법_맞춤법> 것이다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 유통기간이 지나지 않게 음식물 쓰레기는 벌레가 꼬이지 않게 음식물 쓰레기 통에 넣고 일반 쓰레기도 찰때마다 빨리 버리면 손이 편할 것이고 제활용도 열심히 잘 한다",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 유통기간이 지나지 않게 <문법_맞춤법>음식물쓰레기는</문법_맞춤법> 벌레가 꼬이지 않게 음식물 쓰레기 통에 넣고 일반 쓰레기도 찰때마다 빨리 버리면 손이 편할것이고 제활용도 열심히 잘 한다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_32699",
+    "essay_prompt": " 건강한 몸을 만들기 위해서는 올바른 식습관과 운동뿐만 아니라 개인위생도 매우 중요합니다. 그러므로 우리는 양치도 하고 세수도 하고 샤워도 하며 우리의 몸을 항상 깨끗하게 유지하고 있지요.\n\n 청결하지 않으면 세균이 몸속으로 들어와 병에 걸릴 수도 있기 때문입니다.\n\n 여러분은 몸을 깨끗하게 하기 위해 어떻게 하고 있나요? 양치는 하루에 몇 번 하시나요? 손은 하루에 몇 번 씻으시나요?\n\n 여러분만의 위생을 지키는 방법에 대해 작성해주세요. 앞으로의 계획을 작성해주셔도 좋아요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 430,
+    "essay_main_subject": "위생을 지키는 방법"
+  }
+}

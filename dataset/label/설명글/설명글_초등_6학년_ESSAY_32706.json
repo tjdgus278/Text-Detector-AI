@@ -1,0 +1,360 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 친구란 없어선 않되고 정말 고마운존재라고 생각합니다.#@문장구분# 왜냐하면 친구는 나를 외롭지않게 해주고, 행복할때 두배로 행복하게 해주고 슬플때에는 위로를 해주기 때문입니다.#@문장구분# 그리고 친구는 좋은추억을 만들어주기 때문입니다.#@문장구분# 초등학생때 친구랑 게임한추억 중학생때 친구와 공부한 추억같은 사소한 추억도 어른이 되서는 아주크고 아름다운 추억이 될것입니다.#@문장구분# 또 저는 진정한 친구란 내가슬플때 같이 슬퍼해주고 기쁠때 같이 기뻐해주는 친구라고 생각합니다.#@문장구분# 또 진정한친구는 맨날 한결같고 나를 존중해주는 친구라고 생각합니다.#@문장구분# 그리고 제가 되고싶은 친구는 내 할말만 하지않고 친구에말을 귀담아 들어주는 친구가 되고싶습니다.#@문장구분# 친구를 존중해주고 친구의 말을 귀담아 듣는 그런친구 말입니다.#@문장구분# 또 친구가 나와있으면 기쁜 그런친구가 되고싶습니다.#@문장구분# 친구가 나와 이야기할때 기쁘고 나와놀때 행복한 그런 친구가 되고 싶습니다.#@문장구분# 마지막으로 서로 소통이 잘 되는 친구가 되고 싶습니다.#@문장구분# 친구가 외로울때 전화도 걸어주고 친구가 심심할때 문자로 \"뭐해?\"라고 보내주고 친구가 고민을 털어 놓으면 고민을 귀담아 듣고 같이 해결하려고 열심히 노력하는 그런 좋은 친구가 되고 싶습니다.#@문장구분# 저도 아직 완벽한 친구이긴 많이 부족하지만 한걸음씩 나아갈 것 입니다.#@문장구분# 우리모두 좋은 친구가 됩시다!!#@문장구분#",
+      "paragraph_len": 919,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.05,
+      28.5,
+      22
+    ],
+    "essay_scoreT_avg": 23.85,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.08.13",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "032",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "친구에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저는 친구란 없어선 안되고 정말 고마운 존재라고 생각합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "저는 친구란 없어선 <문법_기타>않되고 </문법_기타>정말 고마운존재라고 생각합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 친구는 나를 외롭지 않게 해주고, 행복할 때 두 배로 행복하게 해주고 슬플 때에는 위로를 해주기 때문입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 왜냐하면 친구는 나를 <문법_기타>외롭지않게 </문법_기타>해주고, 행복할때 두배로 행복하게 해주고 슬플때에는 위로를 해주기 때문입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 친구는 좋은 추억을 만들어주기 때문입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 그리고 친구는 <문법_기타>좋은추억을 </문법_기타>만들어주기 때문입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 초등학생 때 친구랑 게임한 추억 중학생 때 친구와 공부한 추억 같은 사소한 추억도 어른이 돼서는 아주 크고 아름다운 추억이 될 것입니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_기타>초등학생때 친구랑 게임한추억 중학생때 친구와 공부한 추억같은 사소한 추억도 어른이 되서는 아주크고 아름다운 추억이 될것입니다.</문법_기타></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또 저는 진정한 친구란 내가 슬플 때 같이 슬퍼해 주고 기쁠 때 같이 기뻐해 주는 친구라고 생각합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>또 저는 진정한 친구란 내가슬플때 같이 슬퍼해주고 기쁠때 같이 기뻐해주는 친구라고 생각합니다.</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또 진정한 친구는 맨날 한결같고 나를 존중해 주는 친구라고 생각합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>또 진정한친구는 맨날 한결같고 나를 존중해주는 친구라고 생각합니다.</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 제가 되고 싶은 친구는 내 할 말만 하지 않고 친구에 말을 귀담아 들어주는 친구가 되고 싶습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>그리고 제가 되고싶은 친구는 내 할말만 하지않고 친구에말을 귀담아 들어주는 친구가 되고싶습니다.</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 친구를 존중해 주고 친구의 말을 귀담아듣는 그런 친구 말입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>친구를 존중해주고 친구의 말을 귀담아 듣는 그런친구 말입니다.</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또 친구가 나와있으면 기쁜 그런 친구가 되고 싶습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 또 친구가 나와있으면 기쁜 <문법_기타>그런친구가 되고싶습니다.</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 친구가 나와 이야기할 때 기쁘고 나와 놀 때 행복한 그런 친구가 되고 싶습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>친구가 나와 이야기할때 기쁘고 나와놀때 행복한 그런 친구가 되고 싶습니다.</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 친구가 외로울 때 전화도 걸어주고 친구가 심심할 때 문자로 \"뭐해?\"라고 보내주고 친구가 고민을 털어놓으면 고민을 귀담아듣고 같이 해결하려고 열심히 노력하는 그런 좋은 친구가 되고 싶습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>친구가 외로울때 전화도 걸어주고 친구가 심심할때 문자로 \"뭐해?\"라고 보내주고 친구가 고민을 털어 놓으면 고민을 귀담아 듣고 같이 해결하려고 열심히 노력하는 그런 좋은 친구가 되고 싶습니다.</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저도 아직 완벽한 친구이긴 많이 부족하지만 한 걸음씩 나아갈 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>저도 아직 완벽한 친구이긴 많이 부족하지만 한걸음씩 나아갈 것 입니다.</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 우리 모두 좋은 친구가 됩시다!!",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>우리모두 </문법_기타>좋은 친구가 됩시다!!",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_32706",
+    "essay_prompt": " 여러분은 진정한 친구에 대해 생각해본 적이 있나요?\n\n 집에 항상 같이 가는 친구, 연락을 자주 하는 친구, 비밀을 마음껏 얘기할 수 있는 친구 등 여러 친구가 있을 것 같아요.\n\n 다만 여러 친구들 중에 어떤 친구가 나의 진정한 친구라고 할 수 있을까요? 인사만 한다고 친구하고 할 수 있을까요? 친구 중에서도 순위를 매길 수 있을까요?\n\n 여러분이 생각하는 친구에 대한 생각을 설명해주세요. 생각이 잘 나지 않는다면 친구들에게 나는 어떤 친구가 되고 싶은지를 작성해주셔도 좋아요!",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 640,
+    "essay_main_subject": "친구에 대한 본인의 생각"
+  }
+}

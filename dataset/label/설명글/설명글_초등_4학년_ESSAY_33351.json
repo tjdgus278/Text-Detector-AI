@@ -1,0 +1,387 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 살고싶은 집은 평범한 10층짜리 집입니다.#@문장구분# 전혀 평범하지 않다구요? #@문장구분#미래엔 10층짜리 전원주택이 있을 것같습니다. #@문장구분#이제부터 본격적으로 설명을 해 드리겠습니다.#@문장구분# 1층은 먼저 홀입니다.#@문장구분# 거기선 음료수를 먹을수 있습니다.#@문장구분# 간식도요.#@문장구분# 2층은 화장실입니다. #@문장구분#10층이여서 높기 때문에 화장실이 급하면 쌀수가 있기 때문입니다. #@문장구분#3층은 애완동물방입니다.#@문장구분# 인공잔디가 깔려있고 만약에 강아지를 키운다면 강아지가 놀 수 있는 미끄럼틀과 장난감등등이 있는 3층 애완동물방입니다. #@문장구분#4층은 놀이터입니다. #@문장구분#5층은 바로 수영장입니다. #@문장구분#더울 때 바다를 갈려고 멀리까지 안가고 집에서 코로나걱정없이 놀 수 있는 곳입니다.#@문장구분# 6층은 바로 도서관입니다.#@문장구분# 마음편히 공부를 하는 곳 이여서 혼자있을대는 몰래 게임이나 떠들어도 되는 마음편한 도서관입니다. #@문장구분#7층은 또 화장실인데요. #@문장구분#2층에도있는데 왜 7층에 있냐면요. #@문장구분#궁금하죠?#@문장구분# 바로 그건 10층까지 공개하고 알려드리겠습니다.#@문장구분# 8층은 부엌입니다.#@문장구분# 그치만 여기는 뷔페 음식이 준비가 되어 있어서 마음대로 골라먹을수 있는곳입니다.#@문장구분# 9층은 내방입니다.#@문장구분# 방은 그냥 평범한데 9층 내방은 좀 특이합니다.#@문장구분# 바로 비밀공간이 있기 때문입니다. #@문장구분#장롱에 바로 비밀공간이 있기 때문입니다. #@문장구분#장롱에 비밀번호가 옷 사이에 숨겨져 있는데 비밀번호를 눌르면 비밀공간이 나옵니다. #@문장구분#20층은 뷰가 좋은 곳이여서 침실입니다.#@문장구분# 7층이왜화장실 이냐면 10층 높기 때문입니다. #@문장구분#우리집 좋은 가요?#@문장구분#",
+      "paragraph_len": 1310,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.133335,
+      27.2,
+      22.733334
+    ],
+    "essay_scoreT_avg": 23.688889,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          2
+        ],
+        [
+          2,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.07.27",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "041",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "살고 싶은 집",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "내가 살고 싶은 집은 평범한 10층짜리 집입니다.",
+      "sentence_corr_reason": [
+        "띄어 쓰기 교정 필요"
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "내가 <문법_맞춤법>살고싶은</문법_맞춤법> 집은 평범한 10층짜리 집입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 전혀 평범하지 않다고요? ",
+      "sentence_corr_reason": [
+        "띄어 쓰기 교정 필요"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 전혀 평범하지<문법_맞춤법> 않다구요?</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 거기선 음료수를 먹을 수 있습니다.",
+      "sentence_corr_reason": [
+        "띄어 쓰기 교정 필요"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 거기선 음료수를 <문법_맞춤법>먹을수 </문법_맞춤법>있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "10층이어서 높기 때문에 화장실이 급하면 쌀수가 있기 때문입니다. ",
+      "sentence_corr_reason": [
+        "맞춤법 교정 필요"
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>10층이여서</문법_맞춤법> 높기 때문에 화장실이 급하면 쌀수가 있기 때문입니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "3층은 애완동물 방입니다.",
+      "sentence_corr_reason": [
+        "띄어 쓰기 교정 필요"
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "3층은 <문법_맞춤법>애완동물방입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 인공잔디가 깔려있고 만약에 강아지를 키운다면 강아지가 놀 수 있는 미끄럼틀과 장난감 등등이 있는 3층 애완동물방입니다. ",
+      "sentence_corr_reason": [
+        "띄어 쓰기 교정 필요"
+      ],
+      "sentence_id": "0011",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 인공잔디가 깔려있고 만약에 강아지를 키운다면 강아지가 놀 수 있는 미끄럼틀과 <문법_맞춤법>장난감등등이</문법_맞춤법> 있는 3층 애완동물방입니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "더울 때 바다를 갈려고 멀리까지 안 가고 집에서 코로나걱정없이 놀 수 있는 곳입니다.",
+      "sentence_corr_reason": [
+        "띄어 쓰기 교정 필요"
+      ],
+      "sentence_id": "0014",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "더울 때 바다를 갈려고 멀리까지 <문법_맞춤법>안가고</문법_맞춤법> 집에서 코로나걱정없이 놀 수 있는 곳입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "2층에도 있는데 왜 7층에 있냐면요. ",
+      "sentence_corr_reason": [
+        "띄어 쓰기 교정 필요"
+      ],
+      "sentence_id": "0018",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>2층에도있는데 </문법_맞춤법>왜 7층에 있냐면요. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 바로 그건 10층까지 공개하고 알려드리 겠습니다.",
+      "sentence_corr_reason": [
+        "띄어 쓰기 교정 필요"
+      ],
+      "sentence_id": "0020",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 바로 그건 10층까지 공개하고<문법_맞춤법> 알려드리겠습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그치만 여기는 뷔페 음식이 준비가 되어 있어서 마음대로 골라먹을 수 있는 곳입니다.",
+      "sentence_corr_reason": [
+        "띄어 쓰기 교정 필요"
+      ],
+      "sentence_id": "0022",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그치만 여기는 뷔페 음식이 준비가 되어 있어서 마음대로 골라<문법_맞춤법>먹을수 있는곳입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 방은 그냥 평범한데 9층 내방은 좀 특이 합니다.",
+      "sentence_corr_reason": [
+        "띄어 쓰기 교정 필요"
+      ],
+      "sentence_id": "0024",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 방은 그냥 평범한데 9층 내방은 좀 <문법_맞춤법>특이합니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "장롱에 바로 비밀 공간이 있기 때문입니다. ",
+      "sentence_corr_reason": [
+        "띄어 쓰기 교정 필요"
+      ],
+      "sentence_id": "0026",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "장롱에 바로 <문법_맞춤법>비밀공간이</문법_맞춤법> 있기 때문입니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "20층은 뷰가 좋은 곳 이어서 침실입니다.",
+      "sentence_corr_reason": [
+        "맞춤법, 띄어 쓰기 교정 필요"
+      ],
+      "sentence_id": "0028",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "20층은 뷰가 좋은 <문법_맞춤법>곳이여서</문법_맞춤법> 침실입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 7층이 왜 화장실 이냐면 10층 높기 때문입니다. ",
+      "sentence_corr_reason": [
+        "띄어 쓰기 교정 필요"
+      ],
+      "sentence_id": "0029",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>7층이왜화장실 이냐면</문법_맞춤법> 10층 높기 때문입니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_33351",
+    "essay_prompt": " 우리가 사는 집은 모양과 구조가 다양합니다. 방이 여러 개인 집, 거실이 큰집, 화장실이 많은 집, 주방이 화려한 집, 전등이 많이 달린 집, 깔끔한 하얀 집 같이 여러 모양이 있어요.\n\n 그리고 방마다 특징이 있을 것 같아요. 놀이방, 게임방, 잠을 자는 방, 책을 읽는 방 등등 집의 모양과 방의 쓰임새가 다양합니다.\n\n 혹시, 여러분은 미래에 자신이 살고 싶은 집을 상상해 본 적이 있나요? 내가 살고 싶은 집을 먼저 설명해보고 그 집의 특징과 구조를 자세히 설명해보세요.\n\n방은 몇 개고 색깔은 어떨 것 같고 집의 생김새는 어떠할지 마음껏 표현해주세요!",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 710,
+    "essay_main_subject": "살고 싶은 집"
+  }
+}

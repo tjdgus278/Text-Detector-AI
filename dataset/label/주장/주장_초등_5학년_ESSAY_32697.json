@@ -1,0 +1,319 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 시간을 정해서 하는것이 지금 까지 생각해봤을때 제일 나았습니다#@문장구분#   이유는 너무 핸드폰을 많이하는것은 눈건강에 좋지가 않기 때문입니다.#@문장구분# 미디어가 발전을 하면서 핸드폰, 맥북...같은 많은것들이 생기다 보니까 사람들 안 할수가없는것 같습니다#@문장구분# 할 시간을 정하고 하는것은 눈 건강에도 좋습니다#@문장구분# 어리고 핸드폰을 정해진 시간만 하는게 아니라 주체하지 못하면 부모님과 대화를하여서 이 시간부로 내가 끝 하면 뺐어줘\"라고 부모님에게 부탁 해보는것도 나쁜생각은 아닌것 같네요#@문장구분# 그리고 또 좋은방법이 있어요#@문장구분# 부모님이 출근 하실때 부모님에게 폰을 드려 안 하는것도 좋다#@문장구분# 이유는 이전꺼는 몰래 할수있는데 이 방법은 몰래하지도 못하고 폰도 안하기때문에 좋다#@문장구분#\n그래도 제일 좋은건 폰을 옆에두고  하지 않는것이다 더 하고 싶고\n그런 감정이 생기는데 어떨게 하냐면 옆에다가 두면 하고싶은 맘은 생기지만 뭔가 더 안하고싶어지는 느낌이 듣다#@문장구분# 왜냐면 안하기로 했는데 막 옆에있으니까 유혹이 오지만 그 유혹을 뿌리치고 안하고 싶어져서 가장 좋은것 같다#@문장구분# 그래서 시간 정하고 하는게 좋을것 같다",
+      "paragraph_len": 736,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      25.75,
+      19.6,
+      25.4
+    ],
+    "essay_scoreT_avg": 23.583334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          1,
+          2
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.08.06",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "032",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 3,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "미디어 발전과 사용방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저는 시간을 정해서 하는 것이 지금까지 생각해 봤을때 제일 나았습니다",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저는 시간을 정해서 <문법_맞춤법>하는것이 지금 까지 생각해봤을</문법_맞춤법>때 제일 나았습니다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "   이유는 너무 핸드폰을 많이 하는 것은 눈건강에 좋지가 않기 때문입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "   이유는 너무 핸드폰을 <문법_맞춤법>많이하는것은 </문법_맞춤법>눈건강에 좋지가 않기 때문입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 미디어가 발전을 하면서 핸드폰, 맥북...같은 많은 것들이 생기다 보니까 사람들 안 할 수가 없는 것 같습니다",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 미디어가 발전을 하면서 핸드폰, 맥북...같은 <문법_맞춤법>많은것들이</문법_맞춤법> 생기다 보니까 사람들 안 할수가없는것 같습니다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 어리고 핸드폰을 정해진 시간만 하는게 아니라 주체하지 못하면 부모님과 대화를 하여서 이 시간부로 내가 끝 하면 뺐어줘\"라고 부모님에게 부탁 해보는 것도 나쁜 생각은 아닌 것 같네요",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 어리고 핸드폰을 정해진 시간만 하는게 아니라 주체하지 못하면 부모님과<문법_맞춤법> 대화를하여서</문법_맞춤법> 이 시간부로 내가 끝 하면 뺐어줘\"라고 부모님에게 부탁 해보는것도 나쁜생각은 아닌것 같네요",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 또 좋은 방법이 있어요",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 또 <문법_맞춤법>좋은방법이</문법_맞춤법> 있어요",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 부모님이 출근 하실 때 부모님에게 폰을 드려 안 하는것도 좋다",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 부모님이 출근 <문법_맞춤법>하실때 부</문법_맞춤법>모님에게 폰을 드려 안 하는것도 좋다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이유는 이전꺼는 몰래 할 수 있는데 이 방법은  몰래 하지도 못하고 폰도 안하기때문에 좋다",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이유는 이전꺼는 몰래 <문법_맞춤법>할수있는데 이 방법은 몰래하지도</문법_맞춤법> 못하고 폰도 안하기때문에 좋다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n그래도 제일 좋은건 폰을 옆에  두고  하지 않는것이다 더 하고 싶고\n그런 감정이 생기는데 어떡해하냐면 옆에다가 두면 하고싶은 맘은 생기지만 뭔가 더 안 하고 싶어지는 느낌이 듣다",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n그래도 제일 좋은건 폰을 옆<문법_맞춤법>에두고  하지 않는것이다</문법_맞춤법> 더 하고 싶고\n그런 감정이 생기는데 어떨게 하냐면 옆에다가 두면 하고싶은 맘은 생기지만 뭔가 더 안하고싶어지는 느낌이 듣다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐면 안하기로 했는데 막 옆에 있으니까 유혹이 오지만 그 유혹을 뿌리치고 안하고 싶어져서 가장 좋은 것 같다",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐면 안하기로 했는데 막 <문법_맞춤법>옆에있으니까 </문법_맞춤법>유혹이 오지만 그 유혹을 뿌리치고 안하고 싶어져서 가장 좋은것 같다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 시간 정하고 하는게 좋을 것 같다",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0011",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 시간 정하고 하는게<문법_맞춤법> 좋을것</문법_맞춤법> 같다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_32697",
+    "essay_prompt": " 미디어는 우리 주변에서 쉽게 찾아볼 수 있습니다. 그중 텔레비전과 라디오, 컴퓨터, 스마트폰 등이 대표적인 미디어라고 할 수 있지요. 사람들은 이 미디어를 이용해 자신의 의사나 감정, 또는 정보를 주고받습니다.\n\n 과거에는 생각이나 뜻을 전하기 위해 말을 이용해 전달해야 했지만, 지금은 SNS(페이스북, 카카오톡 등)를 통해 실시간으로 대화하며 화상 채팅을 무료로 즐기는 시대가 되었습니다. 여러분도 가족/친구들과 SNS를 통해 많은 소통을 하고 계시지요?\n\n 이러한 미디어는 매우 빠른 속도로 진화를 거듭하고 있어요. 앞으로도 더욱 우리 생활 깊숙이 파고들 것입니다.\n\n 다만, 미디어의 발전은 수많은 문제의 원인이 되기도 해요. 다른 사람의 얼굴을 SNS에 올리거나 악플로 남에게 상처 되는 말을 하기도 하지요. 또한, 틀린 정보가 빠르게 퍼져 나가 사람들에게 해를 끼치기도 한답니다.\n\n 이렇게 빠르게 변화하는 미디어의 발 전속에서 우리는 어떻게 미디어를 사용해야 할까요?\n\n 인권과 미디어의 알맞은 사용을 위해 발전을 제한해야 할까요? 아니면 새로운 시대에 맞게 모든 자유를 보장해야 할까요? 그 사이에 적절한 사용 방법이 있을까요? 여러분의 의견과 작성하고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 536,
+    "essay_main_subject": "미디어 발전과 사용방법"
+  }
+}

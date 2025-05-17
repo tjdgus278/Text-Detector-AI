@@ -1,0 +1,328 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "저는 에너지를 써야된다고 생각합니다. #@문장구분#에너지는 이제 우리에게 없으면 안되는 존재입니다. #@문장구분#에너지는 생활이 편리해지게 도와주기도하고 실생활에서도 에너지가 가장 중요한 것이 되어버렸습니다. #@문장구분#물론 에너지가 환경에 해를 끼치고 문제를 초래하기도 하지만 요즘같은 때에는 에너지가 없으면 사용할 수 있는 것들이 거의 많이는 없습니다. #@문장구분#그렇기에 에너지를 아예 안쓴다고하면 우리 생활에 불편함이 생길 수 있습니다.#@문장구분# 우리 생활에 나쁜점만 있는 것도 아닙니다. #@문장구분#에너지를 사용하고 쓰는 물건들은 모두 사람들에게 필요하고 꼭 있어야하는 물건들 뿐입니다. #@문장구분#에너지를 사용하고 쓸 수 있는 물건들은 사람들에게 편리함이 되어 사용할 수 있게 해줍니다. #@문장구분#그렇기에 우리 곁에는 없으면 안되는 이유이죠. #@문장구분#에너지만이 꼭 환경에 대한 문제가 아닙니다. #@문장구분#다른 이유인 쓰레기 문제등과 같이 또 여러가지 문제들이 있습니다.#@문장구분# 사람들의 편리함에 더욱 더 발전되가는 에너지 우리 사람들 모두 에너지를 통해 편리함에 도움이 많이 됩니다. #@문장구분#그러므로 에너지는 써야합니다.",
+      "paragraph_len": 752,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20.3,
+      28.811111,
+      23.566666
+    ],
+    "essay_scoreT_avg": 24.225927,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          2,
+          3
+        ],
+        [
+          3,
+          0,
+          3,
+          2
+        ],
+        [
+          2,
+          0,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.07.27",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "041",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "찬성반대",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "에너지 절약에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "저는 에너지를 써야 된다고 생각합니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "저는 에너지를 <문법_맞춤법>써야된다고</문법_맞춤법> 생각합니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "에너지는 이제 우리에게 없으면 안 되는 존재입니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "에너지는 이제 우리에게 없으면 <문법_맞춤법>안되는</문법_맞춤법> 존재입니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "에너지는 생활이 편리해지도록 도와주기도 하고 실생활에서도 에너지가 가장 중요한 것이 되어버렸습니다. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "맞춤법"
+      ],
+      "sentence_txt": "에너지는 생활이 <문법_조사>편리해지게</문법_조사><문법_맞춤법> 도와주기도하고</문법_맞춤법> 실생활에서도 에너지가 가장 중요한 것이 되어버렸습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "물론 에너지가 환경에 해를 끼치고 문제를 초래하기도 하지만 요즘 같은 때에는 에너지가 없으면 사용할 수 있는 것들이 거의 많이는 없습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "물론 에너지가 환경에 해를 끼치고 문제를 초래하기도 하지만 <문법_맞춤법>요즘같은</문법_맞춤법> 때에는 에너지가 없으면 사용할 수 있는 것들이 거의 많이는 없습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그렇기에 에너지를 아예 안 쓴다고하면 우리 생활에 불편함이 생길 수 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그렇기에 에너지를 아예 <문법_맞춤법>안쓴다고하면</문법_맞춤법> 우리 생활에 불편함이 생길 수 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 우리 생활에 나쁜 점만 있는 것도 아닙니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 우리 생활에 <문법_맞춤법>나쁜점만</문법_맞춤법> 있는 것도 아닙니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "에너지를 사용하고 쓰는 물건들은 모두 사람들에게 필요하고 꼭 있어야 하는 물건들뿐입니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "에너지를 사용하고 쓰는 물건들은 모두 사람들에게 필요하고 꼭 <문법_맞춤법>있어야하는 물건들 뿐입니다.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그렇기에 우리 곁에는 없으면 안 되는 이유이죠. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그렇기에 우리 곁에는 없으면 <문법_맞춤법>안되는</문법_맞춤법> 이유이죠. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "다른 이유인 쓰레기 문제 등과 같이 또 여러 가지 문제들이 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "다른 이유인 쓰레기 <문법_맞춤법>문제등과</문법_맞춤법> 같이 또 여러가지 문제들이 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 사람들의 편리함에 더욱더 발전돼가는 에너지 우리 사람들 모두 에너지를 통해 편리함에 도움이 많이 됩니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 사람들의 편리함에 <문법_맞춤법>더욱 더</문법_맞춤법> 발전되가는 에너지 우리 사람들 모두 에너지를 통해 편리함에 도움이 많이 됩니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그러므로 에너지는 써야 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그러므로 에너지는 <문법_맞춤법>써야합니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_33001",
+    "essay_prompt": " 과학 발전을 통해 다양한 에너지들이 만들어지고 일상생활에 사용되고 있습니다. 대표적인 예가 원자력입니다.\n\n 원자력 발전소에서 생산되는 엄청난 양의 에너지를 통해 여러분이 핸드폰을 하고 TV를 보고 전등을 켤 수 있습니다.\n\n 하지만 원자력 발전소를 통해 에너지를 생산하는 과정에서 폭발위험과 핵폐기물로 인한 심각한 환경문제가 발생하고 있습니다.\n\n 우리가 에너지를 사용하면 사용할수록 원자력 발전소 같은 에너지를 생산할 수 있는 시설이 더욱 많이 필요할 것입니다. 이는 더 많은 환경문제를 일으키겠죠?\n\n 그렇기 때문에 더 에너지 사용을 늘리지 말자는 의견이 많이 나오고 있습니다. 생활의 편리함을 뒤로하고 에너지 절약을 먼저 하자는 의견입니다.\n\n 여러분은 편리한 생활을 줄이고 에너지를 절약하여 환경을 살리는 데 찬성하시나요? 아니면 환경보다는 지금의 편리함이 더 중요하다고 생각하시나요?  본인의 생각을 작성해주시고 그 이유에 관해 설명해주세요.",
+    "essay_type": "찬성반대",
+    "essay_level": "2",
+    "essay_len": 512,
+    "essay_main_subject": "에너지 절약에 대한 본인의 생각"
+  }
+}

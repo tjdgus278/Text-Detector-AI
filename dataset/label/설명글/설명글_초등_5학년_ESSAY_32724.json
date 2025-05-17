@@ -1,0 +1,234 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "우리 몸에서는 수 많은 세균이 삽니다.#@문장구분# 그리고 밖에서도 세균이 살죠 무려 화산에 사는 세균도 있습니다#@문장구분# 그렇지만 우리 몸에 해를 끼치는 세균도 있습니다.#@문장구분# 그런 세균은 우리 몸에 나쁜 병을 주고 살아요.#@문장구분# 그리고 그 병을 예방하려면 예방 접종 주사를 맞거나 약을 먹습니다.#@문장구분# 그렇게도 나아지지 않으면 다른 병이겠죠.#@문장구분# 그리고 세균이 우리몸에 또 어떤 영향을 주냐면, 우릴 살찌게 하고 꾀병도 할수있게 됩니다.#@문장구분# 그리고 열나면 약먹고 자는게 끝입니다.#@문장구분# 그리고 다 나으면 약먹고 또 자면 되고 열이 나는게 끝나면 학교가서 인사하면 됩니다.#@문장구분# 그리고 또 다른 위생 방법은 방역수칙을 잘 지키면 됩니다.#@문장구분# 그리고 손소독도 잘 하면 되고, 손도 잘 씻으면 되고. 해로운 세균이 못 살도록 하면 됩니다.#@문장구분# 그리고 건강하게 살면 되고 지긋지긋한 생리통고 진통제 먹으면 끝 그리고 잘살면 되겠죠??#@문장구분# 모두 모두 잘 삽시다.#@문장구분# 그럼 저의 구질구질한 이야기 잘  들어주셔서 감사합니다!!#@문장구분# 그리고 너무 날려먹은 것 같네요#@문장구분# 그럼 안녕히계세요.#@문장구분#",
+      "paragraph_len": 824,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20.333334,
+      22,
+      30
+    ],
+    "essay_scoreT_avg": 24.111113,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.02",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "032",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "위생을 지키는 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "우리 몸에서는 수많은 세균이 삽니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "우리 몸에서는 <문법_맞춤법>수 많은</문법_맞춤법> 세균이 삽니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 세균이 우리 몸에 또 어떤 영향을 주냐면, 우릴 살찌게 하고 꾀병도 할 수 있게 됩니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 세균이 <문법_맞춤법>우리몸에</문법_맞춤법> 또 어떤 영향을 주냐면, 우릴 살찌게 하고 꾀병도 할수있게 됩니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 열나면 약 먹고 자는 게 끝입니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 열나면 <문법_맞춤법>약먹고 자는게</문법_맞춤법> 끝입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 다 나으면 약 먹고 또 자면 되고 열이 나는게 끝나면 학교가서 인사하면 됩니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 다 나으면 <문법_맞춤법>약먹고</문법_맞춤법> 또 자면 되고 열이 나는게 끝나면 학교가서 인사하면 됩니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 손 소독도 잘 하면 되고, 손도 잘 씻으면 되고. 해로운 세균이 못 살도록 하면 됩니다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0011",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 <문법_맞춤법>손소독도</문법_맞춤법> 잘 하면 되고, 손도 잘 씻으면 되고. 해로운 세균이 못 살도록 하면 됩니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_32724",
+    "essay_prompt": " 건강한 몸을 만들기 위해서는 올바른 식습관과 운동뿐만 아니라 개인위생도 매우 중요합니다. 그러므로 우리는 양치도 하고 세수도 하고 샤워도 하며 우리의 몸을 항상 깨끗하게 유지하고 있지요.\n\n 청결하지 않으면 세균이 몸속으로 들어와 병에 걸릴 수도 있기 때문입니다.\n\n 여러분은 몸을 깨끗하게 하기 위해 어떻게 하고 있나요? 양치는 하루에 몇 번 하시나요? 손은 하루에 몇 번 씻으시나요?\n\n 여러분만의 위생을 지키는 방법에 대해 작성해주세요. 앞으로의 계획을 작성해주셔도 좋아요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 505,
+    "essay_main_subject": "위생을 지키는 방법"
+  }
+}

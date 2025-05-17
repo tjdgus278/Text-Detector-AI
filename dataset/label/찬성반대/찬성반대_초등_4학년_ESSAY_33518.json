@@ -1,0 +1,421 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "남한과 북한은 아직 휴전 중입니다.#@문장구분# 그런데 빨리 통일 했으면 좋겠습니다.#@문장구분# 혹시라도 휴전 중 이지만 전쟁이 시작되면 위험하기 때문에 빨리 통일 되었으면 좋겠 습니다.#@문장구분# 또 다른 이류는 통일 하면 땅이 더 커질 것입니다.#@문장구분# 또 다른 이유는 우리 나라와 북한 아이들 어른들이 한국어를 배우고 우리는 북한어를 배운다.#@문장구분# 그런데 법은 어떡해 될까?#@문장구분# 뭔가 코로나 법 빼고 살짝씩 바뀔거 같다.#@문장구분# 북한에서는 밖에서 마스크를 벗으면 총을쏴서 죽이다.#@문장구분# 그런 법도 통일 하면 사라지지 않을까?#@문장구분# 그렇지만 밖에서 마스크를 벗으면 안된다.#@문장구분# 근데 통일을 해도 그런 법이 없어 진다고 해도 코로나 일땐 밖에서 마스크를 벗으면 안된다.#@문장구분# 근데 통일을 해도 그런 법이 존재 한다면 사람들은 마스크를 끼고 다닐 것 갔다.#@문장구분# 원래 마스크를 껴야 하지만 우리나라에는 그런 법이 없으니 안끼는 사람도 많다.#@문장구분# 근데 우리나라도 코로나 법을 조금 강화 할문제가 생겼다.#@문장구분# 요새 서울 클럽 이런곳에 사람들이 많이 모이니 코로나에 걸릴수 있는 확률이 높아진다.#@문장구분# 그렇기에 코로나 법이 좀더 강회되면 좋겠다.#@문장구분# 하지만 톤일 하려면 신중하게 결정하고 통일 해야 한다.#@문장구분# 통일을 그냥 생각없이 했다가 큰일 날수 있기에 통일은 신중하게 하고 통일하면 법도 바꿀건지 생각해야 한다.#@문장구분# 통일은 신중하게 하자!#@문장구분#",
+      "paragraph_len": 1013,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.4285715,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1428573,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      15.485714,
+      25.35,
+      22.35
+    ],
+    "essay_scoreT_avg": 21.061905,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          1,
+          1,
+          2,
+          2
+        ],
+        [
+          3,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.01",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "032",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 3,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "찬성반대",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "남한과 북한의 통일에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 그런데 빨리 통일했으면 좋겠습니다.",
+      "sentence_corr_reason": [
+        "붙여쓰기가 필요"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그런데 빨리 <문법_맞춤법>통일 했으면 </문법_맞춤법>좋겠습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 혹시라도 휴전 중이지만 전쟁이 시작되면 위험하기 때문에 빨리 통일되었으면 좋겠습니다.",
+      "sentence_corr_reason": [
+        "붙여쓰기가 필요"
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 혹시라도 <문법_맞춤법>휴전 중 이지만 전쟁이 시작되면 위험하기 때문에 빨리 통일 되었으면 좋겠 습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또 다른 이류는 통일하면 땅이 더 커질 것입니다.",
+      "sentence_corr_reason": [
+        "붙여쓰기가 필요"
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 또 다른 이류는 <문법_맞춤법>통일 하면 </문법_맞춤법>땅이 더 커질 것입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그런데 법은 어떻게 될까?",
+      "sentence_corr_reason": [
+        "맞춤법 교정 필요"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그런데 법은 <문법_맞춤법>어떡해 </문법_맞춤법>될까?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 뭔가 코로나 법 빼고 살짝씩 바뀔 거 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 뭔가 코로나 법 빼고 살짝씩<문법_맞춤법> 바뀔거 </문법_맞춤법>같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 북한에서는 밖에서 마스크를 벗으면 총을 쏴서 죽인다.",
+      "sentence_corr_reason": [
+        "맞춤법 및 띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 북한에서는 밖에서 마스크를 벗으면 <문법_맞춤법>총을쏴서 죽이다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그런 법도 통일하면 사라지지 않을까?",
+      "sentence_corr_reason": [
+        "붙여쓰기가 필요"
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그런 법도 <문법_맞춤법>통일 하면</문법_맞춤법> 사라지지 않을까?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그렇지만 밖에서 마스크를 벗으면 안 된다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "묘사",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그렇지만 밖에서 마스크를 벗으면 <문법_맞춤법>안된다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "일땐이 문장 흐름상 자연스럽지 않아 시국엔으로 교정"
+      ],
+      "sentence_id": "0011",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 근데 통일을 해도 그런 법이 없어 진다고 해도 <스타일링_담화 맥락 오류>코로나 일땐 밖에서 마스크를 벗으면 안된다.</스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": " 근데 통일을 해도 그런 법이 없어 진다고 해도 코로나 시국엔 밖에서 마스크를 벗으면 안 된다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 근데 통일을 해도 그런 법이 존재 한다면 사람들은 마스크를 끼고 다닐 것 같다.",
+      "sentence_corr_reason": [
+        "맞춤법 교정 필요"
+      ],
+      "sentence_id": "0012",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 근데 통일을 해도 그런 법이 존재 한다면 사람들은 마스크를 끼고 다닐 것 <문법_맞춤법>갔다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 원래 마스크를 껴야 하지만 우리나라에는 그런 법이 없으니 안 끼는 사람도 많다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0013",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 원래 마스크를 껴야 하지만 우리나라에는 그런 법이 없으니 <문법_맞춤법>안끼는</문법_맞춤법> 사람도 많다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "맥락이 자연스럽지 않아 교정"
+      ],
+      "sentence_id": "0014",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " <스타일링_담화 맥락 오류>근데 우리나라도 코로나 법을 조금 강화 할문제가 생겼다.</스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": " 근데 우리나라도 코로나 법을 조금 강화해야 할 문제가 생겼다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 요새 서울 클럽 이런 곳에 사람들이 많이 모이니 코로나에 걸릴 수 있는 확률이 높아진다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0015",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>요새 서울 클럽 이런곳에 사람들이 많이 모이니 코로나에 걸릴수 있는 확률이 높아진다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그렇기에 코로나 법이 좀 더 강회되면 좋겠다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0016",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그렇기에 코로나 법이 <문법_맞춤법>좀더</문법_맞춤법> 강회되면 좋겠다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 통일하려면 신중하게 결정하고 통일해야 한다.",
+      "sentence_corr_reason": [
+        "맞춤법 및 띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0017",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하지만 <문법_맞춤법>톤일 하려면 신중하게 결정하고 통일 해야 한다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 통일을 그냥 생각 없이 했다가 큰일 날 수 있기에 통일은 신중하게 하고 통일하면 법도 바꿀건지 생각해야 한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기 필요"
+      ],
+      "sentence_id": "0018",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>통일을 그냥 생각없이 했다가 큰일 날수 있기에 통일은 신중하게 하고 통일하면 법도 바꿀건지 생각해야 한다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_33518",
+    "essay_prompt": " 6.25 전쟁에 대해서 여러분은 얼마나 알고 계시는가요? 1950년 6월 25일 북한의 침범으로 시작된 전쟁은 1953년 7월 27일에 끝났고, 지금까지 남과 북으로 갈라진 분단국가입니다.\n\n 우리가 사는 남한은 민주주의 국가이고 북한은 사회주의 국가입니다. 그렇기 때문에 정치, 경제, 사회, 문화적으로 지금까지 다른 길을 걸어왔습니다.\n\n 생김새도 비슷하고 사용하는 언어는 같지만, 북한에 있는 친구들은 여러분들과 생각이나 문화가 다를 수 있어요.\n\n 다만 하나의 나라였다가 분리된 만큼 다름을 인정하고 다시 하나의 국가로 통일되어야 한다고 주장하는 사람들도 많습니다.\n\n 여러분은 남한과 북한의 통일에 대해 찬성하나요? 아니면 반대하나요? 자신의 의견을 작성해보세요. 그리고 그 이유에 관해 설명해주세요.",
+    "essay_type": "찬성반대",
+    "essay_level": "2",
+    "essay_len": 633,
+    "essay_main_subject": "남한과 북한의 통일에 대한 본인의 생각"
+  }
+}

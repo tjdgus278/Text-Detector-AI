@@ -1,0 +1,309 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "최근들어 반려동물을 키우는 사람들이 매우 많아지고 있습니다. #@문장구분#하지만 반려동물을 키우려면 진짜 제발 모든걸 책임질 각오는 하고 키우세요.#@문장구분# 막 키우다가 힘들다고 버리는건 사람도 아닙니다. #@문장구분#반려동물과 입장을 바꿔 생각해보십쇼.#@문장구분# 당신들의 부모님이 당신을 키우다가 힘들다고 길바닥에 버리면 행복합니까? #@문장구분#진짜 버리는 사람들은 생각이 있습니까?#@문장구분# 그런 사람들은 버려진 반려동물보다도 못하는 사람들입니다.#@문장구분# 저도 반려견을 키우는 입장으로써 너무 화가 납니다. #@문장구분#키우시는 모든 분들은 이 것에 저와 같은 감정을 느끼기 바랍니다.#@문장구분# 반려동물중 대표적인 종류는 고양이와 강아지가 있습니다. #@문장구분#이 동물들도 다 감정이 있고 생각이 있습니다. #@문장구분#그러니 버리면 상처를 받습니다. #@문장구분#그러니 버리는 행위는 멈춰주세요!그리고 더 잔인하게 학대를 하는 사람들도 있는데 그런 사람들은 그냥 사람도 아닌 쓰레기 입니다.#@문장구분# 반려동물을 학대하지 말아주세요. #@문장구분#당신이 버리면 정말 화날것같네요. #@문장구분#제발 당신의 생각대로 말고 무조건 아이들을 보호 하세요.#@문장구분# 자신을 생각하는 것처럼 소중히 여기라고요.#@문장구분# 당신이 반려동물을 키울거면 각오를 마치고 제발 키워요.#@문장구분#",
+      "paragraph_len": 914,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2.5,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20.3,
+      27.61111,
+      22.077778
+    ],
+    "essay_scoreT_avg": 23.32963,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          2,
+          3
+        ],
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          2,
+          0,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.02",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "032",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "대안제시",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "반려동물 증가와 유기에 대한 대안제시",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "최근 들어 반려동물을 키우는 사람들이 매우 많아지고 있습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "<문법_기타>최근들어 </문법_기타>반려동물을 키우는 사람들이 매우 많아지고 있습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "하지만 반려동물을 키우려면 진짜 제발 모든 걸 책임질 각오는 하고 키우세요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "하지만 반려동물을 키우려면 진짜 제발 <문법_기타>모든걸 </문법_기타>책임질 각오는 하고 키우세요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 막 키우다가 힘들다고 버리는 건 사람도 아닙니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 막 키우다가 힘들다고 <문법_기타>버리는건 </문법_기타>사람도 아닙니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "반려동물과 입장을 바꿔 생각해 보십쇼.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "반려동물과 입장을 바꿔 <문법_기타>생각해보십쇼</문법_기타>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "키우시는 모든 분들은 이것에 저와 같은 감정을 느끼기 바랍니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "키우시는 모든 분들은 <문법_기타>이 것에</문법_기타> 저와 같은 감정을 느끼기 바랍니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 반려동물 중 대표적인 종류는 고양이와 강아지가 있습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>반려동물중 </문법_기타>대표적인 종류는 고양이와 강아지가 있습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그러니 버리는 행위는 멈춰주세요! 그리고 더 잔인하게 학대를 하는 사람들도 있는데 그런 사람들은 그냥 사람도 아닌 쓰레기입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "그러니 버리는 행위는 <문법_기타>멈춰주세요!그리고</문법_기타> 더 잔인하게 학대를 하는 사람들도 있는데 그런 사람들은 그냥 사람도 아닌 쓰레기 입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "당신이 버리면 정말 화날 것 같네요. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "당신이 버리면 정말 <문법_기타>화날것같네요</문법_기타>. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "제발 당신의 생각대로 말고 무조건 아이들을 보호하세요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "제발 당신의 생각대로 말고 무조건 아이들을 <문법_기타>보호 하세요.</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 당신이 반려동물을 키울 거면 각오를 마치고 제발 키워요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0018",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 당신이 반려동물을 <문법_기타>키울거면 </문법_기타>각오를 마치고 제발 키워요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_32736",
+    "essay_prompt": " 현대인들은 강아지나 고양이 등 다양한 반려동물을 키우며 행복과 위로를 받고 있습니다. 최근에는 반려동물을 키우는 가정의 수가 20% 증가하였다고 합니다.\n\n 하지만 정말 안타깝게도 버림받는 동물의 수도 해마다 증가하여 15%나 높아졌다고 보도되었습니다.\n\n 단순히 귀엽다는 이유로 데리고 갔지만, 막상 키우다 보니 금전적으로나 시간상으로 부담이 되는 상황이 많이 생겨 유기했다는 사람들이 많습니다. 그렇다고 해서 책임질 수 없는 반려동물들을 유기하는 행동이 옳은 것일까요? 많은 사람들이 옳지 않다고 생각할 것입니다.\n\n 그렇다면 반려동물 유기를 방지하기 위해 어떻게 해야 할까요? 반려동물을 키우는 것에 대한 자격을 강화해야 할까요? 아니면 단체를 구성해 반려동물을 키우는 사람들을 지속해서 관리해야 할까요?\n\n 반려동물 유기에 대한 자기 생각을 작성하고 반려동물 유기를 대처할 수 있는 자신만의 대안을 작성해보세요.",
+    "essay_type": "대안제시",
+    "essay_level": "2",
+    "essay_len": 554,
+    "essay_main_subject": "반려동물 증가와 유기에 대한 대안제시"
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "한국문화는 중국소수민족의 문화로 편입되기엔 대한민국에서 꽤나 오랫동안 지속되왔던 문화이다.#@문장구분# 특히 한복, 김치, 비빔밥 등은 이미 한국의 것으로 널리 알려져있어 중국소수민족의 문화로 편입되기엔 어려움이 있을 것으로 보인다.#@문장구분# 그렇다고 해서 한류 열풍을 지켜내기 위한 방안을 세우지 않고 있으면 안 된다.#@문장구분# 이에 대한 방안을 세워보도록 하자.#@문장구분#",
+      "paragraph_len": 267,
+      "paragraph_id": "001"
+    },
+    {
+      "paragraph_txt": " 첫 번째로, 대한민국의 유명인, 대한민국하면 곧바로 떠오르는 인물을 통해 한국 문화를 한국 것이라 확인화 시키는 것이다.#@문장구분# 예를 들어서 K-pop을 대표하는 아이돌인 방탄소년단을 떠올려보자.#@문장구분# 여러 방면으로 한국 문화를 알릴 수 있는 방법이 있을 것이다.#@문장구분# 자체 제작 콘텐츠에서 한국의 문화를 알린다거나, 한국 문화를 기반으로한 TV프로그램에 출연하는 등 다양한 방법이 있다.#@문장구분# 이렇게 하였을 때 팬들은 한국하면 떠오르는 문화가 있을 것이다.#@문장구분#",
+      "paragraph_len": 344,
+      "paragraph_id": "002"
+    },
+    {
+      "paragraph_txt": " 두 번째는 한국 문화를 지키는 캠페인, 챌린지이다.#@문장구분# 중국소수민족의 한류문화 편입이 화제가 될 때 이러한 캠페인, 챌린지를 하는 것도 나쁘지 않다고 생각했다.#@문장구분# 각국의 세력을 가진 높은 신문의 사람들끼리 문제를 해결하지 않아도, 대중성 있는 캠페인, 챌린지 만으로도 문제에 대한 대한민국 국민들의 생각을 표출하기엔 어려움이 없다.#@문장구분#",
+      "paragraph_len": 243,
+      "paragraph_id": "003"
+    },
+    {
+      "paragraph_txt": " 이처럼 대한민국에는 대한민국 고유의 문화가 있다.#@문장구분# 그리고 이와 같이 중국소수민족도 그들만의 문화가 있을 것이다.#@문장구분# 본국의 문화를 지켜내는 것도 중요하겠지만 , 결국엔 문화의 정체성, 중요성을 깨닫는 것이 제일 중요하다.#@문장구분# 중국소수민족도 자신들의 문화 정체성을 알고 다른 나라의 문화를 뺏으려는 것이 아닌, 자신들만의 문화를 차즘차즘 만들어가길 바라는 바이다.#@문장구분#",
+      "paragraph_len": 279,
+      "paragraph_id": "004"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 3,
+        "paragraph_id": "001"
+      },
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 3,
+        "paragraph_id": "002"
+      },
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 3,
+        "paragraph_id": "003"
+      },
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 3,
+        "paragraph_id": "004"
+      }
+    ],
+    "essay_scoreT": [
+      29.11111,
+      29.11111,
+      28.51111
+    ],
+    "essay_scoreT_avg": 28.91111,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          3,
+          0,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.07.26",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "041",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "대안제시",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "한류를 지키는 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_33450",
+    "essay_prompt": " 한류(韓流)는 한국의 대중문화, 즉 한국에서 제작된 영화, 방송, 음악, 패션 등이 해외에서 인기리에 소비되는 문화적 현상입니다. 넓은 의미로는 의·식·주 등 한국 문화 전체를 말하기도 합니다.\n\n 하지만, 최근 중국은 한류의 문화적 경제적 파급력에 주목하며 동북공정의 일환으로 한복, 김치, 비빔밥, 쌈 문화 등을 중국 소수민족의 문화로 편입시키려 하고 있습니다.\n\n SNS에 한국 사람이 한국적인 것을 올리면 '중국의 전통을 대신 알려줘서 고맙다.'던가 '중국의 전통을 마음대로 한국의 것이라 하지 말아라.'라는 댓글을 달고 있습니다.\n\n 중국 방송에서까지 이를 주제로 다루며 한국의 문화와 전통을 중국의 문화라고 주장하고 있습니다.\n\n 이러한 억지 주장을 우리가 가만히 있으면 중국이 그만둘까요? 우리는 중국의 행동에 어떻게 대처해야 할까요?\n\n UN이나 국제적인 기관에 중국의 억지 주장에 대해 호소할 수도 있고, 인터넷상에서 중국인들과 끊임없이 논쟁할 수도 있습니다.\n\n 여러분은 이러한 현상에 대해 어떻게 생각하며 한국문화로서 한류 열풍을 지켜내기 위한 방안이 어떤 것이 있다고 생각하시나요? 본인의 생각을 작성해주세요.",
+    "essay_type": "대안제시",
+    "essay_level": "2",
+    "essay_len": 823,
+    "essay_main_subject": "한류를 지키는 방법"
+  }
+}

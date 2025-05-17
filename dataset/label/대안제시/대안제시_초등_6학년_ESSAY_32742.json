@@ -1,0 +1,352 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "반려동물을 살때에는 꼭 생각하고사야 합니다.#@문장구분# 그냥 아무책임없이 사고 질리면버리는 그런장남감이 아닌 살아있는 생명 입니다. #@문장구분#강아지는 아프면 병월을 데려가야 하고 그런게 귀찮거나 아까우면 아에 분양하지 마세요.#@문장구분# 강아지입장은 테어나자마자 유리 공간않에 같히고 자신을 키워줄 집사많을 찾고 있습니다.#@문장구분# 하지만 거이 귀여워서 아무 준비도 않하고 대리고오는경우가 있는대 거이대부분 강아지는 버려짐니다.#@문장구분# 자신이 힘들다고, 짔는다고, 귀찮다고 버리면 그작고 힘없는 강아지들은 동물보호소로 가게 돼지많 만약거기서 1년 안에 입양가지못하면 안락사 시킴니다. #@문장구분#이세상에 태어 나고 이렇게 비참한 최후를 마지하는 강아지들(유기견) 이레도 생각한번 해보지않고 버리실건가요?#@문장구분# 물론 강아지가 살고는 있는대 죽은것같이 생활하는 강아지들도 있습니다.#@문장구분# 어느지역에서는 유기견을 줄이기위해 강아지를 대리고있는많큼 돈을주는 곳이있는대 돈에만 집착 하는 어떠 사람들때문에 그사람들은 동물 많이 밭기위해 강하지를 입양 하지만 강아지를 방치 하고 밥도 안주고 만약그 강아지중에 죽게된다면 어다에 라가버리고 묻고 태우고 그강아지는 아무것도 바라지 않습니다.#@문장구분# 오직 자신을 먹여주고 재원주고 하는 집사를 찼 습니다. #@문장구분#그강아지들도 평범 하게 살수있습니다.#@문장구분#",
+      "paragraph_len": 836,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20.3,
+      20,
+      20.3
+    ],
+    "essay_scoreT_avg": 20.199999,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          2,
+          3
+        ],
+        [
+          2,
+          0,
+          2,
+          2
+        ],
+        [
+          2,
+          0,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.02",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "032",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "대안제시",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "반려동물 증가와 유기에 대한 대안제시",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "반려동물을 살 때에는 꼭 생각하고 사야 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "반려동물을 <문법_기타>살때에는 </문법_기타>꼭 생각하고사야 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그냥 아무 책임 없이 사고 질리면 버리는 그런 장난감이 아닌 살아있는 생명입니다. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": " 그냥 <문법_기타>아무책임없이 </문법_기타>사고 질리면버리는 <문법_맞춤법>그런장남감이 </문법_맞춤법>아닌 살아있는 생명 입니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "강아지는 아프면 병원을 데려가야 하고 그런 게 귀찮거나 아까우면 아예 분양하지 마세요.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "강아지는 아프면 <문법_맞춤법>병월을 </문법_맞춤법>데려가야 하고 <문법_기타>그런게 </문법_기타>귀찮거나 아까우면 아에 분양하지 마세요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 강아지 입장은 태어나자마자 유리 공간 안에 갇히고 자신을 키워줄 집사만을찾고 있습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_기타>강아지입장은 </문법_기타><문법_맞춤법>테어나자마자 </문법_맞춤법>유리 공간않에 같히고 자신을 키워줄 집사많을 찾고 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 거의 귀여워서 아무 준비도 안하고 데리고 오는 경우가 있는대 거의 대부분 강아지는 버려집니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": " 하지만 <문법_기타>거이 </문법_기타>귀여워서 아무 준비도 않하고 대리고오는경우가 있는대 거이대부분 강아지는 <문법_맞춤법>버려짐니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 자신이 힘들다고, 짖는다고, 귀찮다고 버리면 그 작고 힘없는 강아지들은 동물보호소로 가게 되지만 만약 거기서 1년 안에 입양 가지 못하면 안락사 시킵니다. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 자신이 힘들다고, <문법_맞춤법>짔는다고</문법_맞춤법>, 귀찮다고 버리면 <문법_기타>그작고 </문법_기타>힘없는 강아지들은 동물보호소로 가게 돼지많 만약거기서 1년 안에 입양가지못하면 안락사 시킴니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "이 세상에 태어나고 이렇게 비참한 최후를 맞이하는 강아지들(유기견) 이래도 생각 한번 해보지 않고 버리실 건가요?",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_기타>이세상에 </문법_기타>태어 나고 이렇게 비참한 최후를 <문법_맞춤법>마지하는 </문법_맞춤법>강아지들(유기견) 이레도 생각한번 해보지않고 버리실건가요?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 물론 강아지가 살고는 있는대 죽은 것 같이 생활하는 강아지들도 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 물론 강아지가 살고는 있는대 <문법_기타>죽은것같이 </문법_기타>생활하는 강아지들도 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 어느 지역에서는 유기견을 줄이기 위해 강아지를 데리고 있는 만큼돈을 주는 곳이 있는데 돈에만 집착하는 어떠 사람들 때문에 그 사람들은 동물 많이 밭기 위해 강하지를 입양하지만 강아지를 방치하고 밥도 안 주고 만약 그 강아지 중에 죽게 된다면 어다에 라가 버리고 묻고 태우고 그 강아지는 아무것도 바라지 않습니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " <문법_기타>어느지역에서는 </문법_기타>유기견을 줄이기위해 강아지를 <문법_맞춤법><문법_어미>대리고있는많큼 </문법_어미></문법_맞춤법>돈을주는 곳이있는대 돈에만 집착 하는 어떠 사람들때문에 그사람들은 동물 많이 밭기위해 강하지를 입양 하지만 강아지를 방치 하고 밥도 안주고 만약그 강아지중에 죽게된다면 어다에 라가버리고 묻고 태우고 그강아지는 아무것도 바라지 않습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 오직 자신을 먹여주고 재워 주고 하는 집사를 찼 습니다. ",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 오직 자신을 먹여주고 <문법_맞춤법><문법_기타>재원주고 </문법_기타></문법_맞춤법>하는 집사를 찼 습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그 강아지들도 평범하게 살 수 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "<문법_기타>그강아지들도 </문법_기타>평범 하게 살수있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_32742",
+    "essay_prompt": " 현대인들은 강아지나 고양이 등 다양한 반려동물을 키우며 행복과 위로를 받고 있습니다. 최근에는 반려동물을 키우는 가정의 수가 20% 증가하였다고 합니다.\n\n 하지만 정말 안타깝게도 버림받는 동물의 수도 해마다 증가하여 15%나 높아졌다고 보도되었습니다.\n\n 단순히 귀엽다는 이유로 데리고 갔지만, 막상 키우다 보니 금전적으로나 시간상으로 부담이 되는 상황이 많이 생겨 유기했다는 사람들이 많습니다. 그렇다고 해서 책임질 수 없는 반려동물들을 유기하는 행동이 옳은 것일까요? 많은 사람들이 옳지 않다고 생각할 것입니다.\n\n 그렇다면 반려동물 유기를 방지하기 위해 어떻게 해야 할까요? 반려동물을 키우는 것에 대한 자격을 강화해야 할까요? 아니면 단체를 구성해 반려동물을 키우는 사람들을 지속해서 관리해야 할까요?\n\n 반려동물 유기에 대한 자기 생각을 작성하고 반려동물 유기를 대처할 수 있는 자신만의 대안을 작성해보세요.",
+    "essay_type": "대안제시",
+    "essay_level": "2",
+    "essay_len": 616,
+    "essay_main_subject": "반려동물 증가와 유기에 대한 대안제시"
+  }
+}

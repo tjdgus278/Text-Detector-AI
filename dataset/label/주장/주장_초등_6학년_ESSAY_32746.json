@@ -1,0 +1,390 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "폭력은 신체적인 폭력뿐 아니라 정신적인 폭력도 있고 미다니의 박달로인해 정신적 폭력이 요즘 사회에 많이 나타나고 있습니다.#@문장구분# 폭력을 당한 피해자의 입장은 어떠한지 폭력을 예방하기 위해서는 어떻게 해야 하냐면 폭력 예방을 할려면 학교 폭력을 하면안되게 지시하고 친구들에게 철저하게 해하면서 폭력은 당하지 않게 조심합니다.#@문장구분# 학교폭력 프로잭트를 만들어 사이버 폭력 언어폭력 신체적 폭력을 교육시켜 전새게 어린이들에게 공붑하게 하고 가정 에서도 추히하게 합시다#@문장구분# 요즘 가정 폭력도 늘어나고 있다고 합니다.#@문장구분# 뉴스에 브엉 가정폭련 으로 인해 아니들이 죽고있습니다#@문장구분# 그걸 막기위해 가정폭력을 예방ㅌ사다#@문장구분# 첫째: 가정폭력을 당하면 신고부터 한고 도움을 욘청한다.#@문장구분# 112나 119에전화 한다.#@문장구분# 둘째 가정 폭력을 당하면 경찰에 말하거나 선생님 한테 말하고 도움요청 하기#@문장구분#셋째 가정 폭력을당하면 가만이 있지 말고 도움 청하 고 숨어있기로합시다.#@문장구분# 넷째 폭력을 당하면 신고하고 자세한 상황설명하고 기다림니다.#@문장구분# 그러면 폭력을 안당할수 있습니다.#@문장구분# 그리고 폭력예방을 하기위해서는 가족들은 아이를 다치게하지말고 친구들은 아이들을 왕따시키지 말기#@문장구분# 그리고, 사이버 폭력을 당할것같으면 채팅방에서 나가고 신고하기 그것들만 잘지키면 폭력예방을 할수있습니다#@문장구분# 폭력이 없는 세상을 만듭시다.",
+      "paragraph_len": 917,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23.3,
+      18.5,
+      20.3
+    ],
+    "essay_scoreT_avg": 20.699999,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          2,
+          3
+        ],
+        [
+          2,
+          0,
+          2,
+          2
+        ],
+        [
+          2,
+          0,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.08.24",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "032",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "폭력 예방 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "폭력은 신체적인 폭력뿐 아니라 정신적인 폭력도 있고 미디어의 발달로인해 정신적 폭력이 요즘 사회에 많이 나타나고 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "폭력은 신체적인 폭력뿐 아니라 정신적인 폭력도 있고 <문법_맞춤법>미다니의 박달</문법_맞춤법>로인해 정신적 폭력이 요즘 사회에 많이 나타나고 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 폭력을 당한 피해자의 입장은 어떠한지 폭력을 예방하기 위해서는 어떻게 해야 하냐면 학교 폭력을 하면 안되게 지시하고 친구들에게 철저하게 하면서 폭력은 당하지 않게 조심합니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "맞춤법"
+      ],
+      "sentence_txt": " 폭력을 당한 피해자의 입장은 어떠한지 <스타일링_담화 맥락 오류>폭력을 예방하기 위해서는 어떻게 해야 하냐면 폭력 예방을 할려면</스타일링_담화 맥락 오류> 학교 폭력을 <문법_맞춤법>하면안되게</문법_맞춤법> 지시하고 친구들에게 철저하게 해하면서 폭력은 당하지 않게 조심합니다.",
+      "sentence_corr_txt_styling": " 폭력을 당한 피해자의 입장은 어떠한지 폭력을 예방하기 위해서는 어떻게 해야 하냐면 학교 폭력을 하면 안되게 지시하고 친구들에게 철저하게 하면서 폭력은 당하지 않게 조심합니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 학교폭력 프로젝트를 만들어 사이버 폭력 언어폭력 신체적 폭력을 교육해 전 세계 어린이들에게 공부하게 하고 가정에서도 실천하게 합시다",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 학교폭력 <문법_맞춤법>프로잭트</문법_맞춤법>를 만들어 사이버 폭력 언어폭력 신체적 폭력을 <문법_조사>교육시켜</문법_조사> 전새게 어린이들에게 공붑하게 하고 가정 에서도 <스타일링_담화 맥락 오류>추히하게 합시다</스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": " 학교폭력 프로젝트를 만들어 사이버 폭력 언어폭력 신체적 폭력을 교육해 전 세계 어린이들에게 공부하게 하고 가정에서도 실천하게 합시다",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 뉴스에 부모의 가정폭력 으로 인해 아이들이 죽고 있습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "맞춤법"
+      ],
+      "sentence_txt": " 뉴스에 <스타일링_담화 맥락 오류>브엉 가정폭련</스타일링_담화 맥락 오류> 으로 인해 <문법_맞춤법>아니들이</문법_맞춤법> 죽고있습니다",
+      "sentence_corr_txt_styling": " 뉴스에 부모의 가정폭력 으로 인해 아이들이 죽고 있습니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 그걸 막기위해 가정폭력을 <스타일링_담화 맥락 오류>예방ㅌ사다</스타일링_담화 맥락 오류>",
+      "sentence_corr_txt_styling": " 그걸 막기위해 가정폭력을 예방해야 합니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 첫째: 가정폭력을 당하면 신고부터 한고 도움을 요청한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 첫째: 가정폭력을 당하면 신고부터 한고 도움을 <문법_맞춤법>욘청</문법_맞춤법>한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 112나 119에 전화한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 112나 <문법_맞춤법>119에전화 한다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 둘째, 가정 폭력을 당하면 경찰에 말하거나 선생님한테 말하고 도움 요청하기",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": " <스타일링_기타>둘째 </스타일링_기타>가정 폭력을 당하면 경찰에 말하거나 <문법_맞춤법>선생님 한테</문법_맞춤법> 말하고 도움요청 하기",
+      "sentence_corr_txt_styling": " 둘째, 가정 폭력을 당하면 경찰에 말하거나 선생님한테 말하고 도움 요청하기",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "셋째, 가정폭력을 당하면 가만이 있지 말고 도움을 청하고 숨어있기로합시다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": "<스타일링_기타>셋째</스타일링_기타> <문법_맞춤법>가정 폭력을당하면</문법_맞춤법> 가만이 있지 말고 <문법_조사>도움 청하 고</문법_조사> 숨어있기로합시다.",
+      "sentence_corr_txt_styling": "셋째, 가정폭력을 당하면 가만이 있지 말고 도움을 청하고 숨어있기로합시다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 넷째 폭력을 당하면 신고하고 자세한 상황 설명하고 기다립니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 넷째 폭력을 당하면 신고하고 자세한 <문법_맞춤법>상황설명하고</문법_맞춤법> 기다림니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러면 폭력을 안 당할 수 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그러면 폭력을 <문법_맞춤법>안당할수</문법_맞춤법> 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 폭력을 예방 하기 위해서는 가족들이 아이를 다치게 하지 말고 친구들은 서로 왕따시키지 말아야 합니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "담화 맥락 오류",
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": " 그리고 <스타일링_담화 맥락 오류>폭력예방을</스타일링_담화 맥락 오류> <문법_맞춤법>하기위해서는</문법_맞춤법> <문법_조사>가족들은</문법_조사> 아이를 다치게하지말고 친구들은 아이들을 왕따시키지 말기",
+      "sentence_corr_txt_styling": " 그리고 폭력을 예방 하기 위해서는 가족들이 아이를 다치게 하지 말고 친구들은 서로 왕따시키지 말아야 합니다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고  사이버 폭력을 당할 것 같으면 채팅방에서 나가고 신고하기를 누르면 됩니다. 그것들만 잘 지키면 폭력을 예방 할 수 있습니다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법",
+        "담화 맥락 오류"
+      ],
+      "sentence_txt": " 그리고<문법_기타>,</문법_기타> 사이버 폭력을 <문법_맞춤법>당할것같으면</문법_맞춤법> 채팅방에서 나가고 <스타일링_담화 맥락 오류>신고하기</스타일링_담화 맥락 오류> 그것들만 잘지키면 폭력예방을 할수있습니다",
+      "sentence_corr_txt_styling": " 그리고  사이버 폭력을 당할 것 같으면 채팅방에서 나가고 신고하기를 누르면 됩니다. 그것들만 잘 지키면 폭력을 예방 할 수 있습니다.",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_32746",
+    "essay_prompt": " 요즘 학교에서는 신체적인 폭력뿐만 아니라 미디어 발달로 인한 사이버 폭력과 언어폭력이 점점 많아지고 있습니다.\n\n 또한, 학교폭력 피해를 본 학생의 나이가 점점 낮아지고 있어 심각한 사회적 문제로 나타나고 있습니다.\n\n 학교폭력을 예방하기 위해 노력을 많이 하고 있지만 제대로 해결되지 않는다는 의견이 많습니다.\n\n 한쪽에서는 학교폭력을 일으킨 학생에 대한 처벌을 더욱 강력하게 하자는 의견이 있습니다. 더 나아가 폭력에 한에서는 법을 개편해서 청소년 보호법이 아닌 강력한 법을 시행하자는 의견도 있습니다.\n\n 다른 쪽에서는 학생에 대한 처벌보다 보호자에 대한 처벌을 강화하는 의견을 제시하기도 합니다.\n\n 학교 폭력을 예방하는 방법과 대처하는 방법은 다양합니다. 학교 폭력을 줄일 수 있는 방법에 대한 자기 생각을 작성해주세요. 그리고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 638,
+    "essay_main_subject": "폭력 예방 방법"
+  }
+}

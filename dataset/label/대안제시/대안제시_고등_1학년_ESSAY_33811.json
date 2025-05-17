@@ -1,0 +1,280 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "앞에서 문제상황으로 제시했던 김주희 대표의 남성 혐오뿐만 아니라 다양한 혐오표현들도 아직 사용되고 있다.#@문장구분# 작년 6월에는 10대 백인들이 아시아인 소년에게 \"암덩어리 중국인\"이라는 혐오표현을 했으며 작년 7월에는 프랑스에서 한국인 유학생이 비하발언에 대한 사과를 요구했는데 칼에 찔려 상처를 입은 사례도 있었다고 한다.#@문장구분# 그렇다보니 뉴스에 빈번하게 오르락 내리락하는 주제 중 하나로 혐오표현이 포함되어 있다.#@문장구분# 혐오표현의 사전적 의미는 \"싫어하고 미워함\"을 뜻한다.#@문장구분# 혐오표현도 표현 중의 하나이기 때문에 자유를 억압한다는 주장도 있었지만 여성, 장애인, 난민 등 사회적 약자가 그를 통해 받는 충격과 상처 등을 고려한다면 그럴 수는 없겠지만 최대한 줄여야 한다.#@문장구분#",
+      "paragraph_len": 467,
+      "paragraph_id": "001"
+    },
+    {
+      "paragraph_txt": "첫 번째 해결방안으로는 전 세계적으로 인권비하금지 법제화를 해야한다.#@문장구분# 혐오표현 사례로 우리가 외국인을 코로나19로 인해 더 차별하며 비하발언을 쓰기도 하고 외국인이 한국인에게 혐오표현이나 비하발언을 하는 경우도 있었기 때문이다.#@문장구분#",
+      "paragraph_len": 167,
+      "paragraph_id": "002"
+    },
+    {
+      "paragraph_txt": "두 번째 해결방안으로는 대중교통에 혐오표현의 심각성이나 사례를 포함해서 만든 포스터를 붙이거나 영상을 재생해주는 것이다.#@문장구분# 요즘 말을 할 때 자신도 모르게 그런 말들을 많이 하면서도 알아차리지 못한다고 하기 때문에 출퇴근시간이 짧더라도 그 시간에 그 심각성을 파악할 수 있을 것이기 때문이다.#@문장구분#",
+      "paragraph_len": 202,
+      "paragraph_id": "003"
+    },
+    {
+      "paragraph_txt": "마지막으로는 학교에서 교육을 해주고 O,X 퀴즈나 포스트잇 골라서 버리는 게임을 하는 것이다.#@문장구분# 아직 혐오표현이 얼마나 안좋은 표현이며 남에게 상처를 주는 표현인지 인지를 아직 못한 학생들에게 재밌는 게임들과 같이 교육을 해준다면 지루하지 않은 방식으로 기억에 남도록 할 수 있을 것 같기 때문이다.#@문장구분#",
+      "paragraph_len": 206,
+      "paragraph_id": "004"
+    },
+    {
+      "paragraph_txt": "혐오표현이 자신은 가볍게 던진 말일지라도 상대방에게는 큰 상처로 남을 수 있기 때문에 빨리 좋은 방향으로 해결되었으면 좋겠다.#@문장구분#",
+      "paragraph_len": 90,
+      "paragraph_id": "005"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          2.2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              2,
+              2
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.7333333,
+        "paragraph_id": "001"
+      },
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          2.6
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              2
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.8666668,
+        "paragraph_id": "002"
+      },
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          2.4
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              2,
+              3,
+              2
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.8,
+        "paragraph_id": "003"
+      },
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          2.6
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              2,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.8666668,
+        "paragraph_id": "004"
+      },
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              2,
+              2,
+              2
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.6666667,
+        "paragraph_id": "005"
+      }
+    ],
+    "essay_scoreT": [
+      24.099998,
+      24.5,
+      21.5
+    ],
+    "essay_scoreT_avg": 23.366667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          2,
+          3
+        ],
+        [
+          2,
+          0,
+          2,
+          3
+        ],
+        [
+          2,
+          0,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          1,
+          2
+        ],
+        [
+          3,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          2
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.07",
+    "student_educated": true,
+    "student_grade": "고등_1학년",
+    "location": "051",
+    "student_grade_group": "고등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "고등_1학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 6,
+      "org_coherence": 3,
+      "org_quantity": 1
+    },
+    "essay_type": "대안제시",
+    "content_weight": {
+      "con_clearance": 3,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 3
+    },
+    "essay_main_subject": "혐오시설 건설문제에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 4,
+      "exp_grammar": 2,
+      "exp_vocab": 4,
+      "exp": 3
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_33811",
+    "essay_prompt": " 혐오 시설이란 지역 주민에게 공포감이나 고통을 주거나, 주변 지역의 쾌적성이 훼손됨으로써 집값이나 땅값이 내려가는 등 부정적인 외부효과를 유발하는 시설을 의미합니다.\n\n 대표적인 혐오 시설에는 쓰레기 매립장, 원자력발전소, 소각장, 유류저장소 등이 있습니다.\n\n 매립지, 소각장, 쓰레기 하치장 같은 혐오 시설은 그리 위험하지는 않지만, 쓰레기를 취급한다는 점에서 혐오감을 주며, 주변 환경오염 문제가 갈등을 일으킵니다. 특히 소각장은 인구밀도가 높은 대도시에 건설된다는 점에서 반대 운동이 일기도 합니다.\n\n 그런데 서로 반대만 하다 보면 입지를 찾지 못해 결국 모든 주민의 삶의 질이 저하될 수 있습니다.\n\n 정부 차원에서 가장 적절한 장소를 선별하여 건설 후 주변 사람들에게 혜택을 주는 방식이 적절한 방법일까요? 아니면 혐오 시설만을 모아둔 부지를 따로 정해서 건설해야 할까요? 아니면 모든 도시가 공평하게 혐오 시설 건설에 대한 부담을 지니고 하나씩 건설해야 할까요?\n\n 모두가 만족할만한 결과를 내기란 정말 어려운 문제이지만 여러분이 생각하는 가장 합리적이고 좋은 방법을 생각해보세요. 그리고 그 방법을 대안으로 제시하고 그 근거에 대해 작성해주세요.",
+    "essay_type": "대안제시",
+    "essay_level": "1",
+    "essay_len": 901,
+    "essay_main_subject": "혐오시설 건설문제에 대한 본인의 생각"
+  }
+}

@@ -1,0 +1,336 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "우리에게 학습과 여가활동의 시간 비율은 무척 중요합니다.#@문장구분# 저는 얼마나 학습과 여가활동을 하는지 알려드리겠습니다.#@문장구분# 먼저 학습시간은 2시간 55분입니다.#@문장구분# 여가활동시간은 약 3시간13분입니다.#@문장구분# 여가활동은 3시간13분 보다 많은 시간이 있을 때도 있습니다.#@문장구분# 공부보다 쉬는게 좋기 때문입니다.#@문장구분# 학습시간엔 학원에서 135분 동안 공부하고 학습지를 40분 동안 합니다.#@문장구분# 여가활동은 핸드폰보고 피아노 치고 노는 것등등이 끝입니다.#@문장구분# 학습활동과 여가활동이 적절히 이루어 지고있진 않습니다.#@문장구분# 학습활동을 할 때 학습지를 안푸는 일이 더욱 많습니다.#@문장구분# 왜냐하면 학원에서 공부를 많이 해서 힘든데 또하니 더욱 힘들기 때문입니다.#@문장구분# 여가활동도 적절히 이루어 지진 않습니다.#@문장구분# 계속 빈둥거리며 놀고 운동은 절대로 하지 않습니다.#@문장구분# 우리는 어느 정도 학습활동과 여가활동을 해야하는지 생각을 해보았습니다.#@문장구분# 학습활동은 약1시간정도 하는게 나을것 같습니다.#@문장구분# 너무 많이 하면 힘들어 집중력이 떨어질것 같기 때문입니다.#@문장구분# 여가활동은 50분 정도가 적당할것 같습니다.#@문장구분#",
+      "paragraph_len": 853,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.4285715,
+          2,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.4761906,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26.114285,
+      20,
+      26.733334
+    ],
+    "essay_scoreT_avg": 24.28254,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.07.28",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "041",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "학습과 여가활동",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": " 여가활동 시간은 약 3시간 13분입니다.",
+      "sentence_corr_reason": [
+        "띄어 쓰기 교정 필요"
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>여가활동시간은 약 3시간13분입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 여가활동은 3시간 13분 보다 많은 시간이 있을 때도 있습니다.",
+      "sentence_corr_reason": [
+        "띄어 쓰기 교정 필요"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 여가활동은 3<문법_맞춤법>시간13분</문법_맞춤법> 보다 많은 시간이 있을 때도 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 공부보다 쉬는 게 좋기 때문입니다.",
+      "sentence_corr_reason": [
+        "띄어 쓰기 교정 필요"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 공부보다 <문법_맞춤법>쉬는게</문법_맞춤법> 좋기 때문입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 여가활동은 핸드폰 보고 피아노 치고 노는 것 등등이 끝입니다.",
+      "sentence_corr_reason": [
+        "띄어 쓰기 교정 필요"
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 여가활동은 <문법_맞춤법>핸드폰보고</문법_맞춤법> 피아노 치고 노는 것등등이 끝입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 학습활동과 여가활동이 적절히 이루어지고있진 않습니다.",
+      "sentence_corr_reason": [
+        "띄어 쓰기 교정 필요"
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 학습활동과 여가활동이 적절히 <문법_맞춤법>이루어 지고있진</문법_맞춤법> 않습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 학습활동을 할 때 학습지를 안 푸는 일이 더욱 많습니다.",
+      "sentence_corr_reason": [
+        "띄어 쓰기 교정 필요"
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 학습활동을 할 때 학습지를 <문법_맞춤법>안푸는</문법_맞춤법> 일이 더욱 많습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 학원에서 공부를 많이 해서 힘든데 또 하니 더욱 힘들기 때문입니다.",
+      "sentence_corr_reason": [
+        "띄어 쓰기 교정 필요"
+      ],
+      "sentence_id": "0011",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐하면 학원에서 공부를 많이 해서 힘든데 <문법_맞춤법>또하니</문법_맞춤법> 더욱 힘들기 때문입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 우리는 어느 정도 학습활동과 여가활동을 해야 하는지 생각을 해보았습니다.",
+      "sentence_corr_reason": [
+        "띄어 쓰기 교정 필요"
+      ],
+      "sentence_id": "0014",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 우리는 어느 정도 학습활동과 여가활동을 <문법_맞춤법>해야하는지</문법_맞춤법> 생각을 해보았습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 학습활동은 약 1시간 정도 하는 게 나을 것 같습니다.",
+      "sentence_corr_reason": [
+        "띄어 쓰기 교정 필요"
+      ],
+      "sentence_id": "0015",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 학습활동은 <문법_맞춤법>약1시간정도 하는게 나을것 같습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 너무 많이 하면 힘들어 집중력이 떨어질 것 같기 때문입니다.",
+      "sentence_corr_reason": [
+        "띄어 쓰기 교정 필요"
+      ],
+      "sentence_id": "0016",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 너무 많이 하면 힘들어 집중력이 <문법_맞춤법>떨어질것</문법_맞춤법> 같기 때문입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 여가활동은 50분 정도가 적당 할 것 같습니다.",
+      "sentence_corr_reason": [
+        "띄어 쓰기 교정 필요"
+      ],
+      "sentence_id": "0017",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 여가활동은 50분 정도가 <문법_맞춤법>적당할것</문법_맞춤법> 같습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_33349",
+    "essay_prompt": " 우리에게는 새로운 지식을 배우는 학습활동도 중요하지만, 친구들과 놀이터를 가거나 책을 읽거나 운동을 하는 여가생활이 있어야 행복함을 더 크게 느낄 수 있습니다. 여기서 여가생활이란 게임, 운동, 책 읽기, 영상보기 등의 자신이 즐거운 활동을 말해요.\n\n 여러분도 각자의 즐거움을 위해 여러 가지 여가생활을 보내고 있으신가요?\n\n 그렇다면 여러분은 하루에 몇 시간씩 학습활동과 여가활동을 하고 있나요? 그리고 어떤 여가활동을 하나요? 나의 학습활동과 여가활동에서 고쳐야 할 점은 무엇인가요? 3가지 물음에 대해 본인의 상황을 설명해주세요.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 514,
+    "essay_main_subject": "학습과 여가활동"
+  }
+}

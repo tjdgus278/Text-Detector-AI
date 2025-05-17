@@ -1,0 +1,280 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "만약, 당신의 집 옆에 쓰레기 매립지를 만든다고 하면 당신은 어떤 반응을 보일까요?#@문장구분# 그 사실이 너무 기뻐 좋아할까요?#@문장구분# 예전부터 지금도 여전히 쓰레기 매립지, 소각장, 원자력 발전소에 대한 인식은 좋지 않습니다.#@문장구분# 하지만 우리는 그것들 없이 살기 어렵습니다.#@문장구분# 어떻게 하면 이것들을 해결할 수 있을까요?#@문장구분#",
+      "paragraph_len": 266,
+      "paragraph_id": "001"
+    },
+    {
+      "paragraph_txt": " 첫째, 저는 입주민이나 아파트관리자에게 더욱 공론화하였으면 좋겠다.#@문장구분# 대전의 어떤 아파트에서는 입주민들이 입주 취소를 할까 두려워 아파트회사가 몰래 일을 진행하고자 했습니다.#@문장구분# 원래 아파트 옆 쓰레기 매립지도 싫었는데 거기에다가 몰래 일을 추진하는 것은 서로에게 예의가 아닙니다.#@문장구분# 더 자세하고 오랫동안 계획을 주고받고, 최대한 믿음을 주면 이 공론화 계획은 쓰레기 매립지를 아파트 옆에 설치해도 되게끔 만들 수 있습니다.#@문장구분#",
+      "paragraph_len": 314,
+      "paragraph_id": "002"
+    },
+    {
+      "paragraph_txt": "두 번째, 시설관리에 더욱 신경을 쓰는 것입니다.#@문장구분# 우리가 쓰레기 매립을 생각하면 떠오르는 부정적인 생각은 부실한 시설입니다.#@문장구분# 매립시설을 쾌적하게 지을 수는 없어도 불쾌감을 덜 일으키도록 짓고자 노력해야 합니다.#@문장구분# ",
+      "paragraph_len": 178,
+      "paragraph_id": "003"
+    },
+    {
+      "paragraph_txt": "세 번째, 안좋은 물질을 최소화하는 것입니다.#@문장구분# 쓰레기를 소각하면 '다이옥산'과 같은 좋지 않은 물질들이 많이 나옵니다.#@문장구분# 우리가 생활하면 어쩔 수 없이 쓰레기를 처리해야 하는데 이 쓰레기를 아파트 옆에서 처리하는 불안감과 위험으로 모두들 꺼려합니다.#@문장구분# 그러한 위험물질을 덜 위험하게 처리할 수 있는 방법을 고안하면 쓰레기 매립지를 설치하는 것이 안전문제에서 덜 꺼려질 것입니다.#@문장구분#",
+      "paragraph_len": 289,
+      "paragraph_id": "004"
+    },
+    {
+      "paragraph_txt": " 우리가 만든 쓰레기는 우리가 처리해야 하고 줄여나가기 위해 노력을 해야 합니다.#@문장구분# 땅이 있는 한 더 많은 아파트들이 만들어질 것이고 아파트 옆 쓰레기 매립지는 당연해질 것입니다.#@문장구분#그러므로 아파트 옆 쓰레기 매립지는 설치되어야 합니다.#@문장구분#",
+      "paragraph_len": 189,
+      "paragraph_id": "005"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 3,
+        "paragraph_id": "001"
+      },
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 3,
+        "paragraph_id": "002"
+      },
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 3,
+        "paragraph_id": "003"
+      },
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 3,
+        "paragraph_id": "004"
+      },
+      {
+        "paragraph_scoreT": [
+          3,
+          2.6,
+          2.6
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              3
+            ],
+            [
+              3,
+              3,
+              2
+            ],
+            [
+              3,
+              2,
+              3
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.7333333,
+        "paragraph_id": "005"
+      }
+    ],
+    "essay_scoreT": [
+      27.2,
+      23,
+      28.4
+    ],
+    "essay_scoreT_avg": 26.199999,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          2,
+          0,
+          2,
+          2
+        ],
+        [
+          3,
+          0,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          2
+        ],
+        [
+          3,
+          3,
+          3
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.07",
+    "student_educated": true,
+    "student_grade": "고등_1학년",
+    "location": "051",
+    "student_grade_group": "고등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "고등_1학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 6,
+      "org_coherence": 3,
+      "org_quantity": 1
+    },
+    "essay_type": "대안제시",
+    "content_weight": {
+      "con_clearance": 3,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 3
+    },
+    "essay_main_subject": "혐오시설 건설문제에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 4,
+      "exp_grammar": 2,
+      "exp_vocab": 4,
+      "exp": 3
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_33807",
+    "essay_prompt": " 혐오 시설이란 지역 주민에게 공포감이나 고통을 주거나, 주변 지역의 쾌적성이 훼손됨으로써 집값이나 땅값이 내려가는 등 부정적인 외부효과를 유발하는 시설을 의미합니다.\n\n 대표적인 혐오 시설에는 쓰레기 매립장, 원자력발전소, 소각장, 유류저장소 등이 있습니다.\n\n 매립지, 소각장, 쓰레기 하치장 같은 혐오 시설은 그리 위험하지는 않지만, 쓰레기를 취급한다는 점에서 혐오감을 주며, 주변 환경오염 문제가 갈등을 일으킵니다. 특히 소각장은 인구밀도가 높은 대도시에 건설된다는 점에서 반대 운동이 일기도 합니다.\n\n 그런데 서로 반대만 하다 보면 입지를 찾지 못해 결국 모든 주민의 삶의 질이 저하될 수 있습니다.\n\n 정부 차원에서 가장 적절한 장소를 선별하여 건설 후 주변 사람들에게 혜택을 주는 방식이 적절한 방법일까요? 아니면 혐오 시설만을 모아둔 부지를 따로 정해서 건설해야 할까요? 아니면 모든 도시가 공평하게 혐오 시설 건설에 대한 부담을 지니고 하나씩 건설해야 할까요?\n\n 모두가 만족할만한 결과를 내기란 정말 어려운 문제이지만 여러분이 생각하는 가장 합리적이고 좋은 방법을 생각해보세요. 그리고 그 방법을 대안으로 제시하고 그 근거에 대해 작성해주세요.",
+    "essay_type": "대안제시",
+    "essay_level": "1",
+    "essay_len": 866,
+    "essay_main_subject": "혐오시설 건설문제에 대한 본인의 생각"
+  }
+}

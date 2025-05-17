@@ -1,0 +1,416 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "친구란 자기편을들어주고 같이놀아 주고 즐거울땐 같이웃고 슬플땐 같이울어주고 하는것 이 베스트프렌즈 이다#@문장구분#.\n하지만 그런 베프와 도 싸울수 있습니다.#@문장구분# 왜냐면 의견때문에 싸울수도 있고 여러가지 이유가 있습니다.#@문장구분# 친구는 좋은 것입니다,#@문장구분# 친구를 사귀면 좋는이유를 말해드리죠 친구를 사귀면 사교성이 활발해 집니다.#@문장구분# 친구가 많으면 우리가흔이 말하는 인싸가됄수도 있음니다.#@문장구분# 친구가 많으면 같이 놀사람도많아지고 어떤친구와 싸웠을때 가끔 자기편을 들어주는친구도 많기때문 임니다.#@문장구분# 이래서친구를많이 사귀면 좋은 이유에대해서 알아보았 습니다.#@문장구분# 친구를 사귀는 빕법 일단은 평범하게 안녕 이라고 인사 하뒤 혹시 같이놀지않을래?#@문장구분# 아님 나도 같이놀아도 되냐고물은뒤 그친구와 같이놀며 유대감을 쌌습니다,#@문장구분# 많약 그친구가 집에 가봐야 한다고 하면 전화번호를 뭇습니다.#@문장구분# 만약그친구가 전화번호 를주면이미 70%는친구가 됀겁니다.#@문장구분# 나머지 30%는 같이놀면 됌니다.#@문장구분# 만약 그친구가 전화가 없다면 언제다시 만나자고 약속을 잡고 같이만나 놀면돼는대 만약 자기가 일이생기면 친구가 됄수 없습니다.#@문장구분# 내가 약속시간을 늦거나 그친구가늦어도 친구가 돼지못할수 있음니다.#@문장구분# 친구가돼려면 약속을 잘지켜야하고 비밀도 잘지켜주어야 친구가 됄수있읍니다.#@문장구분#",
+      "paragraph_len": 928,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2.5,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      23.55,
+      28.4,
+      21.05
+    ],
+    "essay_scoreT_avg": 24.333334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.02",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "032",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "친구에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "친구란 자기편을 들어주고 같이 놀아 주고 즐거울 땐 같이 웃고 슬플 땐 같이 울어주고 하는 것 이 베스트 프렌즈이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "<문법_기타>친구란 자기편을들어주고 같이놀아 주고 즐거울땐 같이웃고 슬플땐 같이울어주고 하는것 이 베스트프렌즈 이다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": ".\n하지만 그런 베프와 도 싸울 수 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": ".\n하지만 그런 베프와 도 <문법_기타>싸울수 </문법_기타>있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐면 의견 때문에 싸울 수도 있고 여러 가지 이유가 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>왜냐면 의견때문에 싸울수도 있고 여러가지 이유가 있습니다.</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 친구를 사귀면 좋은 이유를 말해드리죠 친구를 사귀면 사교성이 활발해집니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 친구를 사귀면 <문법_맞춤법><문법_기타>좋는이유를 </문법_기타></문법_맞춤법>말해드리죠 친구를 사귀면 사교성이 활발해 집니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 친구가 많으면 우리가 흔히 말하는 인싸가 될 수도 있습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": " 친구가 많으면 <문법_기타>우리가흔이 </문법_기타>말하는 <문법_맞춤법>인싸가됄수도 있음니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 친구가 많으면 같이 놀 사람도 많아지고 어떤 친구와 싸웠을 때 가끔 자기편을 들어주는 친구도 많기 때문입니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_기타>친구가 많으면 같이 놀사람도많아지고 어떤친구와 싸웠을때 가끔 자기편을 들어주는친구도 많기때문 임니다.</문법_기타></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이래서 친구를 많이 사귀면 좋은 이유에 대해서 알아보았습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>이래서친구를많이 </문법_기타>사귀면 좋은 이유에대해서 알아보았 습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 친구를 사귀는 방법 일단은 평범하게 안녕이라고 인사 한 뒤 혹시 같이 놀지 않을래?",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 친구를 사귀는 <문법_맞춤법>빕법 </문법_맞춤법>일단은 평범하게 <문법_기타>안녕 이라고</문법_기타> 인사 하뒤 혹시 같이놀지않을래?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 아님 나도 같이 놀아도 되냐고 물은 뒤 그 친구와 같이 놀며 유대감을 쌌습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>아님 나도 같이놀아도 되냐고물은뒤 그친구와 같이놀며 유대감을 쌌습니다,</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 만약 그 친구가 집에 가봐야 한다고 하면 전화번호를 묻습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_기타>많약 그친구가 집에 가봐야 한다고 하면 전화번호를 뭇습니다.</문법_기타></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 만약 그 친구가 전화번호를 주면 이미 70%는친구가 된 겁니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>만약그친구가 </문법_기타>전화번호 를주면이미 70%는친구가 됀겁니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나머지 30%는 같이 놀면 됩니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 나머지 30%는 <문법_맞춤법><문법_기타>같이놀면 됌니다.</문법_기타></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 만약 그 친구가 전화가 없다면 언제 다시 만나자고 약속을 잡고 같이 만나 놀면 되는 대 만약 자기가 일이 생기면 친구가 될 수 없습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_기타>만약 그친구가 전화가 없다면 언제다시 만나자고 약속을 잡고 같이만나 놀면돼는대 만약 자기가 일이생기면 친구가 됄수 없습니다.</문법_기타></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내가 약속시간을 늦거나 그 친구가 늦어도 친구가 돼지 못할 수 있습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 내가 약속시간을 늦거나 <문법_맞춤법><문법_기타>그친구가늦어도 친구가 돼지못할수 있음니다.</문법_기타></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 친구가 되려면 약속을 잘 지켜야 하고 비밀도 잘 지켜주어야 친구가 될 수 있습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_기타>친구가돼려면 약속을 잘지켜야하고 비밀도 잘지켜주어야 친구가 됄수있읍니다.</문법_기타></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_32702",
+    "essay_prompt": " 여러분은 진정한 친구에 대해 생각해본 적이 있나요?\n\n 집에 항상 같이 가는 친구, 연락을 자주 하는 친구, 비밀을 마음껏 얘기할 수 있는 친구 등 여러 친구가 있을 것 같아요.\n\n 다만 여러 친구들 중에 어떤 친구가 나의 진정한 친구라고 할 수 있을까요? 인사만 한다고 친구하고 할 수 있을까요? 친구 중에서도 순위를 매길 수 있을까요?\n\n 여러분이 생각하는 친구에 대한 생각을 설명해주세요. 생각이 잘 나지 않는다면 친구들에게 나는 어떤 친구가 되고 싶은지를 작성해주셔도 좋아요!",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 608,
+    "essay_main_subject": "친구에 대한 본인의 생각"
+  }
+}

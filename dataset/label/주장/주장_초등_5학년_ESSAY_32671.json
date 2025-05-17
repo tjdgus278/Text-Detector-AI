@@ -1,0 +1,263 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "지금 보다 더 편리하게 사용할수있는 미디어가 나와서 지금보다 더 빠르게 쓸수있는 미디어가 생기면 좋겠다#@문장구분# 예 를 들면 스마트폰 보단 크지만 크기를 줄여서 휴대용으로 가지고 다니면서 원하는 사람에게 바로 말할수있는 미디어하고 그사람에게 말하면 자신이말한 사람에게 자신의 이름과 자신이 한말들이 대상에게 바로가서 대상도말할수 있는 미디어 등등 빨리더 발전한 미디어가 나와서 해외에 있는지인이나 지금 미디어 보다 빠르게 쓸수있는 날이 조금이라도 더빨리 쓸수있는날이 오면 좋겠다#@문장구분# 그리고 몇년 몇칠 쯤에 발전됀 미디어를팔거나 어떻게쓰고 쓰면 좋은지도 알고싶다#@문장구분# 일단 지금미디어 보단 2배~3배 쓰기 좋거나 지금 있는미디어 들 보다만 좋으면 좋을겄같다#@문장구분# 그리고 그 미디어 들을쓰면 어떤길이 생길지도 알고싶다#@문장구분# 그리고또 미디어를 사용하고 있는사람에게 협박을 하거나 협박을하라고협박을하라고 하지도 않아서 쓸데 마음이 편하게하고 미디어를 잘 활용 해서 미디어를 만드는 사람이 더 좋은미디어 를 만들면좋겠다#@문장구분# 그리고 마지막으로 옆에있는사람 에게는 미디어를 사용하면 안돼겠다#@문장구분#",
+      "paragraph_len": 669,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          1,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              1,
+              1,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 1.6666666,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.95,
+      10,
+      22.4
+    ],
+    "essay_scoreT_avg": 18.116667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          1,
+          0,
+          0,
+          1
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          2,
+          2
+        ],
+        [
+          1,
+          1,
+          1,
+          1
+        ],
+        [
+          3,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          1,
+          1,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.07.26",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "041",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 3,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "미디어 발전과 사용방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "지금 보다 더 편리하게 사용할수있는 미디어가 나와서 지금보다 더 빠르게 쓸수있는 미디어가 생기면 좋겠다 예 를 들면 스마트폰 보단 크지만 크기를 줄여서 휴대용으로 가지고 다니면서 원하는 사람에게 바로 말할수있는 미디어하고 그사람에게 말하면 자신이말한 사람에게 자신의 이름과 자신이 한말들이 대상에게 바로가서 대상도말할수 있는 미디어 등등 빨리더 발전한 미디어가 나와서 해외에 있는지인이나 지금 미디어 보다 빠르게 쓸수있는 날이 조금이라도 더빨리 쓸수있는날이 오면 좋겠다 그리고 몇년 몇칠 쯤에 발전됀 미디어를팔거나 어떻게쓰고 쓰면 좋은지도 알고싶다 일단 지금미디어 보단 2배~3배 쓰기 좋거나 지금 있는미디어 들 보다만 좋으면 좋을겄같다 그리고 그 미디어 들을쓰면 어떤길이 생길지도 알고싶다 그리고또 미디어를 사용하고 있는사람에게 협박을 하거나 협박을하라고협박을하라고 하지도 않아서 쓸데 마음이 편하게하고 미디어를 잘 활용 해서 미디어를 만드는 사람이 더 좋은미디어 를 만들면좋겠다 그리고 마지막으로 옆에있는사람 에게는 미디어를 사용하면 안돼겠다"
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "지금 보다 더 편리하게 <문법_기타>사용할수있는 미디어가 나와서 지금보다 더 빠르게 쓸수있는</문법_기타> 미디어가 생기면 좋겠다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>예 를 들면 스마트폰 보단 크지만 크기를 줄여서 휴대용으로 가지고 다니면서</문법_기타> 원하는 사람에게 바로 말할수있는 미디어하고 그사람에게 말하면 자신이말한 사람에게 자신의 이름과 자신이 한말들이 대상에게 바로가서 대상도말할수 있는 미디어 등등 빨리더 발전한 미디어가 나와서 해외에 있는지인이나 지금 미디어 보다 빠르게 쓸수있는 날이 조금이라도 더빨리 쓸수있는날이 오면 좋겠다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 <문법_맞춤법>몇년 몇칠 쯤에 발전됀 미디어를팔거나 어떻게쓰고 쓰면 좋은지도 알고싶다</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 일단 지금<문법_맞춤법>미디어 보단 2배~3배 쓰기 좋거나 지금 있는미디어 들 보다만 좋으면 좋을겄같다</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 그리고 그 <문법_기타>미디어 들을쓰면 어떤길이 생길지도 알고싶다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 그리고<문법_기타>또 미디어를 사용하고 있는사람에게 협박을 하거나 협박을하라고협박을하라고 하지도 않아서 쓸데 마음이 편하게하고 미디어를 잘 활용 해서 미디어를 만드는 사람이 더 좋은미디어 를 만들면좋겠다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>그리고 마지막으로 옆에있는사람 에게는 미디어를 사용하면 안돼겠다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_32671",
+    "essay_prompt": " 미디어는 우리 주변에서 쉽게 찾아볼 수 있습니다. 그중 텔레비전과 라디오, 컴퓨터, 스마트폰 등이 대표적인 미디어라고 할 수 있지요. 사람들은 이 미디어를 이용해 자신의 의사나 감정, 또는 정보를 주고받습니다.\n\n 과거에는 생각이나 뜻을 전하기 위해 말을 이용해 전달해야 했지만, 지금은 SNS(페이스북, 카카오톡 등)를 통해 실시간으로 대화하며 화상 채팅을 무료로 즐기는 시대가 되었습니다. 여러분도 가족/친구들과 SNS를 통해 많은 소통을 하고 계시지요?\n\n 이러한 미디어는 매우 빠른 속도로 진화를 거듭하고 있어요. 앞으로도 더욱 우리 생활 깊숙이 파고들 것입니다.\n\n 다만, 미디어의 발전은 수많은 문제의 원인이 되기도 해요. 다른 사람의 얼굴을 SNS에 올리거나 악플로 남에게 상처 되는 말을 하기도 하지요. 또한, 틀린 정보가 빠르게 퍼져 나가 사람들에게 해를 끼치기도 한답니다.\n\n 이렇게 빠르게 변화하는 미디어의 발 전속에서 우리는 어떻게 미디어를 사용해야 할까요?\n\n 인권과 미디어의 알맞은 사용을 위해 발전을 제한해야 할까요? 아니면 새로운 시대에 맞게 모든 자유를 보장해야 할까요? 그 사이에 적절한 사용 방법이 있을까요? 여러분의 의견과 작성하고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 529,
+    "essay_main_subject": "미디어 발전과 사용방법"
+  }
+}

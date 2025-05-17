@@ -1,0 +1,538 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "미래에는 엄청난 일들이 벌어질것같다.#@문장구분# 예를들어 과학기술이 발달되어 사람 대신에 로봇이 만들어져서 일을 할것같다.#@문장구분# 그리고 사람들의 생활이 더 편리해질것같다.#@문장구분# 로봇이 만들어진다면 다양한 직업도 많이 줄어들 것 같다.#@문장구분# 그러면 사람들이 점점 개을러질수도 있을 것 같다.#@문장구분# 그리고 안좋은 예를 갇고 오자면, 환경오염이 심해져서 바다와 숲이 다 없어질 것 같다.#@문장구분# 그리고 식량이 떨어져 벌레만 먹을 것 같다.#@문장구분# 그러다 벌레까지 다 떨어지면 더 이상 미래에 지구에는 사람이 살수없을 것 같다.#@문장구분# 다른 예를 들면 만약 미래에 지구가 멸망하더라도 우리는 화성으로 가서 살것같다.#@문장구분# 화성에서 눈도 발견되었다고 하니, 미래에는 화성에서도 살수있을것같다.#@문장구분# 또 생각이 났다#@문장구분# 내가 소설을 보다가 태양은 5억년 뒤에 없어진다는 가설을 보았다.#@문장구분# 그래서 내 생각에는 미래에 지구는 태양이 없어져서 멸망할 것 이다.#@문장구분# 블랙홀이 태양을 흡수해 태양이 없어지거나...#@문장구분# 생각만해도 너무 무섭다.#@문장구분# 미래에는 어떻게 될지 너무 궁금하다.#@문장구분# 그리고 아이언맨처럼 슈트를 만들어 자동차 대신 이동수단으로 쓸것같다.#@문장구분# 정말 편할것같다.#@문장구분# 그리고 순간이동 장치가 생겨 어디로든 이동할수 있을것같다.#@문장구분# 정말 대단할것 같다.#@문장구분# 그리고 미래에는 직업이 없어질것 같다.#@문장구분# 아까도 말했지만 직업도 없어지면서 로봇이 생활을 정복해 지구에는 사람 대신 로봇이 세상을 정복할것같다.#@문장구분# 이것도 미래에는 지구가 멸망한다는 소리다.#@문장구분# 이번에는 코로나 이야기다.#@문장구분# 요즘 시대에 코로나가 점점 심해지면서 많은 사람들이 아파하고 있다.#@문장구분# 내가 생각하기에 미래에는 좀비가 나올것같다.#@문장구분# 환견오염, 바이러스, 사회문제 등들 때문에 좀비가 나올것같다.#@문장구분# 코로나좀비라든지,#@문장구분# 나는 좀비가 나라도 이상하지 않을것같다.#@문장구분# 코로나바이러스가 더욱 강해져 좀비바이러스로 변할것같다.#@문장구분# 지금까지 내가 생각하는 미래에대해 생각해보았다.#@문장구분#",
+      "paragraph_len": 1516,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          2.5
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.5,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.05,
+      26.9,
+      26.4
+    ],
+    "essay_scoreT_avg": 24.783333,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          2,
+          3,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.16",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "033",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "글짓기",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "미래 도시에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "미래에는 엄청난 일들이 벌어질 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "미래에는 엄청난 일들이 <문법_맞춤법>벌어질것같다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 예를들어 과학기술이 발달되어 사람 대신에 로봇이 만들어져서 일을 할 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 예를들어 과학기술이 발달되어 사람 대신에 로봇이 만들어져서 일을 <문법_맞춤법>할것같다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 사람들의 생활이 더 편리해질 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 사람들의 생활이 더 <문법_맞춤법>편리해질것같다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 로봇이 만들어진다면 직업도 많이 줄어들 것 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 로봇이 만들어진다면 <문법_기타>다양한 직업도</문법_기타> 많이 줄어들 것 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러면 사람들이 점점 게을러질 수도 있을 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기, 맞춤법"
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그러면 사람들이 점점 <문법_맞춤법>개을러질수도</문법_맞춤법> 있을 것 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 안좋은 예를 들자면, 환경오염이 심해져서 바다와 숲이 다 없어질 것 같다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 그리고 안좋은 예를 <문법_기타>갇고 오자면</문법_기타>, 환경오염이 심해져서 바다와 숲이 다 없어질 것 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그러다 벌레까지 다 떨어지면 더 이상 미래에 지구에는 사람이 살 수 없을 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그러다 벌레까지 다 떨어지면 더 이상 미래에 지구에는 사람이 <문법_맞춤법>살수없을</문법_맞춤법> 것 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 만약 미래에 지구가 멸망하더라도 우리는 화성으로 가서 살 것 같다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_기타>다른 예를 들면 만약</문법_기타> 미래에 지구가 멸망하더라도 우리는 화성으로 가서 <문법_맞춤법>살것같다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 화성에서 눈도 발견되었다고 하니, 미래에는 화성에서도 살 수 있을 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 화성에서 눈도 발견되었다고 하니, 미래에는 화성에서도 <문법_맞춤법>살수있을것같다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또 생각이 났다.",
+      "sentence_corr_reason": [
+        "문장부호"
+      ],
+      "sentence_id": "0011",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 또 생각이 <문법_기타>났다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <스타일링_기타>내가 소설을 보다가 태양은</스타일링_기타> 5억년 뒤에 없어진다는 가설을 보았다.",
+      "sentence_corr_txt_styling": " 나는 태양이 5억년 뒤에 없어진다는 가설을 보았다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 블랙홀이 태양을 흡수해 태양이 없어질 수도 있다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미",
+        "기타"
+      ],
+      "sentence_txt": " 블랙홀이 태양을 흡수해 태양이 <문법_어미><문법_기타>없어지거나...</문법_기타></문법_어미>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 아이언맨처럼 슈트를 만들어 자동차 대신 이동수단으로 쓸 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0017",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 아이언맨처럼 슈트를 만들어 자동차 대신 이동수단으로 <문법_맞춤법>쓸것같다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 정말 편할 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0018",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 정말 <문법_맞춤법>편할것같다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 순간이동 장치가 생겨 어디로든 이동할 수 있을 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0019",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 순간이동 장치가 생겨 어디로든 <문법_맞춤법>이동할수 있을것같다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 정말 대단할 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0020",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 정말 <문법_맞춤법>대단할것</문법_맞춤법> 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 미래에는 직업이 없어질 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0021",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그리고 미래에는 직업이 <문법_맞춤법>없어질것</문법_맞춤법> 같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 아까도 말했지만 직업이 없어지면서 로봇이 생활을 정복해 지구에는 사람 대신 로봇이 세상을 정복할 것 같다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0022",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "맞춤법"
+      ],
+      "sentence_txt": " 아까도 말했지만 <문법_조사>직업도</문법_조사> 없어지면서 로봇이 생활을 정복해 지구에는 사람 대신 로봇이 세상을 <문법_맞춤법>정복할것같다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 내가 생각하기에 미래에는 좀비가 나올 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0026",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 내가 생각하기에 미래에는 좀비가 <문법_맞춤법>나올것같다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 환경오염, 바이러스, 사회문제 등 때문에 좀비가 나올 것 같다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0027",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_기타>환견오염</문법_기타>, 바이러스, 사회문제 <문법_맞춤법>등들</문법_맞춤법> 때문에 좀비가 나올것같다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나는 좀비가 나라도 이상하지 않을 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0029",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 나는 좀비가 나라도 이상하지 <문법_맞춤법>않을것같다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 코로나바이러스가 더욱 강해져 좀비바이러스로 변할 것 같다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0030",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 코로나바이러스가 더욱 강해져 좀비바이러스로 <문법_맞춤법>변할것같다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 지금까지 내가 생각하는 미래에 대해 정리해보았다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0031",
+      "sentence_annotation_tag": "불필요",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 지금까지 내가 생각하는 <문법_맞춤법>미래에대해</문법_맞춤법> <문법_기타>생각해보았다</문법_기타>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_33474",
+    "essay_prompt": " 미래의 도시는 어떤 모습일까요?\n\n 기술의 발전으로 인해 자동차가 하늘을 날아다니고 사람들은 로봇과 자연스럽게 대화하며 지낼까요?\n\n 아니면 더 이상의 환경 파괴를 하지 말자고 결정되어 기계를 줄이고 숲과 동물들과 함께 어울려 살아가게 될까요?\n\n 외계인과 소통하는 세계가 되어있을 수도 있겠네요!\n\n 자신이 생각하는 미래 도시의 이름을 지어주세요. 그리고 미래 도시의 모습을 상상하여 자유롭게 작성해주세요. 그렇게 생각한 이유를 작성해주면 더욱더 좋을 것 같아요.",
+    "essay_type": "글짓기",
+    "essay_level": "2",
+    "essay_len": 898,
+    "essay_main_subject": "미래 도시에 대한 본인의 생각"
+  }
+}

@@ -1,0 +1,337 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "한류를 중국으로부터 지키려면 먼저 나자신부터 한국의 문화를 잘 알아야 한다고 생각한다.#@문장구분# 나자신부터 한국의 문화를 잘 알아야 다른사람들에게 한국의 문화를 널리 알릴수 있기 때문이다.#@문장구분# 한국의 문화를 전세계에 널리 알리면서 한복, 김치, 비빔밥, 쌈문화 등이 한국의 문화라는 것을 전세계 사람들에게 분명하게 알린다.#@문장구분# 전세계 사람들에게 한국의 문화를 알리는 방법은 몇가지 있다.#@문장구분# 가장 첫번째 방법은 유튜브를 통해 전세계 사람들에게 한국의 문화를 알리는 방법이다.#@문장구분# 유튜브는 전세계 사람들이 사용하는 어플리케이션이기 때문에 유튜브에 한국의 문화를 알리는 영상을 만들어 올리면 전세계 사람들이 그 영상을 보고 한국의 문화에 대해서 잘 알게 될것이다.#@문장구분# 또다른 방법으로는 한국의 문화와 관련된 게임을 만드는 것이다.#@문장구분# 게임하는 것을 좋아하는 사람들은 게임에서 이기기 위해 자신이 한국의 문화 중에 모르는 것이 있다면 인터넷이나 책을 찾아볼것이다.#@문장구분# 인터넷과 책 등을 활용해 한국의 문화에 대해 찾아본다면 사람들은 한국의 문화를 잘 알게 될것이다.#@문장구분# 하지만 이런 방법들을 현실에 실행하려면 나자신이 먼저 한국의 문화를 잘알아야 한다.#@문장구분# 잘못된 한국의 문화를 사람들에게 알려주면 안되기 때문이다.#@문장구분# 우리 모두가 한국의 문화에 대해 잘 알고 소중히 여기면 한류를 지킬수 있을것이다.#@문장구분#",
+      "paragraph_len": 884,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.333332,
+      29.1,
+      22.52222
+    ],
+    "essay_scoreT_avg": 24.318518,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          2,
+          2
+        ],
+        [
+          3,
+          0,
+          2,
+          2
+        ],
+        [
+          2,
+          0,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.07.26",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "041",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "대안제시",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "한류를 지키는 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "한류를 중국으로부터 지키려면 먼저 나 자신부터 한국의 문화를 잘 알아야 한다고 생각한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "한류를 중국으로부터 지키려면 먼저 <문법_맞춤법>나자신부터</문법_맞춤법> 한국의 문화를 잘 알아야 한다고 생각한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나 자신부터 한국의 문화를 잘 알아야 다른 사람들에게 한국의 문화를 널리 알릴 수 있기 때문이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>나자신부터</문법_맞춤법> 한국의 문화를 잘 알아야 다른사람들에게 한국의 문화를 널리 알릴수 있기 때문이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 한국의 문화를 전 세계에 널리 알리면서 한복, 김치, 비빔밥, 쌈문화 등이 한국의 문화라는 것을 전세계 사람들에게 분명하게 말해야 한다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "스타일링"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 한국의 문화를 <문법_맞춤법>전세계에</문법_맞춤법> 널리 알리면서 한복, 김치, 비빔밥, 쌈문화 등이 한국의 문화라는 것을 전세계 사람들에게 분명하게 <스타일링_기타>알린다</스타일링_기타>.",
+      "sentence_corr_txt_styling": " 한국의 문화를 전 세계에 널리 알리면서 한복, 김치, 비빔밥, 쌈문화 등이 한국의 문화라는 것을 전세계 사람들에게 분명하게 말해야 한다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 전 세계 사람들에게 한국의 문화를 알리는 방법은 몇 가지가 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "조사"
+      ],
+      "sentence_txt": " <문법_맞춤법>전세계</문법_맞춤법> 사람들에게 한국의 문화를 알리는 방법은 <문법_조사>몇가지</문법_조사> 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 첫 번째 방법은 유튜브를 통해 전 세계 사람들에게 한국의 문화를 알리는 방법이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>가장 첫번째</문법_맞춤법> 방법은 유튜브를 통해 전세계 사람들에게 한국의 문화를 알리는 방법이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 유튜브는 전세계 사람들이 사용하는 어플리케이션이기 때문에 유튜브에 한국의 문화를 알리는 영상을 만들어 올리면 전세계 사람들이 그 영상을 보고 한국의 문화에 대해서 잘 알게될 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 유튜브는 전세계 사람들이 사용하는 어플리케이션이기 때문에 유튜브에 한국의 문화를 알리는 영상을 만들어 올리면 전세계 사람들이 그 영상을 보고 한국의 문화에 대해서 잘 <문법_맞춤법>알게 될것이다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또 다른 방법으로는 한국의 문화와 관련된 게임을 만드는 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>또다른</문법_맞춤법> 방법으로는 한국의 문화와 관련된 게임을 만드는 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 게임하는 것을 좋아하는 사람들은 게임에서 이기기 위해 자신이 한국의 문화 중에 모르는 것이 있다면 인터넷이나 책을 찾아볼 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 게임하는 것을 좋아하는 사람들은 게임에서 이기기 위해 자신이 한국의 문화 중에 모르는 것이 있다면 인터넷이나 책을 <문법_맞춤법>찾아볼것이다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 인터넷과 책 등을 활용해 한국의 문화에 대해 찾아본다면 사람들은 한국의 문화를 잘 알게 될 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 인터넷과 책 등을 활용해 한국의 문화에 대해 찾아본다면 사람들은 한국의 문화를 잘 알게 <문법_맞춤법>될것이다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만 이런 방법들을 실행하려면 나 자신이 먼저 한국의 문화를 잘 알아야 한다.",
+      "sentence_corr_reason": [
+        "",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "맞춤법"
+      ],
+      "sentence_txt": " 하지만 이런 방법들을 <스타일링_기타>현실에 실행하려면</스타일링_기타> <문법_맞춤법>나자신이</문법_맞춤법> 먼저 한국의 문화를 잘알아야 한다.",
+      "sentence_corr_txt_styling": " 하지만 이런 방법들을 실행하려면 나 자신이 먼저 한국의 문화를 잘 알아야 한다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 우리 모두가 한국의 문화에 대해 잘 알고 소중히 여기면 한류를 지킬 수 있을 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0012",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 우리 모두가 한국의 문화에 대해 잘 알고 소중히 여기면 한류를 <문법_맞춤법>지킬수</문법_맞춤법> 있을것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_33453",
+    "essay_prompt": " 한류(韓流)는 한국의 대중문화, 즉 한국에서 제작된 영화, 방송, 음악, 패션 등이 해외에서 인기리에 소비되는 문화적 현상입니다. 넓은 의미로는 의·식·주 등 한국 문화 전체를 말하기도 합니다.\n\n 하지만, 최근 중국은 한류의 문화적 경제적 파급력에 주목하며 동북공정의 일환으로 한복, 김치, 비빔밥, 쌈 문화 등을 중국 소수민족의 문화로 편입시키려 하고 있습니다.\n\n SNS에 한국 사람이 한국적인 것을 올리면 '중국의 전통을 대신 알려줘서 고맙다.'던가 '중국의 전통을 마음대로 한국의 것이라 하지 말아라.'라는 댓글을 달고 있습니다.\n\n 중국 방송에서까지 이를 주제로 다루며 한국의 문화와 전통을 중국의 문화라고 주장하고 있습니다.\n\n 이러한 억지 주장을 우리가 가만히 있으면 중국이 그만둘까요? 우리는 중국의 행동에 어떻게 대처해야 할까요?\n\n UN이나 국제적인 기관에 중국의 억지 주장에 대해 호소할 수도 있고, 인터넷상에서 중국인들과 끊임없이 논쟁할 수도 있습니다.\n\n 여러분은 이러한 현상에 대해 어떻게 생각하며 한국문화로서 한류 열풍을 지켜내기 위한 방안이 어떤 것이 있다고 생각하시나요? 본인의 생각을 작성해주세요.",
+    "essay_type": "대안제시",
+    "essay_level": "2",
+    "essay_len": 644,
+    "essay_main_subject": "한류를 지키는 방법"
+  }
+}

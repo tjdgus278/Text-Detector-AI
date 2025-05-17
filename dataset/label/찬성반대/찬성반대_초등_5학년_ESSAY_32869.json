@@ -1,0 +1,336 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "소수의 의견도 들어줘야 된다고 생각합니다 #@문장구분#만약에 짜장면을 먹고싶은데 짬뽕을 먹자고 하는 사람이 더많으면 먹고싶지 않은데 짬뽕을 먹게 돼잖습니까 #@문장구분#이런상황이 나에게도 올수있으므로 소수의 의견도 꼭 존중해 주면서 같이 먹을 수 있는 짬짜면 이라던가 저는 친구들과 함께 마트에 갔습니다#@문장구분# 그런데 저는 과자를 사고싶은데 친구들은 다같이 먹을거라고 라면을 사라고 해서 싫다했는데 다수결로 해서 결국 라면을 먹게 돼었습니다. #@문장구분#이런식으로 다수결은 치사합니다 #@문장구분#자신이 경험하지 않으면 저게 맞는것 같아 저거로 하자! 등 남을 생각하지 않는 단어들이 입에서 나옵니다#@문장구분# 그래서 다수결을 잘이용하지 않으려고 노력을 하고있습니다#@문장구분# 저느 제가 꼭 다수결을 이용하지않는 사람이 될겁니다#@문장구분# 왜냐 제가 당해서 입니다 #@문장구분#전그래서 친구들이 다수결을 이용해도 휘말리지 않을거라 다짐 했습니다#@문장구분# 다수결은 치사하니 다들 쓰지 않는 것이 좋습니다 #@문장구분#한개를 고른 걸 안해도되고, 그리고 이것 자체를 안하면 되니까 이제 부터 안하면 된다. #@문장구분#그런데 또 이걸하면소소수는 억울 하기 때문에 다수결의 원칙을 쓰면 억울 하기에 각자 다른걸 시켜먹으면 됩니다#@문장구분#",
+      "paragraph_len": 813,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.133335,
+      21.6,
+      22
+    ],
+    "essay_scoreT_avg": 21.57778,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          2,
+          3,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.03",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "032",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "찬성반대",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "소수의 의견에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "만약에 짜장면을 먹고 싶은데 짬뽕을 먹자고 하는 사람이 더 많으면 먹고 싶지 않은데 짬뽕을 먹게 되지않습니까 ",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "만약에 짜장면을 <문법_맞춤법>먹고싶은데</문법_맞춤법> 짬뽕을 먹자고 하는 사람이 더많으면 먹고싶지 않은데 짬뽕을 먹게 돼잖습니까 ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "이런 상황이 나에게도 올 수 있으므로 소수의 의견도 꼭 존중해 주면서 같이 먹을 수 있는 짬짜면 이라던가 저는 친구들과 함께 마트에 갔습니다",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>이런상황이 나에게도 올수있으므로 </문법_맞춤법>소수의 의견도 꼭 존중해 주면서 같이 먹을 수 있는 짬짜면 이라던가 저는 친구들과 함께 마트에 갔습니다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그런데 저는 과자를 사고 싶은데 친구들은  다같이  먹을 거라고 라면을 사라고 해서 싫다 했는데  다수결로 해서 결국 라면을 먹게 되었습니다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그런데 저는 과자를 <문법_맞춤법>사고싶은데 친구들은 다같이 먹을거라고</문법_맞춤법> 라면을 사라고 해서 싫다했는데 다수결로 해서 결국 라면을 먹게 돼었습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "이런 식으로 다수결은 치사합니다 ",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>이런식으로</문법_맞춤법> 다수결은 치사합니다 ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "자신이 경험하지 않으면 저게 맞는 것 같아 저거로 하자! 등 남을 생각하지 않는 단어들이 입에서 나옵니다",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "자신이 경험하지 않으면 저게 <문법_맞춤법>맞는것 </문법_맞춤법>같아 저거로 하자! 등 남을 생각하지 않는 단어들이 입에서 나옵니다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 다수결을 잘 이용 하지 않으려고 노력을 하고 있습니다",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그래서 다수결을 잘<문법_맞춤법>이용하지 않으려고 노력을 하고있습니다</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는  제가 꼭 다수결을 이용하지 않는 사람이 될 겁니다",
+      "sentence_corr_reason": [
+        "맞춤법,띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>저느 제가 꼭 다수결을 이용하지않는 사람이 될겁니다</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐 제가 당해서입니다 ",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐 제가 <문법_맞춤법>당해서 입니다</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "전 그래서 친구들이 다수결을 이용해도 휘말리지 않을거라 다짐 했습니다",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>전그래서 친</문법_맞춤법>구들이 다수결을 이용해도 휘말리지 않을거라 다짐 했습니다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "한개를 고른 걸 안 해도 되고, 그리고 이것 자체를 안하면 되니까 이제 부터 안하면 된다. ",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0012",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>한개를 고른 걸 안해도되고</문법_맞춤법>, 그리고 이것 자체를 안하면 되니까 이제 부터 안하면 된다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그런데 또 이걸 하면 소수는 억울 하기 때문에 다수결의 원칙을 쓰면 억울 하기에 각자 다른걸 시켜먹으면 됩니다",
+      "sentence_corr_reason": [
+        "띄어쓰기 교정 필요"
+      ],
+      "sentence_id": "0013",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그런데 또 이<문법_맞춤법>걸하면소소수</문법_맞춤법>는 억울 하기 때문에 다수결의 원칙을 쓰면 억울 하기에 각자 다른걸 시켜먹으면 됩니다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_32869",
+    "essay_prompt": " 민주주의 사회에서의 의사결정은 다수결의 원칙으로 정합니다. 여기서 다수결이란 더 많은 사람이 좋다고 한 방법으로 결정하는 것을 말합니다.\n\n 대통령이나 국회의원 선거뿐만 아니라 반장선거나 학교 임원 선거에서도 다수의 의견을 전체 의사로 보고 결정하지요.\n\n 우리같이 민주주의 국가에서 사는 많은 사람은 다수결의 원칙이 합리적인 방식이라고 생각하고 있습니다. 대부분의 상황에서는 다수의 사람이 낸 의견이 옳은 결정일 때가 많기 때문입니다.\n\n 다만, 이러한 다수결의 원칙은 소수의 의견이 반영 안 된다는 뜻도 있습니다. 소수 사람들의 의견이 옳았지만, 민주주의 사회의 다수결의 원칙으로 인해 옳지 않은 방향으로 결정되는 경우도 있습니다.\n\n 여러분의 의견은 어떠신가요? 다수결의 의견을 우선시 해야 할 까요? 아니면 소수의 의견도 어느 정도 반영해야 할까요?\n\n 다수의 의견만 수용하는 것이 최선의 방법이라는 생각에 찬성하시면 그 이유에 관해 설명해주세요. 반대의 입장이면 그 이유와 소수의 의견을 얼마나 반영해야 할지 작성해주세요.",
+    "essay_type": "찬성반대",
+    "essay_level": "1",
+    "essay_len": 553,
+    "essay_main_subject": "소수의 의견에 대한 본인의 생각"
+  }
+}

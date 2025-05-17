@@ -1,0 +1,251 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "우리가 살고 있는 집은 아파트,주택,호텔,빌딩등이 있습니다. #@문장구분#그 중에서 저는 \"주택\"에서 살고 싶습니다. #@문장구분#무려 20층 짜리 주택이요. #@문장구분#그런데 만약 미래에 아파트가 더 지어지고 주택을 짓지 않으면 아파트에서 살아야 겠죠? #@문장구분#그래서 저는 20층 짜리 주택이 아니라 아파트라면? #@문장구분#1층에서 살고 싶습니다.#@문장구분# 하지만 단점이 있습니다.#@문장구분# 아파트 1층에는 풀이 많아서 문을 열면 벌레가 들어오고, 주택은 화장실에 가고 싶을 때 한참 가야 한다는 것이에요. #@문장구분#둘 중에서 고르라면...... 주택이 나은 것 같아요.#@문장구분# 저는 벌레를 무척 싫어하기 때문이에요.#@문장구분#저는 지금 아파트에 살고 있어요.#@문장구분#그런데 다행히 4층에 살고있어요. #@문장구분#그리고 저의 가족은 부모님인 엄마, 아빠와 동생인 서윤이와 살고 있어요. #@문장구분#그런데 슬픈 것은 저희의 외할머니와 할머니 집이 멀어졌다는 것이에요.#@문장구분# ㅠㅠ 그래서 차로 가는데 할머니 댁에 가려면 오래 앉아 있어서 엉덩이가 아파요. #@문장구분#그래서 이사를 가게된다면 할머니 댁에 가까우면 좋겠네요.#@문장구분# 아파트도 1층이 아니면 괜찮으니 제발 다음에 이사 갈 때는 할머니 댁과 가까이에 있어라~.#@문장구분#엄마, 아빠께도 이야기할 거예요.#@문장구분#",
+      "paragraph_len": 919,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.4285715,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.1428573,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      13.180953,
+      25.6,
+      21.133335
+    ],
+    "essay_scoreT_avg": 19.97143,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          1,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          1,
+          1,
+          0,
+          2
+        ],
+        [
+          2,
+          3,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.07.29",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "041",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "살고 싶은 집",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "우리가 살고 있는 집은 아파트, 주택, 호텔, 빌딩 등이 있습니다. ",
+      "sentence_corr_reason": [
+        "띄어 쓰기 교정 필요"
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "우리가 살고 있는 집은<문법_맞춤법> 아파트,주택,호텔,빌딩등이 </문법_맞춤법>있습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그중에서 저는 \"주택\"에서 살고 싶습니다. ",
+      "sentence_corr_reason": [
+        "띄어 쓰기 교정 필요"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>그 중에서 </문법_맞춤법>저는 \"주택\"에서 살고 싶습니다. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "무려 20층짜리 주택이요. ",
+      "sentence_corr_reason": [
+        "띄어 쓰기 교정 필요"
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "무려 <문법_맞춤법>20층 짜리</문법_맞춤법> 주택이요. ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그런데 만약 미래에 아파트가 더 지어지고 주택을 짓지 않으면 아파트에서 살아야겠죠? ",
+      "sentence_corr_reason": [
+        "띄어 쓰기 교정 필요"
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그런데 만약 미래에 아파트가 더 지어지고 주택을 짓지 않으면 아파트에서 <문법_맞춤법>살아야 겠죠?</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그런데 다행히 4층에 살고 있어요. ",
+      "sentence_corr_reason": [
+        "띄어 쓰기 교정 필요"
+      ],
+      "sentence_id": "0012",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그런데 다행히 4층에 <문법_맞춤법>살고있어요.</문법_맞춤법> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그래서 이사를 가게 된다면 할머니 댁에 가까우면 좋겠네요.",
+      "sentence_corr_reason": [
+        "띄어 쓰기 교정 필요"
+      ],
+      "sentence_id": "0016",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "그래서 이사를 <문법_맞춤법>가게된다면 </문법_맞춤법>할머니 댁에 가까우면 좋겠네요.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_33352",
+    "essay_prompt": " 우리가 사는 집은 모양과 구조가 다양합니다. 방이 여러 개인 집, 거실이 큰집, 화장실이 많은 집, 주방이 화려한 집, 전등이 많이 달린 집, 깔끔한 하얀 집 같이 여러 모양이 있어요.\n\n 그리고 방마다 특징이 있을 것 같아요. 놀이방, 게임방, 잠을 자는 방, 책을 읽는 방 등등 집의 모양과 방의 쓰임새가 다양합니다.\n\n 혹시, 여러분은 미래에 자신이 살고 싶은 집을 상상해 본 적이 있나요? 내가 살고 싶은 집을 먼저 설명해보고 그 집의 특징과 구조를 자세히 설명해보세요.\n\n방은 몇 개고 색깔은 어떨 것 같고 집의 생김새는 어떠할지 마음껏 표현해주세요!",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 562,
+    "essay_main_subject": "살고 싶은 집"
+  }
+}

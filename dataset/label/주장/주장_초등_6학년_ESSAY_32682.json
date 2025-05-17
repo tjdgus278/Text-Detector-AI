@@ -1,0 +1,408 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "우리는 지나가며 보는 채널들중에 폭력에 관한 이야기들이 많이 나옵니다.#@문장구분# 학교폭력, 사이버 폭력, 아동 학대등등... 많은 폭력들이 있습니다.#@문장구분# 하지만, 마냥 무시할 일은 아닙니다:#@문장구분#폭력의 종류들이 무엇이 있고, 심각성을 알아보자.#@문장구분#\n 첫번째, 많은 사람들이 겪고있고, 알고있는, 학교폭력입니다.#@문장구분# 학교폭력은 두명이상의 학생들이 지속적으로 한사람을 괴롭히는 것을 말합니다.#@문장구분# 학교폭력의 종류는 왕따, 은따등이 있습니다.#@문장구분# 하지만, 요즘은 코로나로 인해 사이버 학교폭력도 급증하고 있습니다.#@문장구분# 학교폭력의 종류는 이렇게 다양합니다.#@문장구분# 학교폭력의 대한 대처는 어떻게 해야할까요?#@문장구분#첫번째, 주변 사람들에게 도움을 청합니다.#@문장구분# 둘째, 무섭겠지만, 용기내어 하지말라고 말해본다.#@문장구분# 등이 있습니다.#@문장구분#\n 두번째, 가정폭력입니다.#@문장구분# 가정폭력이란 가정내에서 행해지는 폭력입니다.#@문장구분# 가정폭력의 종류는 신체적 폭력, 정서적 폭력, 언어적 폭력등이 있습니다.#@문장구분# 이처럼 가정폭력의 종류는 다양합니다.#@문장구분# 하지만, 다양한만큼, 더욱더 많이 발생하고, 더 많이 조심해야합니다.#@문장구분# 가정폭력을 어떻게 대처해야할까요?#@문장구분#일단, 가정에서 심하게 맞거나 다치면 112에 전화를 걸어 자신의 위치를 알리고, 도움을 요청하는것이 가장 중요합니다.#@문장구분# 또한, 경찰이 오는 동안에 자신을 보호하는것도 중요합니다.#@문장구분# 또한, 폭력이 너무 심해지면 도망쳐야 합니다.#@문장구분#\n 폭력의 종류는 매우 다양합니다.#@문장구분# 폭력은 한 사람을 죽이거나, 평생을 힘들게하는 트라우마가 될수있습니다.#@문장구분# 폭력을 받고 있다면, 주위 사람들에게 도움을 청하세요.",
+      "paragraph_len": 1226,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20,
+      19.555555,
+      24.455555
+    ],
+    "essay_scoreT_avg": 21.337036,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          2,
+          2
+        ],
+        [
+          2,
+          0,
+          2,
+          2
+        ],
+        [
+          2,
+          0,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          1,
+          2
+        ],
+        [
+          3,
+          3,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.08.02",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "032",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "폭력 예방 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "우리는 지나가며 보는 채널들 중에 폭력에 관한 이야기들이 많이 나옵니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "우리는 지나가며 보는 <문법_맞춤법>채널들중에</문법_맞춤법> 폭력에 관한 이야기들이 많이 나옵니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 학교폭력, 사이버 폭력, 아동 학대 등등... 많은 폭력들이 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 학교폭력, 사이버 폭력, 아동 <문법_맞춤법>학대등등</문법_맞춤법>... 많은 폭력들이 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 첫 번째, 많은 사람들이 겪고 있고, 알고 있는, 학교폭력입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n <문법_맞춤법>첫번째</문법_맞춤법>, 많은 사람들이 겪고있고, 알고있는, 학교폭력입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 학교폭력은 두 명 이상의 학생들이 지속적으로 한 사람을 괴롭히는 것을 말합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 학교폭력은 <문법_맞춤법>두명이상의</문법_맞춤법> 학생들이 지속적으로 한사람을 괴롭히는 것을 말합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 학교폭력의 종류는 왕따, 은따 등이 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 학교폭력의 종류는 왕따, <문법_맞춤법>은따등이</문법_맞춤법> 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 학교폭력에 대한 대처는 어떻게 해야 할까요?",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_조사>학교폭력의</문법_조사> 대한 대처는 어떻게 <문법_맞춤법>해야할까요</문법_맞춤법>?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "첫 번째, 주변 사람들에게 도움을 청합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>첫번째</문법_맞춤법>, 주변 사람들에게 도움을 청합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 둘째, 무섭겠지만, 용기 내어 하지 말라고 말해본다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 둘째, 무섭겠지만, <문법_맞춤법>용기내어 하지말라고</문법_맞춤법> 말해본다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 두 번째, 가정폭력입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n <문법_맞춤법>두번째,</문법_맞춤법> 가정폭력입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 가정폭력이란 가정 내에서 행해지는 폭력입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 가정폭력이란 <문법_맞춤법>가정내에서</문법_맞춤법> 행해지는 폭력입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 가정폭력의 종류는 신체적 폭력, 정서적 폭력, 언어적 폭력 등이 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 가정폭력의 종류는 신체적 폭력, 정서적 폭력, 언어적 <문법_맞춤법>폭력등이</문법_맞춤법> 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 하지만, 다양한 만큼, 더욱더 많이 발생하고, 더 많이 조심해야 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0018",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 하지만, <문법_맞춤법>다양한만큼</문법_맞춤법>, 더욱더 많이 발생하고, 더 많이 조심해야합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 가정폭력을 어떻게 대처해야 할까요?",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0019",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 가정폭력을 어떻게 <문법_맞춤법>대처해야할까요</문법_맞춤법>?",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "일단, 가정에서 심하게 맞거나 다치면 112에 전화를 걸어 자신의 위치를 알리고, 도움을 요청 하는 것이 가장 중요합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0020",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "일단, 가정에서 심하게 맞거나 다치면 112에 전화를 걸어 자신의 위치를 알리고, 도움을 <문법_맞춤법>요청하는것이</문법_맞춤법> 가장 중요합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또한, 경찰이 오는 동안에 자신을 보호하는 것도 중요합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0021",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 또한, 경찰이 오는 동안에 자신을 <문법_맞춤법>보호하는것도</문법_맞춤법> 중요합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 폭력은 한 사람을 죽이거나, 평생을 힘들게 하는 트라우마가 될수있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0024",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 폭력은 한 사람을 죽이거나, 평생을 <문법_맞춤법>힘들게하는</문법_맞춤법> 트라우마가 될수있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_32682",
+    "essay_prompt": " 요즘 학교에서는 신체적인 폭력뿐만 아니라 미디어 발달로 인한 사이버 폭력과 언어폭력이 점점 많아지고 있습니다.\n\n 또한, 학교폭력 피해를 본 학생의 나이가 점점 낮아지고 있어 심각한 사회적 문제로 나타나고 있습니다.\n\n 학교폭력을 예방하기 위해 노력을 많이 하고 있지만 제대로 해결되지 않는다는 의견이 많습니다.\n\n 한쪽에서는 학교폭력을 일으킨 학생에 대한 처벌을 더욱 강력하게 하자는 의견이 있습니다. 더 나아가 폭력에 한에서는 법을 개편해서 청소년 보호법이 아닌 강력한 법을 시행하자는 의견도 있습니다.\n\n 다른 쪽에서는 학생에 대한 처벌보다 보호자에 대한 처벌을 강화하는 의견을 제시하기도 합니다.\n\n 학교 폭력을 예방하는 방법과 대처하는 방법은 다양합니다. 학교 폭력을 줄일 수 있는 방법에 대한 자기 생각을 작성해주세요. 그리고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 746,
+    "essay_main_subject": "폭력 예방 방법"
+  }
+}

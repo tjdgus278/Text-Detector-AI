@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "우리 몸을 건강하게 만드는데에는 식습관 운동, 위생이 있다.#@문장구분#\n 위생이란 건강에 유익하도록 조건을 갖추거나 대책을 세우는 일을 뜻한다.#@문장구분# 이러한 위생이 무너지면 우리 몸은 병에 걸릴 확률이 높다.#@문장구분# 그렇기에 우리는 위생을 지켜야한다.#@문장구분#\n 위생을 지키는 방법에는 가장 기본적인 손 씻기가 있다.#@문장구분# 손을 씻는 것은 매우 중요하다.#@문장구분# 왜냐하면 밖에 나갔다오면 밖에 있는 더러운 종류의 것들이 손에 붙는 일이 대부분이기에 손을 잘 씻어야 한다.#@문장구분# 손을 씻을 때에는 악세사리를 빼고 구석구석 씻는게 낫다.#@문장구분#\n 어떤 연구소의 연구 결과에 따르면 반지를 낀 부위의 세균이 그렇지 않은 부위보다 세균이 10배 이상 많다고 밝혔다.#@문장구분# 그렇기에 이왕이면 악세사리를 빼고 구석구석 손을 씻는게 낫다.#@문장구분# \n 우리는 우리의 각자 개인위생을 지키기 위해 노력해야 한다.#@문장구분#",
+      "paragraph_len": 626,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.6666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      26,
+      30,
+      22
+    ],
+    "essay_scoreT_avg": 26,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.02",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "032",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "위생을 지키는 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_32720",
+    "essay_prompt": " 건강한 몸을 만들기 위해서는 올바른 식습관과 운동뿐만 아니라 개인위생도 매우 중요합니다. 그러므로 우리는 양치도 하고 세수도 하고 샤워도 하며 우리의 몸을 항상 깨끗하게 유지하고 있지요.\n\n 청결하지 않으면 세균이 몸속으로 들어와 병에 걸릴 수도 있기 때문입니다.\n\n 여러분은 몸을 깨끗하게 하기 위해 어떻게 하고 있나요? 양치는 하루에 몇 번 하시나요? 손은 하루에 몇 번 씻으시나요?\n\n 여러분만의 위생을 지키는 방법에 대해 작성해주세요. 앞으로의 계획을 작성해주셔도 좋아요.",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 407,
+    "essay_main_subject": "위생을 지키는 방법"
+  }
+}

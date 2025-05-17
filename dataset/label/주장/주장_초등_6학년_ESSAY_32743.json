@@ -1,0 +1,341 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "주제:학교폭력은하면 않된다.#@문장구분#\n 학교폭력을 하면 않됍니다.#@문장구분# 왜냐하면 첫째, 상대방의 인권을 무시하는 행동이기 때문입니다.#@문장구분# 누구에게나 인권이 있습니다.#@문장구분# 학교폭력은 그 소중한 인권을 훼손하는 것입니다.#@문장구분# 둘째, 상대방의 마음에 상처를 입히기 때문입니다.#@문장구분# 학교폭력피해자도 상처를 받지만 피해자와 가해자의 부모님과 가족들도 정말 큰 상처를 받습니다.#@문장구분# 셋째, 법으로 금지하고있기 때문입니다.#@문장구분# 법으로 금지하고 있기 때문에 엄격한 처벌을 받을수 있습니다.#@문장구분# 넷째, 학교폭력 피해자는 신체적, 정신적 피해를 입습니다.#@문장구분# 학교폭력을 당하면 학교생활이 힘들고 매일매일이 지옥같을 것 입니다.#@문장구분# 다섯째, 학교폭력을 저지른 학생이 큰 처벌을 받게 됍니다.#@문장구분# 학교폭력으로 신고가 된다면 원하는 고등학교나 대학교를 못갈수도 있습니다.#@문장구분# 마지막으로 학교폭력이 많아 진다면 그것을 본학생이나 당한 학생들이 학교생활이 많이 불행 할것 입니다.#@문장구분# 그렇기 때문에 우리는 학교폭력을 예방하려고 노력하는 자세가 많이 필요 합니다.#@문장구분# 이제 학교폭력을 하지 맙시다.#@문장구분# 학교폭력은 우리 모두에게 해롭습니다.#@문장구분# 학교폭력 피하자는 가해자 때문에 힘들고 가해자는 법적 처벌 때문에 힘들것 입니다.#@문장구분# 또 피해자는 학교폭력의 트라우마?때문에 아무에게도 마음의문을 않열수도 있습니다.#@문장구분# 학교폭력의 가해자도 피해자도 되지 맙시다!!",
+      "paragraph_len": 1025,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20.3,
+      26,
+      22.077778
+    ],
+    "essay_scoreT_avg": 22.792593,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          2,
+          3
+        ],
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          2,
+          0,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.08.03",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "032",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "폭력 예방 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "주제:학교폭력은 하면 안된다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "주제:학교폭력은<문법_맞춤법>하면</문법_맞춤법> 않된다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "\n 학교폭력을 하면 안됩니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "\n 학교폭력을 하면 <문법_맞춤법>않됍니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 학교폭력 피해자도 상처를 받지만 피해자와 가해자의 부모님과 가족들도 정말 큰 상처를 받습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>학교폭력피해자도</문법_맞춤법> 상처를 받지만 피해자와 가해자의 부모님과 가족들도 정말 큰 상처를 받습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 셋째, 법으로 금지하고 있기 때문입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 셋째, 법으로 <문법_맞춤법>금지하고있기</문법_맞춤법> 때문입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 법으로 금지하고 있기 때문에 엄격한 처벌을 받을 수 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 법으로 금지하고 있기 때문에 엄격한 처벌을 <문법_맞춤법>받을수</문법_맞춤법> 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 학교폭력을 당하면 학교생활이 힘들고 매일매일이 지옥 같을 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 학교폭력을 당하면 학교생활이 힘들고 매일매일이 <문법_맞춤법>지옥같을 것 입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 다섯째, 학교폭력을 저지른 학생이 큰 처벌을 받게 됩니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 다섯째, 학교폭력을 저지른 학생이 큰 처벌을 받게 <문법_맞춤법>됍니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 학교폭력으로 신고가 된다면 원하는 고등학교나 대학교를 못 갈 수도 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 학교폭력으로 신고가 된다면 원하는 고등학교나 대학교를 <문법_맞춤법>못갈수도</문법_맞춤법> 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 마지막으로 학교폭력이 많아진다면 그것을 본 학생이나 당한 학생들이 학교생활이 많이 불행할 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 마지막으로 학교폭력이 <문법_맞춤법>많아 진다면</문법_맞춤법> 그것을 본학생이나 당한 학생들이 학교생활이 많이 불행 할것 입니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그렇기 때문에 우리는 학교폭력을 예방하려고 노력하는 자세가 많이 필요합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그렇기 때문에 우리는 학교폭력을 예방하려고 노력하는 자세가 많이 <문법_맞춤법>필요 합니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 학교폭력 피하자는 가해자 때문에 힘들고 가해자는 법적 처벌 때문에 힘들 것입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0018",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 학교폭력 피하자는 가해자 때문에 힘들고 가해자는 법적 처벌 때문에 <문법_맞춤법>힘들것 입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 또 피해자는 학교폭력의 트라우마? 때문에 아무에게도 마음의문을 안 열수도 있습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0019",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 또 피해자는 학교폭력의 <문법_맞춤법>트라우마?때문에</문법_맞춤법> 아무에게도 마음의문을 않열수도 있습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_32743",
+    "essay_prompt": " 요즘 학교에서는 신체적인 폭력뿐만 아니라 미디어 발달로 인한 사이버 폭력과 언어폭력이 점점 많아지고 있습니다.\n\n 또한, 학교폭력 피해를 본 학생의 나이가 점점 낮아지고 있어 심각한 사회적 문제로 나타나고 있습니다.\n\n 학교폭력을 예방하기 위해 노력을 많이 하고 있지만 제대로 해결되지 않는다는 의견이 많습니다.\n\n 한쪽에서는 학교폭력을 일으킨 학생에 대한 처벌을 더욱 강력하게 하자는 의견이 있습니다. 더 나아가 폭력에 한에서는 법을 개편해서 청소년 보호법이 아닌 강력한 법을 시행하자는 의견도 있습니다.\n\n 다른 쪽에서는 학생에 대한 처벌보다 보호자에 대한 처벌을 강화하는 의견을 제시하기도 합니다.\n\n 학교 폭력을 예방하는 방법과 대처하는 방법은 다양합니다. 학교 폭력을 줄일 수 있는 방법에 대한 자기 생각을 작성해주세요. 그리고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 646,
+    "essay_main_subject": "폭력 예방 방법"
+  }
+}

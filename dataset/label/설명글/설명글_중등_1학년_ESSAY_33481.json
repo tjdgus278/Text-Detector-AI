@@ -1,0 +1,148 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "평소에 좋은 습관을 들이기 위해 노력한 경험은 먼저 첫 번째로 맨날 늦게까지 핸드폰하다가 자서 맨날 졸려있었는데 이 문제를 고치려고 밤 마다 핸드폰을 꺼두었더니 아침마다 상쾌하고 수업 시간에 졸지도 않고 아침에 일찍일어날수있게 되었다.#@문장구분# 두 번째로 아침에 일어나자 마자 이불을 개는 노력을 했더니 아침마다 부모님의 잔소리를 듣지않고 칭찬을 듣게 되었다.#@문장구분# 세 번째로는 내가 집에오면 양말을 아무데나 벗어났는데 이제 빨래통에 바로넣는 습관을 들였더니 부모님의 잔소리가 줄어들었다.#@문장구분# 네 번째로는 맨날 내가 늦게 일어나서 부모님이 힘들게 깨워주시고 그랬는데 아침 일찍 일어나는 습관을 들이니 아침밥도 먹을 수 있게 되었고 부모님의 칭찬도 받을 수 있게 되었단. #@문장구분#다섯 번째로는 내가 방이 항상 더럽다고 꾸중을 많이 받았는데 저녁 일주일에 3번 청소 하는 습관을 들었더니 꾸중도 줄어들었고 내 방에서 맘껏 놀수있게 되었다.#@문장구분# 여섯 번째로는 밥을 먹은 후 그릇을 잘 치우지 않았는데 밥 먹고 바로 나의 그릇을 치우는 습관을 들이자 부모님께 칭잔을 받게되었다.#@문장구분# 나는 앞으로도 좋은 습관을 들이기 위해 노력할것이다!!#@문장구분#",
+      "paragraph_len": 698,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.6666667,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20.8,
+      28.75,
+      27.35
+    ],
+    "essay_scoreT_avg": 25.633333,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          3,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          3,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.08.18",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "032",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_33481",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 558,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

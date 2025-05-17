@@ -1,0 +1,235 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "진정한 친구란 #@문장구분#나랑잘놀고 먹고 나랑 취향이 잘 맞고 가끔씩 투닥투닥 싸우기도 하고 내가 슬프면 같이 슬퍼해주고 내이야기를 듣고 공감해주고 나를 위로해주고 토닥여주고 아니면 내가 화나면 왜 화가 난건지 물어바주고 내가 다치면 괜찮냐고 물어봐주고 내가 싫어하는 행동은 하지 않고#@문장구분# 선을 넘거나 나를 때리거나 괴롭히지 않고 언제나 내 곁에 있어주고 매번 나를 보듬어 주고 나를 장난감이나 화풀이용으로 생각하지 않고 나를 돈주는 친구로 생각하지 않는 정말 착한친구가 진정한친구라고 생각한다.#@문장구분# 그리고 나는요 그친구에게 나쁜친구이기 싫고 좋은친구 이고 싶은데 나를 나쁘게 만들거나 나를 놀리거나 때리거나 나를 깎아내리는 친구에게는 절대로 착하거나 좋은 친구가 되기 싫습니다,#@문장구분# 나는 나를 아껴주고 좋아해주는 친구에게는 계속 소중한친구로 남고 싶습니다. #@문장구분#그리고 또한 나를 소중한 친구로 생각하지않고 나를 막대하는 친구 에게는 착한친구나 소중한친구가 되어주기 싫은 친구가 되고싶습니다.#@문장구분#",
+      "paragraph_len": 605,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.05,
+      30,
+      20.25
+    ],
+    "essay_scoreT_avg": 23.766668,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          3
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.02",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "041",
+    "student_grade_group": "초등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "친구에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "나랑 취향이 잘 맞고 가끔씩 투닥투닥 싸우기도 하고 내가 슬프면 같이 슬퍼해 주고 내 이야기를 듣고 공감해 주고 나를 위로해 주고 토닥여주고 아니면 내가 화나면 왜 화가 난 건지 물어봐 주고 내가 다치면 괜찮냐고 물어봐 주고 내가 싫어하는 행동은 하지 않고",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": "<문법_맞춤법><문법_기타>나랑잘놀고 먹고 나랑 취향이 잘 맞고 가끔씩 투닥투닥 싸우기도 하고 내가 슬프면 같이 슬퍼해주고 내이야기를 듣고 공감해주고 나를 위로해주고 토닥여주고 아니면 내가 화나면 왜 화가 난건지 물어바주고 내가 다치면 괜찮냐고 물어봐주고 내가 싫어하는 행동은 하지 않고</문법_기타></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 선을 넘거나 나를 때리거나 괴롭히지 않고 언제나 내 곁에 있어주고 매번 나를 보듬어 주고 나를 장난감이나 화풀이용으로 생각하지 않고 나를 돈 주는 친구로 생각하지 않는 정말 착한 친구가 진정한 친구라고 생각한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>선을 넘거나 나를 때리거나 괴롭히지 않고 언제나 내 곁에 있어주고 매번 나를 보듬어 주고 나를 장난감이나 화풀이용으로 생각하지 않고 나를 돈주는 친구로 생각하지 않는 정말 착한친구가 진정한친구라고 생각한다.</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 나는 그 친구에게 나쁜 친구이기 싫고 좋은 친구이고 싶은데 나를 나쁘게 만들거나 나를 놀리거나 때리거나 나를 깎아내리는 친구에게는 절대로 착하거나 좋은 친구가 되기 싫습니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "기타"
+      ],
+      "sentence_txt": " <문법_조사><문법_기타>그리고 나는요 그친구에게 나쁜친구이기 싫고 좋은친구 이고 싶은데 나를 나쁘게 만들거나 나를 놀리거나 때리거나 나를 깎아내리는 친구에게는 절대로 착하거나 좋은 친구가 되기 싫습니다,</문법_기타></문법_조사>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 나는 나를 아껴주고 좋아해 주는 친구에게는 계속 소중한 친구로 남고 싶습니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>나는 나를 아껴주고 좋아해주는 친구에게는 계속 소중한친구로 남고 싶습니다.</문법_기타> ",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "그리고 또한 나를 소중한 친구로 생각하지 않고 나를 막 대하는 친구에게는 착한 친구나 소중한 친구가 되어주기 싫은 친구가 되고 싶습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "<문법_기타>그리고 또한 나를 소중한 친구로 생각하지않고 나를 막대하는 친구 에게는 착한친구나 소중한친구가 되어주기 싫은 친구가 되고싶습니다.</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_32745",
+    "essay_prompt": " 여러분은 진정한 친구에 대해 생각해본 적이 있나요?\n\n 집에 항상 같이 가는 친구, 연락을 자주 하는 친구, 비밀을 마음껏 얘기할 수 있는 친구 등 여러 친구가 있을 것 같아요.\n\n 다만 여러 친구들 중에 어떤 친구가 나의 진정한 친구라고 할 수 있을까요? 인사만 한다고 친구하고 할 수 있을까요? 친구 중에서도 순위를 매길 수 있을까요?\n\n 여러분이 생각하는 친구에 대한 생각을 설명해주세요. 생각이 잘 나지 않는다면 친구들에게 나는 어떤 친구가 되고 싶은지를 작성해주셔도 좋아요!",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 485,
+    "essay_main_subject": "친구에 대한 본인의 생각"
+  }
+}

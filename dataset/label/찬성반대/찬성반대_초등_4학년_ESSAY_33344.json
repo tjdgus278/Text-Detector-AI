@@ -1,0 +1,506 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제생각앤 빨리북한과통일해야한다입니다.#@문장구분# 자여러분제가남한과북한이왜통일해야되는지알려드리겠습니다.#@문장구분# 1. 북한과통일하면인구수가많아질겄입니다.#@문장구분# 인구가늘면일할사람도많아집니다.#@문장구분#  2. 북한엔광물이많은데요그광물로돈을벌수도있고사용할수도있습니다.#@문장구분# 북한과통일자주생길문제들,#@문장구분# 1. 우리나라와북한은정권이다르기때문입니다.#@문장구분# 북한은공산주의입니다.#@문장구분# 공산주의의이념은모두평등하다이런식의이념입니다.#@문장구분# 반면한국은민주주의입니다.#@문장구분# 민주주의의이념#@문장구분#번만큼같고자신이번돈은자신이쓸수있다이런이념입니다.#@문장구분# 한때독일은2차세게대전이끝나고동독과서독이되었습니다.#@문장구분# 그렇게한쪽은공산주의로러시아가한쪽은민주주의인프랑스,영국,미국이다스렸습니다.#@문장구분# 그럼이제다시설명해드리겠습니다.#@문장구분# 그러게되면우리민주주의로통일될지공산주의로통일될지가문제입니다.#@문장구분# 독일은민주주의로통일했스니우리도독일처럼민주주의로통일되야할것같습니다.#@문장구분# 자이제제가공산주의와민주주의지대해더자세이설명드리겠습니다.#@문장구분# 1. 공산주의와같은이념전체주의사회주의등. 2. 민주주의와같은이념자본주의등이있습니다.#@문장구분# 자여러분은북한이랑통일된다면무었을하고싶나요.#@문장구분# 저는백두산에가보고싶습니다.#@문장구분#",
+      "paragraph_len": 942,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          1.4285715,
+          3,
+          2.5714285
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              1,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      19.835714,
+      28.05,
+      24.864285
+    ],
+    "essay_scoreT_avg": 24.25,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          3,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          3,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          1,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.08.23",
+    "student_educated": true,
+    "student_grade": "초등_4학년",
+    "location": "032",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_4학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 3,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "찬성반대",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "남한과 북한의 통일에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "제 생각 엔 빨리 북한과 통일해야 한다입니다.",
+      "sentence_corr_reason": [
+        "띄어 쓰기 교정 필요"
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>제생각앤 빨리북한과통일해야한다입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 자 여러분 제가 남한과 북한이 왜 통일해야 되는지 알려드리겠습니다.",
+      "sentence_corr_reason": [
+        "띄어 쓰기 교정 필요"
+      ],
+      "sentence_id": "0002",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>자여러분제가남한과북한이왜통일해야되는지알려드리겠습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 1. 북한과 통일하면 인구수가 많아질 것입니다.",
+      "sentence_corr_reason": [
+        " 맞춤법, 띄어 쓰기 교정 필요"
+      ],
+      "sentence_id": "0003",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 1<문법_맞춤법>. 북한과통일하면인구수가많아질겄입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 인구가 늘면 일할 사람도 많아집니다.",
+      "sentence_corr_reason": [
+        "띄어 쓰기 교정 필요"
+      ],
+      "sentence_id": "0004",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>인구가늘면일할사람도많아집니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "  2. 북한엔 광물이 많은데요 그 광물로 돈을 벌 수도 있고 사용할 수도 있습니다.",
+      "sentence_corr_reason": [
+        "띄어 쓰기 교정 필요"
+      ],
+      "sentence_id": "0005",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "  2. <문법_맞춤법>북한엔광물이많은데요그광물로돈을벌수도있고사용할수도있습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 북한과 통일 자주 생길 문제들,",
+      "sentence_corr_reason": [
+        "띄어 쓰기 교정 필요"
+      ],
+      "sentence_id": "0006",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>북한과통일자주생길문제들,</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 1. 우리나라와 북한은 정권이 다르기 때문입니다.",
+      "sentence_corr_reason": [
+        "띄어 쓰기 교정 필요"
+      ],
+      "sentence_id": "0007",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 1. <문법_맞춤법>우리나라와북한은정권이다르기때문입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 북한은 공산주의 입니다.",
+      "sentence_corr_reason": [
+        "띄어 쓰기 교정 필요"
+      ],
+      "sentence_id": "0008",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>북한은공산주의입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 공산주의의 이념은 모두 평등하다 이런식의 이념입니다.",
+      "sentence_corr_reason": [
+        "띄어 쓰기 교정 필요"
+      ],
+      "sentence_id": "0009",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>공산주의의이념은모두평등하다이런식의이념입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 반면 한국은 민주주의 입니다.",
+      "sentence_corr_reason": [
+        "띄어 쓰기 교정 필요"
+      ],
+      "sentence_id": "0010",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>반면한국은민주주의입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 민주주의의 이념",
+      "sentence_corr_reason": [
+        "띄어 쓰기 교정 필요"
+      ],
+      "sentence_id": "0011",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>민주주의의이념</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "번만큼 갖고 자신이 번 돈은 자신이 쓸 수 있다 이런 이념입니다.",
+      "sentence_corr_reason": [
+        "맞춤법 교정,띄어 쓰기 교정 필요"
+      ],
+      "sentence_id": "0012",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "<문법_맞춤법>번만큼같고자신이번돈은자신이쓸수있다이런이념입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 한 때 독일은 2차 세게대전이 끝나고 동독과 서독이 되었습니다.",
+      "sentence_corr_reason": [
+        "띄어 쓰기 교정 필요"
+      ],
+      "sentence_id": "0013",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>한때독일은2차세게대전이끝나고동독과서독이되었습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그렇게 한 쪽은 공산주의로 러시아가 한 쪽은 민주주의인 프랑스,영국,미국이 다스렸습니다.",
+      "sentence_corr_reason": [
+        "띄어 쓰기 교정 필요"
+      ],
+      "sentence_id": "0014",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그렇게한쪽은공산주의로러시아가한쪽은민주주의인프랑스,영국,미국이다스렸습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그럼 이제 다시 설명해 드리겠습니다.",
+      "sentence_corr_reason": [
+        "띄어 쓰기 교정 필요"
+      ],
+      "sentence_id": "0015",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그럼이제다시설명해드리겠습니다</문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그렇게 되면 우리 민주주의로 통일 될지 공산주의로 통일 될지가 문제입니다.",
+      "sentence_corr_reason": [
+        "맞춤법,띄어 쓰기 교정 필요"
+      ],
+      "sentence_id": "0016",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>그러게되면우리민주주의로통일될지공산주의로통일될지가문제입니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 독일은 민주주의로 통일했으니 우리도 독일처럼 민주주의로 통일되야 할 것같습니다.",
+      "sentence_corr_reason": [
+        "띄어 쓰기 교정 필요"
+      ],
+      "sentence_id": "0017",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>독일은민주주의로통일했스니우리도독일처럼민주주의로통일되야할것같습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 자 이제 제가 공산주의와 민주주의에 대해 더 자세히 설명 드리겠습니다.",
+      "sentence_corr_reason": [
+        "맞춤법, 띄어 쓰기 교정 필요"
+      ],
+      "sentence_id": "0018",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>자이제제가공산주의와민주주의지대해더자세이설명드리겠습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 1. 공산주의와 같은 이념 전체주의 사회주의 등. 2. 민주주의와 같은 이념 자본주의 등이 있습니다.",
+      "sentence_corr_reason": [
+        "맞춤법,띄어 쓰기 교정 필요"
+      ],
+      "sentence_id": "0019",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 1. <문법_맞춤법>공산주의와같은이념전체주의사회주의등. 2. 민주주의와같은이념자본주의등이있습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 자 여러분은 북한이랑 통일 된다면 무엇을 하고 싶나요.",
+      "sentence_corr_reason": [
+        "맞춤법, 띄어 쓰기 교정 필요"
+      ],
+      "sentence_id": "0020",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>자여러분은북한이랑통일된다면무었을하고싶나요.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저는 백두산에 가보고 싶습니다.",
+      "sentence_corr_reason": [
+        "띄어 쓰기 교정 필요"
+      ],
+      "sentence_id": "0021",
+      "sentence_annotation_tag": "근거",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>저는백두산에가보고싶습니다.</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_33344",
+    "essay_prompt": " 6.25 전쟁에 대해서 여러분은 얼마나 알고 계시는가요? 1950년 6월 25일 북한의 침범으로 시작된 전쟁은 1953년 7월 27일에 끝났고, 지금까지 남과 북으로 갈라진 분단국가입니다.\n\n 우리가 사는 남한은 민주주의 국가이고 북한은 사회주의 국가입니다. 그렇기 때문에 정치, 경제, 사회, 문화적으로 지금까지 다른 길을 걸어왔습니다.\n\n 생김새도 비슷하고 사용하는 언어는 같지만, 북한에 있는 친구들은 여러분들과 생각이나 문화가 다를 수 있어요.\n\n 다만 하나의 나라였다가 분리된 만큼 다름을 인정하고 다시 하나의 국가로 통일되어야 한다고 주장하는 사람들도 많습니다.\n\n 여러분은 남한과 북한의 통일에 대해 찬성하나요? 아니면 반대하나요? 자신의 의견을 작성해보세요. 그리고 그 이유에 관해 설명해주세요.",
+    "essay_type": "찬성반대",
+    "essay_level": "2",
+    "essay_len": 492,
+    "essay_main_subject": "남한과 북한의 통일에 대한 본인의 생각"
+  }
+}

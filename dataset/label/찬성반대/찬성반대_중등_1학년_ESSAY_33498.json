@@ -1,0 +1,247 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "부모의 능력과 경제력에 따른 불평등에 찬성한다.#@문장구분#",
+      "paragraph_len": 46,
+      "paragraph_id": "001"
+    },
+    {
+      "paragraph_txt": " 사람들 모두가 똑같은 조건의 부모 밑에서 자란다 하더라도 저마다 다른 능력과 지식, 노력으로 인해 차이가 발생할 것이다.#@문장구분# 또한 사회에 진출하고 직장을 다니며 개개인의 능력, 노력에 따른 보상과 기회에도 차이가 있을 것이고, 만약 자식들을 낳게 된다면 그들의 자식들은 또다시 부모의 능력과 경제력에 따른 불평등 속에서 자라야 한다.#@문장구분# 아무리 평등한 환경 속에서 자라도 개개인의 차이로 인해 불평등은 이어질 것이다.#@문장구분#",
+      "paragraph_len": 290,
+      "paragraph_id": "002"
+    },
+    {
+      "paragraph_txt": " 옛 속담 중 '고생 끝에 낙이 온다'라는 말이 있다.#@문장구분# 자신이 노력한 만큼 그만큼의 성과가 있을 것이란 뜻이다.#@문장구분# 자신의 노력 끝에 얻어낸 능력과 경제력인데 세상의 평등만을 위해 가치가 있고 없으면 얼마나 불평등하겠는가.#@문장구분# 공평함과 평등함을 동시에 이룰 순 없다.#@문장구분# 개인적인 생각이지만, 불공평한 세상 속에서 살 바에는 불평등한 세상 속에서 사는 것이 낫다고 생각한다.#@문장구분#",
+      "paragraph_len": 303,
+      "paragraph_id": "003"
+    },
+    {
+      "paragraph_txt": " 사람들은 평등한 세상을 꿈꾸었지만, 세상은 평등하지 않다.#@문장구분# 그렇다고 해서 불평등한 사회를 원망하거나 미워할 이유는 없다.#@문장구분# '노력은 배신하지 않는다'라는 말이 있듯 노력으로 못 이룰 건 없다.#@문장구분# 불평등함에 불만을 토로할 시간에 노력으로 원하는 성과를 이루길 바란다.#@문장구분#",
+      "paragraph_len": 227,
+      "paragraph_id": "004"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 3,
+        "paragraph_id": "001"
+      },
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 3,
+        "paragraph_id": "002"
+      },
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 3,
+        "paragraph_id": "003"
+      },
+      {
+        "paragraph_scoreT": [
+          3,
+          3,
+          3
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 3,
+        "paragraph_id": "004"
+      }
+    ],
+    "essay_scoreT": [
+      26.733334,
+      28.222221,
+      27.01111
+    ],
+    "essay_scoreT_avg": 27.322222,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          2,
+          3
+        ],
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          2,
+          0,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          3,
+          2
+        ],
+        [
+          3,
+          2,
+          3,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.09.17",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "041",
+    "student_grade_group": "중등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "찬성반대",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "사회적 불평등에 대한 본인의 생각 작성",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [],
+  "info": {
+    "essay_id": "ESSAY_33498",
+    "essay_prompt": " 많은 사람이 평등한 세상을 꿈꾸고 있지만, 세기가 지나가면서 오히려 불평등의 격차가 심해지고 있습니다.\n\n 흙수저, 금수저 등 부모님의 능력에 의해 새로운 것을 시도하거나 접할 기회에 대한 불평등이 화두가 되고 있습니다. 또한,.\n\n 또한 지역상의 문제로 인해 더 나은 교육을 접할 수 없는 문제와 다양한 문화 시설을 접하지 못하는 것 또한 문제가 되고 있습니다.\n\n 이처럼 경제적, 사회적, 정치적인 이유로 많은 사람이 사회적 불평등을 직접적으로 간접적으로 경험하고 있습니다.\n\n 이러한 안타까운 현실을 차츰 해결해 나아가야겠지만 교육만큼은 모두 평등하게 받을 수 있어야 하지 않을까요?\n\n 그렇다면, 우리나라 모든 학생에게 공교육, 사교육 할 것 없이 모든 교육을 제공해주는 제도가 생긴다면 어떨까요? 많은 돈이 들겠지만, 모두가 똑같은 교육을 받을 수 있지 않을까요?\n\n 여러분의 생각은 어떠신가요? 찬성과 반대중 하나를 선택하고 그 이유를 작성해주세요.",
+    "essay_type": "찬성반대",
+    "essay_level": "2",
+    "essay_len": 613,
+    "essay_main_subject": "사회적 불평등에 대한 본인의 생각 작성"
+  }
+}

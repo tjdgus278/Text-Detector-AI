@@ -1,0 +1,271 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "부모의 능력에 따라 불평등이 발생하는 것에 반대합니다.#@문장구분# 부모님이 부유하거나 형편이 어렵다고 해서 불평등이 이루어지지 않고 평등해야 합니다.#@문장구분# 부모님이 부유하면 학교생활이 원활하고 부모님이 대기업 회장이면 취업도 쉽게 하는 것이 불평등 한 것이다.#@문장구분# 이런 으로 미래가 발전한다면 잘 살고 부유한 사람은 더욱 부유하고 더 잘 살것이다.#@문장구분# 형편이 어려운 사람은 더 형편이 어려울 것이다.#@문장구분# 남들 보다 좋은 집에서 잘 살고 있는 사람이 있는 반면, 힘들게 한끼 한끼를 연명하는 사람도 있다.#@문장구분# 다른사람들이 부러워하는 높은 지위에 있는 사람이 있는가 하면 그렇지 못한 사람도 있다.#@문장구분# 빈부격차가 더 심해지면 개인과 집단의 서열화가 이루어지는데, 이를 가르켜 사회 계층화 현상이라고 한다.#@문장구분# 사람들의 타고난 능력의 차이 때문에 사회적 불평등이 생기는 경우도 있지만, 대부분의 경우는 물질적인 부나 명예 또는 권력 등에 대한 욕구는 많으나, 모든 사람이 가지기에는 부족하기 때문에 불평등이 나타난다.#@문장구분# 사회 구성원들은 사회 제도에 대한 많은 불만이 생기고, 사회 구성원 간의 불신이 깊어져 사회의 질서를 해치게 될 수도 있다.#@문장구분# 불평등이 너무 커지면 계층 간 대립, 불신으로 사회 불안이 커질 수 있다.#@문장구분# 부모의 경제력 세습으로 인해 개인의 노력이나 능력만으로 계층 이동이 불가능하다.#@문장구분# 따라서 사회적 불평등을 없앨 필요가 있다고 생각한다.#@문장구분#",
+      "paragraph_len": 936,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          3,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      30,
+      22.52222,
+      22.077778
+    ],
+    "essay_scoreT_avg": 24.866667,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          2,
+          0,
+          2,
+          3
+        ],
+        [
+          2,
+          0,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          3,
+          2,
+          3,
+          2
+        ],
+        [
+          3,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.07.27",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "041",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "찬성반대",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "사회적 불평등에 대한 본인의 생각 작성",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "부모의 능력에 따라 불평등이 발생하는 것에 반대한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_annotation_tag": "주제",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": "부모의 능력에 따라 불평등이 발생하는 것에 <문법_조사>반대합니다</문법_조사>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 부모님이 부유하거나 형편이 어렵다고 해서 불평등하지 않고 평등해야 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": " 부모님이 부유하거나 형편이 어렵다고 해서 <문법_조사>불평등이 이루어지지</문법_조사> 않고 평등해야 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 부모님이 부유하면 학교생활이 원활하고 부모님이 대기업 회장이면 취업도 쉽게 하는 것이 불평등한 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 부모님이 부유하면 학교생활이 원활하고 부모님이 대기업 회장이면 취업도 쉽게 하는 것이 <문법_맞춤법>불평등 한</문법_맞춤법> 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이런 식으로 미래가 발전한다면 부유한 사람은 더욱 부유하게 살 것이다.",
+      "sentence_corr_reason": [
+        "",
+        "",
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법",
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타",
+        "조사",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 이런 <문법_기타>으로</문법_기타> 미래가 발전한다면 <문법_조사><문법_패러프레이징>잘 살고 부유한 사람은 더욱 부유하고 더 잘 살것이다</문법_패러프레이징></문법_조사>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 형편이 어려운 사람은 형편이 더 어려워질 것이다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어순",
+        "어미"
+      ],
+      "sentence_txt": " 형편이 어려운 사람은 <문법_어순>더 형편이</문법_어순> <문법_어미>어려울</문법_어미> 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 남들보다 좋은 집에서 잘 살고 있는 사람이 있는 반면, 힘들게 한끼 한끼를 연명하는 사람도 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>남들 보다</문법_맞춤법> 좋은 집에서 잘 살고 있는 사람이 있는 반면, 힘들게 한끼 한끼를 연명하는 사람도 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 다른 사람들이 부러워하는 높은 지위에 있는 사람이 있는가 하면 그렇지 못한 사람도 있다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>다른사람들이</문법_맞춤법> 부러워하는 높은 지위에 있는 사람이 있는가 하면 그렇지 못한 사람도 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_33501",
+    "essay_prompt": " 많은 사람이 평등한 세상을 꿈꾸고 있지만, 세기가 지나가면서 오히려 불평등의 격차가 심해지고 있습니다.\n\n 흙수저, 금수저 등 부모님의 능력에 의해 새로운 것을 시도하거나 접할 기회에 대한 불평등이 화두가 되고 있습니다. 또한,.\n\n 또한 지역상의 문제로 인해 더 나은 교육을 접할 수 없는 문제와 다양한 문화 시설을 접하지 못하는 것 또한 문제가 되고 있습니다.\n\n 이처럼 경제적, 사회적, 정치적인 이유로 많은 사람이 사회적 불평등을 직접적으로 간접적으로 경험하고 있습니다.\n\n 이러한 안타까운 현실을 차츰 해결해 나아가야겠지만 교육만큼은 모두 평등하게 받을 수 있어야 하지 않을까요?\n\n 그렇다면, 우리나라 모든 학생에게 공교육, 사교육 할 것 없이 모든 교육을 제공해주는 제도가 생긴다면 어떨까요? 많은 돈이 들겠지만, 모두가 똑같은 교육을 받을 수 있지 않을까요?\n\n 여러분의 생각은 어떠신가요? 찬성과 반대중 하나를 선택하고 그 이유를 작성해주세요.",
+    "essay_type": "찬성반대",
+    "essay_level": "2",
+    "essay_len": 676,
+    "essay_main_subject": "사회적 불평등에 대한 본인의 생각 작성"
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "내가 평소 좋은 습관을 들이기 위해 노력한 것 첫번째는 책을 조금이라도 읽기 이다.#@문장구분# 왜냐하면 나는 평소에 책을 거의 아예 안읽었기 때문에 책을 조금이라도 읽을려고 노력하고 있다.#@문장구분# 책을 읽기 싫어도 읽고 싶은 책을 꺼내 읽었다.#@문장구분# 그래서 평소보단 조금 더 읽긴 한다.#@문장구분# 그리고 두번째는 새벽 1시전에 잠을 자기 이다.#@문장구분# 왜냐하면 학원 끝나고 밥 먹고 씻고 핸드폰을 하면 1시가 금방 넘어서 1시 전에 자기로 했다.#@문장구분# 그래서 핸드폰을 할때 중간 중간에 몇시인지 확인하고 1시전에 잔다.#@문장구분# 그래서 요즘은 새벽 1시 전에 잔다.#@문장구분# 세번째는 유튜브를 폰으로 보지 않고 TV로 보지 않기.#@문장구분# 왜냐하면 핸드폰으로 보면 눈이 더 나빠지기도 하고 TV 로 보면 더 큰 화면으로 볼수있기 때문이고 TV가 더 보기 편하기 때문이다.#@문장구분# 그래서 부모님이 안계실때나 TV 안보실 때 유튜브를 핸드폰으로 안보고 TV로 볼려고 노력하고 있다.#@문장구분# 그래서 요즘은 핸드폰보다 TV로 더 많이 보고 있어서 핸드폰 보는 시간이 줄었다.#@문장구분# 앞으로도 노력을 더 많이 해서 노력하고 있는걸 좋은 습관으로 만들어야 겠다.#@문장구분#",
+      "paragraph_len": 796,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20,
+      29.75,
+      20.25
+    ],
+    "essay_scoreT_avg": 23.333334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          3,
+          3,
+          3,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          3,
+          3,
+          0,
+          3
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.08.17",
+    "student_educated": true,
+    "student_grade": "중등_1학년",
+    "location": "032",
+    "student_grade_group": "중등",
+    "student_reading": 1
+  },
+  "rubric": {
+    "essay_grade": "중등_1학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "습관들이기 위한 노력과 경험",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "내가 평소 좋은 습관을 들이기 위해 노력한 것 첫번째는 책을 조금이라도 읽는 것 이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사"
+      ],
+      "sentence_txt": "내가 평소 좋은 습관을 들이기 위해 노력한 것 첫번째는 책을 조금이라도 <문법_조사>읽기</문법_조사> 이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 나는 평소에 책을 거의 안읽었기 때문에 책을 조금이라도 읽으려고 노력하고 있다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "스타일링",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "패러프레이징",
+        "어미"
+      ],
+      "sentence_txt": " 왜냐하면 나는 평소에 책을 <스타일링_패러프레이징>거의 아예</스타일링_패러프레이징> 안읽었기 때문에 책을 조금이라도 <문법_어미>읽을려고</문법_어미> 노력하고 있다.",
+      "sentence_corr_txt_styling": " 왜냐하면 나는 평소에 책을 거의 안읽었기 때문에 책을 조금이라도 읽으려고 노력하고 있다.",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그래서 평소보단 조금 더 읽긴 했다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "시제"
+      ],
+      "sentence_txt": " 그래서 평소보단 조금 더 읽긴 <문법_시제>한다</문법_시제>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 두 번째는 새벽 1시전에 잠을 자는 것이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "어미"
+      ],
+      "sentence_txt": " 그리고 <문법_맞춤법>두번째는</문법_맞춤법> 새벽 1시전에 잠을 <문법_어미>자기 이다</문법_어미>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 세번째는 유튜브를 폰으로 보지 않고 TV로 보는 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "어미"
+      ],
+      "sentence_txt": " 세번째는 유튜브를 폰으로 보지 않고 <문법_어미>TV로 보지 않기</문법_어미>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 왜냐하면 핸드폰으로 보면 눈이 더 나빠지기도 하고 TV 로 보면 더 큰 화면으로 볼 수 있기 때문에 TV가 더 보기 편하기 때문이다.",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 왜냐하면 핸드폰으로 보면 눈이 더 나빠지기도 하고 TV 로 보면 더 큰 화면으로 <문법_맞춤법>볼수있기 때문이고</문법_맞춤법> TV가 더 보기 편하기 때문이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 앞으로도 노력을 더 많이 해서 좋은 습관을 만들어야겠다.",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "패러프레이징"
+      ],
+      "sentence_txt": " 앞으로도 노력을 더 많이 해서 <문법_맞춤법><문법_패러프레이징>노력하고 있는걸 좋은 습관으로 만들어야 겠다</문법_패러프레이징></문법_맞춤법>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_33473",
+    "essay_prompt": " 일상적으로 반복되는 행위를 습관이라고 정의합니다.\n\n 습관은 후천적인 행동 양식으로 특정한 행동 및 생각 등을 반복적으로 수행하게 되어 다음에 동일한 상황을 겪을 경우 이전에 행동했던 방식 그대로 행동하는 것을 의미합니다.\n\n 하지만 습관은 항상 좋은 것만은 아닙니다. 때론 나쁜 습관이 이미 익숙해져 있고 이를 바로잡기 위해 큰 노력을 해야 합니다.\n\n 이처럼 습관을 고치기 위한 노력 혹은 새로운 좋은 습관을 들이기 위해 했던 노력 및 경험에 대해 자유롭게 서술해 주세요. 좋은 습관을 들이기 위한 본인만의 노하우를 알려주셔도 좋습니다.",
+    "essay_type": "설명글",
+    "essay_level": "3",
+    "essay_len": 536,
+    "essay_main_subject": "습관들이기 위한 노력과 경험"
+  }
+}

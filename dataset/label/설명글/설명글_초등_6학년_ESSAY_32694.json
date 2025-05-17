@@ -1,0 +1,248 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "제가 생각하는 진정한 친구는 가끔 싸워도 서로를 챙겨주는 친구인 것같습니다.#@문장구분# 제가 있었던 일 중에서는 6년지기 친구랑 거의 맨날 싸웠는데 다음날 만나면 아무일 없듯이 다시 친하게 지내고, 크게 싸우면 한 3일정도는 이야기 안하다가 다시 괜찮아졌었습니다.#@문장구분# 그리고 지금 이사를 왔서 방학 때만 갈수있는데 코로나 바이러스 때문에 전화, 톡을 자주하는데 연락을 하면서도 싸우고, 장난치고, 다시 괜찮아집니다.#@문장구분# 그리고 서로의 생일에는 생일 선물도 주고, 맛있는 것도 사줍니다.#@문장구분# 일주일에 두세번은 만나거나 전화를 합니다.#@문장구분# 그리고 다른 10년지기 친구와도 많이 싸우지만 서로를 챙겨줍니다.#@문장구분# 또 같이 사진관에 가서 사진도 찍고, 커플 목걸이, 머리끈, 옷 등 똑같은 것으로 삽니다.#@문장구분# 그리고 친구집이나 내 집에 파자마 파티도 합니다.#@문장구분# 친구가 아닌 친한 동생이나 언니와도 서로를 잘 챙겨주지만 가끔은 싸운다면 진정한 동생이나 언니가 될 수 있습니다.#@문장구분# 그래서 제가 생각하는 진정한 친구, 동생, 언니는 서로를 잘 챙겨주지만 가끔은 싸우는 것이라고 생각합니다.#@문장구분#",
+      "paragraph_len": 725,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.1,
+      20,
+      21.85
+    ],
+    "essay_scoreT_avg": 21.316666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          3,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.08.12",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "032",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "친구에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "제가 생각하는 진정한 친구는 가끔 싸워도 서로를 챙겨주는 친구인 것 같습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "제가 생각하는 진정한 친구는 가끔 싸워도 서로를 챙겨주는 친구인 <문법_기타>것같습니다</문법_기타>.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 제가 있었던 일 중에서는 6년 지기 친구랑 거의 맨날 싸웠는데 다음날 만나면 아무 일 없듯이 다시 친하게 지내고, 크게 싸우면 한 3일 정도는 이야기 안 하다가 다시 괜찮아졌었습니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 제가 있었던 일 중에서는 <문법_기타>6년지기</문법_기타> 친구랑 거의 맨날 싸웠는데 다음날 만나면 아무일 없듯이 다시 친하게 지내고, 크게 싸우면 한 3일정도는 이야기 안하다가 다시 괜찮아졌었습니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 지금 이사를 와서 방학 때만 갈 수 있는데 코로나 바이러스 때문에 전화, 톡을 자주 하는데 연락을 하면서도 싸우고, 장난치고, 다시 괜찮아집니다.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 그리고 지금 이사를 <문법_맞춤법>왔서</문법_맞춤법> 방학 때만 <문법_기타>갈수있는데 </문법_기타>코로나 바이러스 때문에 전화, 톡을 자주하는데 연락을 하면서도 싸우고, 장난치고, 다시 괜찮아집니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 일주일에 두세 번은 만나거나 전화를 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 일주일에 <문법_기타>두세번은 </문법_기타>만나거나 전화를 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 다른 10년 지기 친구와도 많이 싸우지만 서로를 챙겨줍니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 그리고 다른 10<문법_기타>년지기 </문법_기타>친구와도 많이 싸우지만 서로를 챙겨줍니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그리고 친구 집이나 내 집에 파자마 파티도 합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 그리고 <문법_기타>친구집이나 </문법_기타>내 집에 파자마 파티도 합니다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_32694",
+    "essay_prompt": " 여러분은 진정한 친구에 대해 생각해본 적이 있나요?\n\n 집에 항상 같이 가는 친구, 연락을 자주 하는 친구, 비밀을 마음껏 얘기할 수 있는 친구 등 여러 친구가 있을 것 같아요.\n\n 다만 여러 친구들 중에 어떤 친구가 나의 진정한 친구라고 할 수 있을까요? 인사만 한다고 친구하고 할 수 있을까요? 친구 중에서도 순위를 매길 수 있을까요?\n\n 여러분이 생각하는 친구에 대한 생각을 설명해주세요. 생각이 잘 나지 않는다면 친구들에게 나는 어떤 친구가 되고 싶은지를 작성해주셔도 좋아요!",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 526,
+    "essay_main_subject": "친구에 대한 본인의 생각"
+  }
+}

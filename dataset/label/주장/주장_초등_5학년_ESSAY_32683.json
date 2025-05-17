@@ -1,0 +1,283 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "일단 좋은점은 TV로 ㅗ생활에 관련된 좋은 정보를 주는 뉴스를 볼수 있고 영화와 만화(애니메이션)도 볼수 있어서 유용하고 메세지로 친구나 가족과 소통 할수 있고 핸드폰으로 모르는 것을 검색을 할수 있다.#@문장구분# 그리고 유튜브로 배우고 게임방송을 볼수 있어서 유용하다.#@문장구분# 그리고 게임을 할수 있다.#@문장구분# 컴퓨터로는 마찬가지로 메세지를 보낼 수 있고 검색과 유튜브를 볼 수 있다#@문장구분# 게임도 할 수 있다#@문장구분# 하지만 나쁜점은 유튜브를 많이 보면 눈이 나빠지고 게임도 많이 하면 눈이 나빠진다#@문장구분#. 그리고 게임에서 현질을 많이 해서 도박이 될 수 있다#@문장구분# 게임을 많이해서 게임중독이 걸릴 수 있다.#@문장구분# 게임을 하려고 밤을 새거나 쉽게 화를 낸다.#@문장구분# 그래서 다른사람과 친해지지   친해지지 못해 혼자가 될 수도 있는 것 같다.#@문장구분# 그래서 미디어를 시간을 정해 놓고 쓰면 좋겠다.#@문장구분# 왜냐하면 시간을 정해 놓으면 그시간만 하고 다른 것을 하면 눈을 좀 더 지킬 수 있고   중독성을 막을 수 있다.#@문장구분# 내가 몇시간을 했는지 생각을 하고 이제 꺼야 곘다는 정제성이 생기기 때문에 시간을 정해놓고하면 좋겠다.#@문장구분# 시간을 정해놓지 않으면 하루종일해서 눈이 계속 나빠질 수 있다.#@문장구분# 그래서 하다가 조금씩 쉬면서  눈의 피로를 풀어주거나 깜빡거리면 조금이라도 눈의 건강을 지킬 수 있는 것 같다.#@문장구분# 그리고 밤에 자지않고 밤을 샐 수 있기 때문에 엄마아빠께 스마트폰을 맞기고 자면 밤에 몰래 스마트폰을 하지못해서 밤새는 것을 방지 할 수 있을 것 같다#@문장구분# 그래서 의견은  시간을 정해놓고 하는 것이다.",
+      "paragraph_len": 1060,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      22.75,
+      20,
+      20.75
+    ],
+    "essay_scoreT_avg": 21.166666,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          0,
+          3
+        ],
+        [
+          2,
+          0,
+          0,
+          2
+        ],
+        [
+          2,
+          0,
+          0,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          3,
+          2,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.08.03",
+    "student_educated": true,
+    "student_grade": "초등_5학년",
+    "location": "032",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_5학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 3,
+      "org_coherence": 0,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 3,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "미디어 발전과 사용방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 4,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "일단 좋은점은 TV로 ㅗ생활에 관련된 좋은 정보를 주는 뉴스를 볼수 있고 영화와 만화(애니메이션)도 볼수 있어서 유용하고 메세지로 친구나 가족과 소통 할수 있고 핸드폰으로 모르는 것을 검색을 할수 있다. 그리고 유튜브로 배우고 게임방송을 볼수 있어서 유용하다. 그리고 게임을 할수 있다. 컴퓨터로는 마찬가지로 메세지를 보낼 수 있고 검색과 유튜브를 볼 수 있다 게임도 할 수 있다 하지만 나쁜점은 유튜브를 많이 보면 눈이 나빠지고 게임도 많이 하면 눈이 나빠진다 . 그리고 게임에서 현질을 많이 해서 도박이 될 수 있다 게임을 많이해서 게임중독이 걸릴 수 있다. 게임을 하려고 밤을 새거나 쉽게 화를 낸다. 그래서 다른사람과 친해지지 친해지지 못해 혼자가 될 수도 있는 것 같다. 그래서 미디어를 시간을 정해 놓고 쓰면 좋겠다. 왜냐하면 시간을 정해 놓으면 그시간만 하고 다른 것을 하면 눈을 좀 더 지킬 수 있고 중독성을 막을 수 있다. 내가 몇시간을 했는지 생각을 하고 이제 꺼야 곘다는 정제성이 생기기 때문에 시간을 정해놓고하면 좋겠다. 시간을 정해놓지 않으면 하루종일해서 눈이 계속 나빠질 수 있다. 그래서 하다가 조금씩 쉬면서 눈의 피로를 풀어주거나 깜빡거리면 조금이라도 눈의 건강을 지킬 수 있는 것 같다. 그리고 밤에 자지않고 밤을 샐 수 있기 때문에 엄마아빠께 스마트폰을 맞기고 자면 밤에 몰래 스마트폰을 하지못해서 밤새는 것을 방지 할 수 있을 것 같다 그래서 의견은 시간을 정해놓고 하는 것이다."
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "일단 <문법_기타>좋은점은 TV로 ㅗ생활에 관련된 좋은 정보를 주는 뉴스를 볼수 있고 </문법_기타>영화와 만화(애니메이션)도 볼수 있어서 유용하고 메세지로 친구나 가족과 소통 할수 있고 핸드폰으로 모르는 것을 검색을 할수 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0002",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 그리고 유튜브로 배우고 <문법_기타>게임방송을 볼수 있어서 유용하다.</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "조사",
+        "기타"
+      ],
+      "sentence_txt": " 그리고 게임을<문법_조사><문법_기타> 할수 있다.</문법_기타></문법_조사>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 왜냐하면 시간을 정해 놓으면<문법_기타> 그시간만 하고 다른 것을 하면 눈</문법_기타>을 좀 더 지킬 수 있고   중독성을 막을 수 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "띄어쓰기",
+        "띄어쓰기"
+      ],
+      "sentence_id": "0013",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " 내가 <문법_맞춤법><문법_기타>몇시간을 했는지 생각을 하고 이제 꺼야 곘다는 정제</문법_기타></문법_맞춤법>성이 생기기 때문에 시간을 정해놓고하면 좋겠다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 시간을 <문법_기타>정해놓지 않으면 하루종일해서 눈이 계속 나빠질 수 있다.</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0015",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 그래서 하다가 조금씩 쉬면서  눈의 피로를 <문법_기타>풀어주거나 깜빡거리면 조금이라도 눈의 건강을 지킬 수 있는 것 같다.</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": "",
+      "sentence_corr_reason": [
+        "띄어쓰기"
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 그리고 밤에 <문법_기타>자지않고 밤을 샐 수 있기 때문에 엄마아빠께 스마트폰</문법_기타>을 맞기고 자면 밤에 몰래 스마트폰을 하지못해서 밤새는 것을 방지 할 수 있을 것 같다",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_32683",
+    "essay_prompt": " 미디어는 우리 주변에서 쉽게 찾아볼 수 있습니다. 그중 텔레비전과 라디오, 컴퓨터, 스마트폰 등이 대표적인 미디어라고 할 수 있지요. 사람들은 이 미디어를 이용해 자신의 의사나 감정, 또는 정보를 주고받습니다.\n\n 과거에는 생각이나 뜻을 전하기 위해 말을 이용해 전달해야 했지만, 지금은 SNS(페이스북, 카카오톡 등)를 통해 실시간으로 대화하며 화상 채팅을 무료로 즐기는 시대가 되었습니다. 여러분도 가족/친구들과 SNS를 통해 많은 소통을 하고 계시지요?\n\n 이러한 미디어는 매우 빠른 속도로 진화를 거듭하고 있어요. 앞으로도 더욱 우리 생활 깊숙이 파고들 것입니다.\n\n 다만, 미디어의 발전은 수많은 문제의 원인이 되기도 해요. 다른 사람의 얼굴을 SNS에 올리거나 악플로 남에게 상처 되는 말을 하기도 하지요. 또한, 틀린 정보가 빠르게 퍼져 나가 사람들에게 해를 끼치기도 한답니다.\n\n 이렇게 빠르게 변화하는 미디어의 발 전속에서 우리는 어떻게 미디어를 사용해야 할까요?\n\n 인권과 미디어의 알맞은 사용을 위해 발전을 제한해야 할까요? 아니면 새로운 시대에 맞게 모든 자유를 보장해야 할까요? 그 사이에 적절한 사용 방법이 있을까요? 여러분의 의견과 작성하고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 740,
+    "essay_main_subject": "미디어 발전과 사용방법"
+  }
+}

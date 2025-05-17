@@ -1,0 +1,293 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "먼저 학교폭력은 학교생활에 안좋은 추억과 학교가 가고싶다는 생각보다는 가기 싫다는 생각이 들것이다.#@문장구분# 그리고 학교폭력은 왜 벌어지는가에 대해서는 이런 이유가 있다.#@문장구분# 자기가 청소년이어서 부모님으로부터의 공부강요, 스트레스 등등 많은 이유가 있따.#@문장구분# 어찌됬든 간에 우리는 학교폭력 대신 폭력을 당하는 친구를 도와주는 그런 학생이 되어야 한다.#@문장구분# 두 번째는 사이버 폭력이다.#@문장구분# 사이버 폭력은 말 그대로  온라인 상에서 집단 따돌림 성희d 같은 나쁜폭력이다.#@문장구분# 이 폭력은 정신적으로 힘들고 심하면 자살까지 가능하게 하는 무시무시한 폭력이다.#@문장구분# 이런 폭력을 당할때는 무시하는 것이 가장 좋다.#@문장구분# 리런 폭력은 하지 말아야 한다.#@문장구분# 이런 폭력들을 당한 피해자들 중 학교폭력을 당한 피해자는 청소년이어서 신고를 못하고 그리서 계속 폭력에 시달렸다고 말한다.#@문장구분# 117에 신고해도 바로 처리해주는 것이 아니라 바로 해결이 안됐고 또 친구들이 관심이 없고 선생님께 말하려니 무섭고 이렇게 해서 학교폭력 피해자들이 늘어나고 있다.#@문장구분# 사이버 폭력은 무시하는 것이 가장 좋은데 궁금해서 보다가 따돌림을 당하는 사례가 많다.#@문장구분# 그럼 이 폭력들을 막으려면 관심이 필요하다#@문장구분# 폭력을 멈추는 것에 대해 관심을 가지고 폭력을 쓰는 친구가 있으면 그만하라고 용기내어 말해야 한다.#@문장구분# 117, 112보다 우리의 관심 용기로 학교폭력, 사이버 폭력 등 여러 폭력을 막을 수 있다.#@문장구분# 가장 중요한 것은 폭력은 하면 안된다는 것이다.",
+      "paragraph_len": 1008,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          3,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              3,
+              3,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2.3333333,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      21.188889,
+      30,
+      23.288889
+    ],
+    "essay_scoreT_avg": 24.825926,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          0,
+          2,
+          3
+        ],
+        [
+          3,
+          0,
+          3,
+          3
+        ],
+        [
+          3,
+          0,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          2,
+          3
+        ],
+        [
+          3,
+          3,
+          3,
+          3
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          3,
+          3,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.08.02",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "032",
+    "student_grade_group": "초등",
+    "student_reading": 2
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 0,
+      "org": 3,
+      "org_essay": 7,
+      "org_coherence": 2,
+      "org_quantity": 1
+    },
+    "essay_type": "주장",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 2,
+      "con": 4,
+      "con_prompt": 1,
+      "con_description": 2
+    },
+    "essay_main_subject": "폭력 예방 방법",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 3
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "먼저 학교폭력은 학교생활에 안 좋은 추억과 학교가 가고 싶다는 생각보다는 가기 싫다는 생각이 들것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": "먼저 학교폭력은 학교생활에 <문법_맞춤법>안좋은</문법_맞춤법> 추억과 학교가 가고싶다는 생각보다는 가기 싫다는 생각이 들것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 자기가 청소년이어서 부모님으로부터의 공부 강요, 스트레스 등등 많은 이유가 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 자기가 청소년이어서 부모님으로부터의 <문법_맞춤법>공부강요</문법_맞춤법>, 스트레스 등등 많은 이유가 있따.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 어찌 됐든 간에 우리는 학교폭력 대신 폭력을 당하는 친구를 도와주는 그런 학생이 되어야 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>어찌됬든</문법_맞춤법> 간에 우리는 학교폭력 대신 폭력을 당하는 친구를 도와주는 그런 학생이 되어야 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 사이버 폭력은 말 그대로  온라인상에서 집단 따돌림, 성희롱 같은 나쁜 폭력이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 사이버 폭력은 말 그대로  <문법_맞춤법>온라인 상에서</문법_맞춤법> 집단 따돌림 성희d 같은 나쁜폭력이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이런 폭력을 당할 때는 무시하는 것이 가장 좋다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0008",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 이런 폭력을 <문법_맞춤법>당할때는</문법_맞춤법> 무시하는 것이 가장 좋다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 이런 폭력은 하지 말아야 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " <문법_맞춤법>리런</문법_맞춤법> 폭력은 하지 말아야 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 117에 신고해도 바로 처리해 주는 것이 아니라 바로 해결이 안 됐고 또 친구들이 관심이 없고 선생님께 말하려니 무섭고 이렇게 해서 학교폭력 피해자들이 늘어나고 있다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 117에 신고해도 바로 <문법_맞춤법>처리해주는</문법_맞춤법> 것이 아니라 바로 해결이 안됐고 또 친구들이 관심이 없고 선생님께 말하려니 무섭고 이렇게 해서 학교폭력 피해자들이 늘어나고 있다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 폭력을 멈추는 것에 대해 관심을 가지고 폭력을 쓰는 친구가 있으면 그만하라고 용기 내어 말해야 한다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 폭력을 멈추는 것에 대해 관심을 가지고 폭력을 쓰는 친구가 있으면 그만하라고 <문법_맞춤법>용기내어</문법_맞춤법> 말해야 한다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 가장 중요한 것은 폭력은 하면 안 된다는 것이다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 가장 중요한 것은 폭력은 하면 <문법_맞춤법>안된다는</문법_맞춤법> 것이다.",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_32748",
+    "essay_prompt": " 요즘 학교에서는 신체적인 폭력뿐만 아니라 미디어 발달로 인한 사이버 폭력과 언어폭력이 점점 많아지고 있습니다.\n\n 또한, 학교폭력 피해를 본 학생의 나이가 점점 낮아지고 있어 심각한 사회적 문제로 나타나고 있습니다.\n\n 학교폭력을 예방하기 위해 노력을 많이 하고 있지만 제대로 해결되지 않는다는 의견이 많습니다.\n\n 한쪽에서는 학교폭력을 일으킨 학생에 대한 처벌을 더욱 강력하게 하자는 의견이 있습니다. 더 나아가 폭력에 한에서는 법을 개편해서 청소년 보호법이 아닌 강력한 법을 시행하자는 의견도 있습니다.\n\n 다른 쪽에서는 학생에 대한 처벌보다 보호자에 대한 처벌을 강화하는 의견을 제시하기도 합니다.\n\n 학교 폭력을 예방하는 방법과 대처하는 방법은 다양합니다. 학교 폭력을 줄일 수 있는 방법에 대한 자기 생각을 작성해주세요. 그리고 그 이유에 관해 설명해주세요.",
+    "essay_type": "주장",
+    "essay_level": "2",
+    "essay_len": 709,
+    "essay_main_subject": "폭력 예방 방법"
+  }
+}

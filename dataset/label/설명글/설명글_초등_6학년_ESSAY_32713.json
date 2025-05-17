@@ -1,0 +1,353 @@
+{
+  "paragraph": [
+    {
+      "paragraph_txt": "친구란 나를 생각해주고 배려하며 같이 놀며 내인생에 행복을 느낄수있는 사람이라고 생각 합니다#@문장구분# 또 서로 친하게 지내는 사람입니다#@문장구분# 진정한 친구는 날 배신하지 않고 서로 싸우지않고 잘지내는 친구라고 생각합니다.#@문장구분# 제친구는 한번도 저랑 싸운적없는 친구입니다#@문장구분# 축구할때 나 피구할때나 계속 같이놀던친구입니다.#@문장구분# 제친구랑 3학년때 만나서 놀았거든요#@문장구분# 3학년때 친구들이 급식시간이되면 밥을 개미꼬딱지만큼먹고 피구했거든요#@문장구분# 그때가 그립지만 다시 피구를 팀을 짜요#@문장구분# 먼저 온사람 그면이 주장이고 각자 원하는 사람을고르고 피구를 하여 공을 잡으면 부활하고 맞으면 아웃되는식으로하다가 잡았는데 안살려 주면 울고그러는 사람이 있어요#@문장구분# 저도 그러는데 저는 이제는 안 그러고 그리고 운동장에서 축구하는애도있어요#@문장구분# 그럼 가서 축구 하고 그리고 점심시간을 보내요#@문장구분# 그때가 그립구만요#@문장구분# 어떤날은 #@이름#이라는 교생선생님하고 피구를 했는데 엄청 재미있었어요#@문장구분# 그피구는 있지못해요#@문장구분# 그때 제가 다 살렸거든요#@문장구분# 그때 넘나제미있었는데 또 교생선생님이왔으면 저는 친구말을 잘드러주는 친구가 되고 싶어요#@문장구분#",
+      "paragraph_len": 859,
+      "paragraph_id": "001"
+    }
+  ],
+  "score": {
+    "paragraph_score": [
+      {
+        "paragraph_scoreT": [
+          2,
+          2,
+          2
+        ],
+        "paragraph_scoreT_detail": {
+          "paragraph_scoreT_exp": [
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ],
+            [
+              2,
+              2,
+              0
+            ]
+          ]
+        },
+        "paragraph_scoreT_avg": 2,
+        "paragraph_id": "001"
+      }
+    ],
+    "essay_scoreT": [
+      20,
+      20,
+      20.25
+    ],
+    "essay_scoreT_avg": 20.083334,
+    "essay_scoreT_detail": {
+      "essay_scoreT_org": [
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          2
+        ],
+        [
+          2,
+          2,
+          2,
+          3
+        ]
+      ],
+      "essay_scoreT_cont": [
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ],
+        [
+          2,
+          2,
+          0,
+          2
+        ]
+      ],
+      "essay_scoreT_exp": [
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ],
+        [
+          2,
+          2,
+          0
+        ]
+      ]
+    }
+  },
+  "student": {
+    "date": "2021.08.20",
+    "student_educated": true,
+    "student_grade": "초등_6학년",
+    "location": "032",
+    "student_grade_group": "초등",
+    "student_reading": 3
+  },
+  "rubric": {
+    "essay_grade": "초등_6학년",
+    "organization_weight": {
+      "org_paragraph": 1,
+      "org": 2,
+      "org_essay": 5,
+      "org_coherence": 1,
+      "org_quantity": 1
+    },
+    "essay_type": "설명글",
+    "content_weight": {
+      "con_clearance": 4,
+      "con_novelty": 4,
+      "con": 4,
+      "con_prompt": 0,
+      "con_description": 2
+    },
+    "essay_main_subject": "친구에 대한 본인의 생각",
+    "expression_weight": {
+      "exp_style": 0,
+      "exp_grammar": 3,
+      "exp_vocab": 3,
+      "exp": 4
+    }
+  },
+  "correction": [
+    {
+      "sentence_corr_txt_grammar": "친구란 나를 생각해 주고 배려하며 같이 놀며 내 인생에 행복을 느낄 수 있는 사람이라고 생각합니다. ",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0001",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": "<문법_기타>친구란 나를 생각해주고 배려하며 같이 놀며 내인생에 행복을 느낄수있는 사람이라고 생각 합니다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 진정한 친구는 날 배신하지 않고 서로 싸우지 않고 잘 지내는 친구라고 생각합니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0003",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>진정한 친구는 날 배신하지 않고 서로 싸우지않고 잘지내는 친구라고 생각합니다.</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 제 친구는 한 번도 저랑 싸운 적 없는 친구입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0004",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>제친구는 한번도 저랑 싸운적없는 친구입니다</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 축구할 때 나 피구할 때나 계속 같이 놀던 친구입니다.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0005",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>축구할때 나 피구할때나 계속 같이놀던친구입니다.</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 제 친구랑 3학년 때 만나서 놀았거든요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0006",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " <문법_기타>제친구랑 3학년때 만나서 놀았거든요</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 3학년 때 친구들이 급식시간이 되면 밥을 개미 코딱지만큼 먹고 피구했거든요.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0007",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_기타>3학년때 친구들이 급식시간이되면 밥을 개미꼬딱지만큼먹고 피구했거든요</문법_기타></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 먼저 온 사람이 그 팀 주장이고 각자 원하는 사람을 고르고 피구를 하여 공을 잡으면 부활하고 맞으면 아웃되는 식으로 하다가 잡았는데 안 살려 주면 울고 그러는 사람이 있어요.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0009",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_기타>먼저 온사람 그면이 주장이고 각자 원하는 사람을고르고 피구를 하여 공을 잡으면 부활하고 맞으면 아웃되는식으로하다가 잡았는데 안살려 주면 울고그러는 사람이 있어요</문법_기타></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 저도 그러는데 저는 이제는 안 그러고 그리고 운동장에서 축구하는 애도 있어요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0010",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 저도 그러는데 저는 이제는 안 그러고 그리고 운동장에서 <문법_기타>축구하는애도있어요</문법_기타>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그럼 가서 축구하고 그리고 점심시간을 보내요",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0011",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "기타"
+      ],
+      "sentence_txt": " 그럼 가서 <문법_기타>축구 하고</문법_기타> 그리고 점심시간을 보내요",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그때가 그립구먼요.",
+      "sentence_corr_reason": [
+        ""
+      ],
+      "sentence_id": "0012",
+      "sentence_corr_type": [
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법"
+      ],
+      "sentence_txt": " 그때가 <문법_맞춤법>그립구만요</문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그 피구는 잊지 못해요",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0014",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_기타>그피구는 있지못해요</문법_기타></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    },
+    {
+      "sentence_corr_txt_grammar": " 그때 너무나 재미있었는데 또 교생선생님이 왔으면 저는 친구 말을 잘 들어주는 친구가 되고 싶어요.",
+      "sentence_corr_reason": [
+        "",
+        ""
+      ],
+      "sentence_id": "0016",
+      "sentence_corr_type": [
+        "문법",
+        "문법"
+      ],
+      "sentence_corr_detail_type": [
+        "맞춤법",
+        "기타"
+      ],
+      "sentence_txt": " <문법_맞춤법><문법_기타>그때 넘나제미있었는데 또 교생선생님이왔으면 저는 친구말을 잘드러주는 친구가 되고 싶어요</문법_기타></문법_맞춤법>",
+      "sentence_corr_txt_styling": "",
+      "paragraph_id": "001"
+    }
+  ],
+  "info": {
+    "essay_id": "ESSAY_32713",
+    "essay_prompt": " 여러분은 진정한 친구에 대해 생각해본 적이 있나요?\n\n 집에 항상 같이 가는 친구, 연락을 자주 하는 친구, 비밀을 마음껏 얘기할 수 있는 친구 등 여러 친구가 있을 것 같아요.\n\n 다만 여러 친구들 중에 어떤 친구가 나의 진정한 친구라고 할 수 있을까요? 인사만 한다고 친구하고 할 수 있을까요? 친구 중에서도 순위를 매길 수 있을까요?\n\n 여러분이 생각하는 친구에 대한 생각을 설명해주세요. 생각이 잘 나지 않는다면 친구들에게 나는 어떤 친구가 되고 싶은지를 작성해주셔도 좋아요!",
+    "essay_type": "설명글",
+    "essay_level": "2",
+    "essay_len": 524,
+    "essay_main_subject": "친구에 대한 본인의 생각"
+  }
+}
