@@ -1,42 +1,47 @@
 import os
+import openai
 import pandas as pd
 from tqdm import tqdm
 from dotenv import load_dotenv
-import google.generativeai as genai
 import time
 from itertools import product
 
-# .env에서 API 키 불러오기
+# .env 파일에서 OPENAI_API_KEY 불러오기 (보안)
 load_dotenv()
-GOOGLE_API_KEY = os.getenv('GOOGLE_API_KEY')
-assert GOOGLE_API_KEY, "GOOGLE_API_KEY가 .env에 없습니다."
-genai.configure(api_key=GOOGLE_API_KEY)
-print(list(genai.list_models()))
+OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
+assert OPENAI_API_KEY, 'OPENAI_API_KEY가 환경변수 또는 .env에 설정되어 있어야 합니다.'
+openai.api_key = OPENAI_API_KEY
 
-HUMAN_PATH = '../df_human_train.csv'
+# 기존 사람 데이터셋 경로 (영문 컬럼)
+HUMAN_PATH = '../df_human_train.csv'  # 또는 적절한 human 데이터셋 경로로 변경
 AI_PATH = './df_ai_after_preprocess.csv'
 
+# 데이터 로드 (영문 컬럼)
 df = pd.read_csv(HUMAN_PATH)
+
+# label=0으로 변경
 df['label'] = 0
 
-def generate_gemini_essay(prompt, max_retry=3, sleep_sec=2):
+# GPT로 에세이 생성 함수
+def generate_gpt_essay(prompt, max_retry=3, sleep_sec=2):
     for attempt in range(max_retry):
         try:
-            # 프롬프트를 시스템 메시지로 추가하여 학생 에세이 스타일로 생성
-            system_prompt = (
-                "너는 한국 중고등학생이야. 아래 프롬프트에 따라 자연스럽고 학생다운 한국어 에세이를 써줘. "
-                "문장 길이, 어휘 수준, 감정 표현, 문체 등도 실제 학생처럼 써야 해."
+            response = openai.chat.completions.create(
+                model="gpt-3.5-turbo",
+                messages=[
+                    {"role": "system", "content": "You are a Korean student. Write a Korean essay based on the following prompt. The style should be natural and similar to a student's writing."},
+                    {"role": "user", "content": prompt}
+                ],
+                max_tokens=800,
+                temperature=0.9,
             )
-            model = genai.GenerativeModel('models/gemini-2.0-flash-thinking-exp-1219')
-            response = model.generate_content(f"{system_prompt}\n\n프롬프트: {prompt}")
-            return response.text.strip()
+            return response.choices[0].message.content.strip()
         except Exception as e:
-            print(f"Gemini API 오류: {e}. {attempt+1}/{max_retry}회 재시도...")
+            print(f"OpenAI API 오류: {e}. {attempt+1}/{max_retry}회 재시도...")
             time.sleep(sleep_sec)
     return ''
 
 # (1) grade/type별 600/60/60 샘플링용 리스트 생성
-
 grade_list = ['초등', '중등', '고등']
 type_list = ['글짓기', '대안제시', '설명글', '주장', '찬성반대']
 SPLIT_COUNTS = {'train': 600, 'valid': 60, 'test': 60}
@@ -60,17 +65,16 @@ for split in ['train', 'valid', 'test']:
     ai_texts = []
     for i, row in tqdm(split_df.iterrows(), total=len(split_df)):
         prompt = row['prompt']
-        ai_essay = generate_gemini_essay(prompt)
+        ai_essay = generate_gpt_essay(prompt)
         print(f"[{i+1}/{len(split_df)}] prompt: {prompt}\nAI essay: {ai_essay}\n{'-'*40}")
         ai_texts.append(ai_essay)
     split_df['text'] = ai_texts
-    split_df['source'] = 'gemini'  # source 컬럼 추가
+    split_df['source'] = 'openai'  # source 컬럼 추가
     split_df = split_df[['grade', 'type', 'subject', 'prompt', 'text', 'label', 'source']]
-    split_df.to_csv(f'./df_ai_gemini_{split}.csv', index=False, encoding='utf-8-sig')
-    print(f"AI {split} 데이터셋 저장 완료: ./df_ai_gemini_{split}.csv")
-print(list(genai.list_models()))
+    split_df.to_csv(f'./df_ai_openai_{split}.csv', index=False, encoding='utf-8-sig')
+    print(f"AI {split} 데이터셋 저장 완료: ./df_ai_openai_{split}.csv")
 
 # 사용법:
-# 1. .env 파일에 GOOGLE_API_KEY=... 형태로 저장
-# 2. pip install google-generativeai python-dotenv tqdm
-# 3. python generate_gemini_essays.py
+# 1. .env 파일에 OPENAI_API_KEY=sk-... 형태로 저장
+# 2. pip install openai python-dotenv tqdm
+# 3. python generate_ai_essays.py
