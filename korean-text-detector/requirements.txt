@@ -1,4 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+tqdm
+scikit-learn
+torch
 transformers
 datasets
-accelerate
-scikit-learn
+beautifulsoup4

@@ -5,6 +5,7 @@ from datasets import Dataset
 from transformers import AutoTokenizer, AutoModelForSequenceClassification, Trainer, TrainingArguments
 from sklearn.metrics import accuracy_score, precision_recall_fscore_support
 import numpy as np
+import logging
 
 class CRAFT:
     SEED = 1
@@ -25,11 +26,23 @@ class CRAFT:
     test_v1_inference_path = f'test_v1_predictions_{EXP_NUM}.csv'
     test_v2_inference_path = f'test_v2_predictions_{EXP_NUM}.csv'
 
-# 데이터 로드 및 셔플
-train_df = pd.read_csv(CRAFT.train_df_path)
-valid_df = pd.read_csv(CRAFT.valid_df_path)
-test_df_v1 = pd.read_csv(CRAFT.test_df_v1_path)
-test_df_v2 = pd.read_csv(CRAFT.test_df_v2_path)
+logging.basicConfig(level=logging.INFO, format='%(asctime)s %(levelname)s %(message)s')
+
+# 데이터/결과 폴더 자동 생성 (예측 결과 포함)
+for path in [CRAFT.model_output_path, os.path.dirname(CRAFT.test_v1_inference_path), os.path.dirname(CRAFT.test_v2_inference_path)]:
+    if path and not os.path.exists(path):
+        os.makedirs(path, exist_ok=True)
+
+# 데이터 로드 및 셔플 (파일 존재 체크 및 친절한 에러)
+def safe_read_csv(path, name):
+    if not os.path.exists(path):
+        raise FileNotFoundError(f"{name} 파일이 존재하지 않습니다: {path}")
+    return pd.read_csv(path)
+
+train_df = safe_read_csv(CRAFT.train_df_path, 'train_df')
+valid_df = safe_read_csv(CRAFT.valid_df_path, 'valid_df')
+test_df_v1 = safe_read_csv(CRAFT.test_df_v1_path, 'test_df_v1')
+test_df_v2 = safe_read_csv(CRAFT.test_df_v2_path, 'test_df_v2')
 
 train_df = train_df.sample(frac=1, random_state=CRAFT.SEED).reset_index(drop=True)
 valid_df = valid_df.sample(frac=1, random_state=CRAFT.SEED).reset_index(drop=True)
@@ -79,13 +92,17 @@ check_columns(valid_df, 'valid_df')
 check_columns(test_df_v1, 'test_df_v1')
 check_columns(test_df_v2, 'test_df_v2')
 
-# seed 고정 함수 추가
-import random
+# seed 고정 함수 추가 (함수화 및 torch import 예외처리)
 def set_seed(seed):
+    import random
     random.seed(seed)
     np.random.seed(seed)
-    torch.manual_seed(seed)
-    torch.cuda.manual_seed_all(seed)
+    try:
+        import torch
+        torch.manual_seed(seed)
+        torch.cuda.manual_seed_all(seed)
+    except ImportError:
+        pass
 set_seed(CRAFT.SEED)
 
 # 결과 폴더 생성
@@ -141,7 +158,8 @@ trainer = Trainer(
 trainer.train()
 
 eval_results = trainer.evaluate()
-print("Validation Results:\n", eval_results)
+# print("Validation Results:\n", eval_results)
+logging.info(f"Validation Results: {eval_results}")
 
 # test v1
 
@@ -149,7 +167,8 @@ test_v1_predictions = trainer.predict(test_v1_dataset)
 test_v1_preds = torch.argmax(torch.tensor(test_v1_predictions.predictions), dim=-1).numpy()
 test_v1_labels = test_v1_predictions.label_ids
 test_metrics = compute_metrics(test_v1_labels, test_v1_preds)
-print("Test v1 Inference Results:", test_metrics)
+# print("Test v1 Inference Results:", test_metrics)
+logging.info(f"Test v1 Inference Results: {test_metrics}")
 test_df_v1['predicted_label'] = test_v1_preds
 test_df_v1.to_csv(CRAFT.test_v1_inference_path, index=False)
 
@@ -158,6 +177,7 @@ test_v2_predictions = trainer.predict(test_v2_dataset)
 test_v2_preds = torch.argmax(torch.tensor(test_v2_predictions.predictions), dim=-1).numpy()
 test_v2_labels = test_v2_predictions.label_ids
 test_metrics = compute_metrics(test_v2_labels, test_v2_preds)
-print("Test v2 Inference Results:", test_metrics)
+# print("Test v2 Inference Results:", test_metrics)
+logging.info(f"Test v2 Inference Results: {test_metrics}")
 test_df_v2['predicted_label'] = test_v2_preds
 test_df_v2.to_csv(CRAFT.test_v2_inference_path, index=False)
