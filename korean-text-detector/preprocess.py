@@ -19,7 +19,7 @@ class CRAFT:
     TEST_SIZE_PER_LEVEL  = 30    # 주제 하나당 초등 30개, 중등 30개, 고등 30개 (총 갯수 30 * 3 * 5 = 450)
 
     # 원시 데이터셋 경로
-    DATA_PATH = './dataset/024.에세이 글 평가 데이터/01.데이터/1.Training/라벨링데이터'
+    DATA_PATH = './dataset/1.Training/label'
 
     # Total 데이터셋 전처리 이전, 이후 csv파일 경로
     DF_BEFORE_PREPROCESS_CSV_PATH = './df_total_before_preprocess.csv'
