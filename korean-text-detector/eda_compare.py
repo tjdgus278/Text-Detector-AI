@@ -4,6 +4,17 @@ import seaborn as sns
 from collections import Counter
 import numpy as np
 import re
+import platform
+import matplotlib
+
+# 한글 폰트 설정 (Windows: 'Malgun Gothic', Mac: 'AppleGothic', Linux: 'NanumGothic')
+if platform.system() == 'Windows':
+    plt.rc('font', family='Malgun Gothic')
+elif platform.system() == 'Darwin':
+    plt.rc('font', family='AppleGothic')
+else:
+    plt.rc('font', family='NanumGothic')
+plt.rcParams['axes.unicode_minus'] = False  # 마이너스 깨짐 방지
 
 # 텍스트 길이 분포 & 어휘 다양도(타입/토큰 비율) 비교 함수
 
@@ -56,6 +67,33 @@ def compare_top_words(df1, df2, col, n=20, label1="Dataset 1", label2="Dataset 2
     for word, count in top2:
         print(f"{word}: {count}")
 
+
+def plot_vocab_richness_bar(df1, df2, col, label1="Dataset 1", label2="Dataset 2"):
+    richness1 = vocab_richness(df1, col)
+    richness2 = vocab_richness(df2, col)
+    plt.figure(figsize=(5, 5))
+    plt.bar([label1, label2], [richness1, richness2], color=["blue", "orange"])
+    plt.title("Vocab Richness (Type/Token Ratio)")
+    plt.ylabel("Type/Token Ratio")
+    for i, v in enumerate([richness1, richness2]):
+        plt.text(i, v + 0.01, f"{v:.4f}", ha='center', va='bottom')
+    plt.ylim(0, max(richness1, richness2) + 0.05)
+    plt.show()
+
+
+def plot_top_words_bar(df, col, n=20, label="Dataset"):
+    top_words = get_top_n_words(df, col, n)
+    words, counts = zip(*top_words)
+    plt.figure(figsize=(10, 5))
+    sns.barplot(x=list(words), y=list(counts), palette="Blues_d")
+    plt.title(f"Top {n} Words in {label}")
+    plt.ylabel("Count")
+    plt.xlabel("Word")
+    plt.xticks(rotation=45, ha='right')
+    plt.tight_layout()
+    plt.show()
+
+
 # 사용 예시 (아래 부분을 실제 데이터프레임에 맞게 수정해서 사용)
 if __name__ == "__main__":
     # 예시: 두 개의 전처리된 csv 파일을 불러와 비교
@@ -63,11 +101,9 @@ if __name__ == "__main__":
     df2 = pd.read_csv("./df_ai_train.csv")
     
     # 텍스트 길이 분포 비교
-    plot_text_length_distribution(df1, df2, col="paragraph_txt", label1="Human", label2="AI")
-    
-    # 어휘 다양도 비교
-    compare_vocab_richness(df1, df2, col="paragraph_txt", label1="Human", label2="AI")
-    
-    # 고빈도 단어 비교
-    print("\n[Top 20 Frequent Words]")
-    compare_top_words(df1, df2, col="paragraph_txt", n=20, label1="Human", label2="AI")
+    plot_text_length_distribution(df1, df2, col="text", label1="Human", label2="AI")
+    # 어휘 다양도 바 차트
+    plot_vocab_richness_bar(df1, df2, col="text", label1="Human", label2="AI")
+    # 고빈도 단어 바 차트(각각 따로)
+    plot_top_words_bar(df1, col="text", n=20, label="Human")
+    plot_top_words_bar(df2, col="text", n=20, label="AI")
