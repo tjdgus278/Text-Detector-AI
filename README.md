@@ -1,11 +1,12 @@
 # AI 생성 콘텐츠 진위 판별 시스템 개발
 전남대학교 소중단 디지털 경진대회 참가 프로젝트
 본 프로젝트는 Hugging Face의 Transformer 모델인 team-lucid/deberta-v3-base-korean을 파인튜닝하여, AI가 작성한 텍스트와 사람이 작성한 텍스트를 구분하는 이진 분류 문제를 해결하는 것을 목표로 합니다.
-
-# 1. Introduction
 본 프로젝트는 전남대학교 소중단 디지털 경진대회 참가를 위해 진행하였습니다.
 Python, transformers, datasets, scikit-learn 등의 라이브러리를 활용하여 한국어 텍스트가 AI에 의해 작성되었는지, 혹은 인간에 의해 작성되었는지를 분류하는 모델을 개발하였습니다.
 Hugging Face의 team-lucid/deberta-v3-base-korean 사전학습 모델을 기반으로 파인튜닝을 진행하였으며, 데이터 전처리, 모델 학습, 성능 평가, 배포까지의 전 과정을 수행하였습니다.
+
+# 1. 프로젝트 개요 및 주제 적합성
+
 
 # 2. 문제 정의 및 데이터 분석
 🔹 문제 정의
