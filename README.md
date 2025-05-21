@@ -24,8 +24,6 @@ Hugging Face의 team-lucid/deberta-v3-base-korean 사전학습 모델을 기반�
 
 🔹 **사용한 데이터셋**
 
----
-
 ### 사람 작성 텍스트
 
 - **출처:** AI Hub에서 제공하는 한국어 글쓰기 데이터셋 활용  
@@ -34,8 +32,6 @@ Hugging Face의 team-lucid/deberta-v3-base-korean 사전학습 모델을 기반�
 - **특징:**  
   - 학년별로 문체, 어휘 수준, 문장 구조, 글 길이에서 뚜렷한 차이를 보임  
   - 자연스럽고 비형식적인 문체가 포함되어 있음  
-
----
 
 ### AI 생성 텍스트
 
@@ -104,16 +100,41 @@ Enhanced Mask Decoder를 활용해 마스킹 복원 성능을 강화
 기존 BERT, RoBERTa 대비 정합성과 일관성이 우수함
 
 🔹 모델 설계 이유와 구조
-단순 키워드 기반이 아닌, 감정 표현, 문체 다양성, 창의성 등 고차원 언어 특성을 포착해야 하므로,
-문맥 이해력이 뛰어난 Transformer 계열 모델을 채택하였습니다.
-DeBERTa는 문맥 흐름과 표현의 자연스러움을 세밀하게 분석할 수 있어 본 문제에 적합합니다.
-모델 구조는 다음과 같습니다. 입력 텍스트는 토크나이징 후 패딩 최종 레이어의 [CLS] 토큰을 이진 분류기에 전달 Sigmoid를 통해 AI 생성 여부를 예측합니다.
+- 단순 키워드 기반이 아닌, 감정 표현, 문체 다양성, 창의성 등 고차원 언어 특성을 포착해야 하므로 문맥 이해력이 뛰어난 Transformer 계열 모델을 채택하였습니다.
+- DeBERTa는 문맥 흐름과 표현의 자연스러움을 세밀하게 분석할 수 있어 본 문제에 적합합니다.
+- 또한, 해당 모델은 한국어 데이터로 사전학습되어 한국어 텍스트 판별에 더욱 적합합니다.
+- 모델 구조는 입력 텍스트를 토크나이징 후 패딩, 최종 레이어의 [CLS] 토큰을 이진 분류기에 전달하여 sigmoid로 AI 생성 여부를 예측합니다.
 
-🔹 학습 방법 및 하이퍼파라미터 설정
-파인튜닝 전략: Pretrained DeBERTa 위에 Linear + Sigmoid 분류기 헤드를 추가하여 Binary Cross Entropy Loss로 학습합니다.
-하이퍼파라미터:
-배치 크기: 16, 학습률: 2e-5, 에폭 수: 3, 옵티마이저: AdamW, 스케줄러: Linear Warmup (warmup ratio: 0.1)
-검증 방식: 학습 데이터의 20%를 검증 세트로 분할하여 성능을 모니터링하였습니다.
+### 학습 및 실험 방법 요약
+
+- **사전학습된 한국어 DeBERTa 모델 사용**
+  - `team-lucid/deberta-v3-base-korean` 등 pretrained 모델을 불러와 이진 분류(사람/AI)로 파인튜닝
+
+- **데이터 분할 및 셔플**
+  - 학습/검증/테스트 데이터를 별도 CSV로 분할, split별로 seed 고정 후 셔플
+
+- **토큰화 및 데이터셋 변환**
+  - Huggingface `AutoTokenizer`로 최대 512 토큰 padding/truncation, Dataset 객체로 변환
+
+- **Trainer 기반 학습**
+  - Huggingface `Trainer`와 `TrainingArguments`로 학습/평가 자동화
+  - 주요 하이퍼파라미터:
+    - batch size: 16
+    - epoch: 3
+    - learning rate: 5e-5
+    - weight decay: 0.01
+    - evaluation & save strategy: epoch 단위
+    - metric: f1
+    - best model 자동 저장 및 불러오기
+    - fp16(자동)
+    - seed 고정
+
+- **성능 평가 및 예측 결과 저장**
+  - 검증/테스트셋에 대해 accuracy, precision, recall, f1 등 주요 지표 산출 및 로그 저장
+  - 예측 결과를 CSV로 저장
+
+- **실전 환경 대응**
+  - Colab/로컬 환경 모두 동작, 예외처리/폴더 자동 생성/로깅 등 실무형 코드 구현
 
 # 4. 모델 검증 및 성능 평가
 🔹 사용한 성능 지표
