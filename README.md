@@ -141,8 +141,37 @@ Enhanced Mask Decoder를 활용해 마스킹 복원 성능을 강화
 Accuracy: 전체 데이터 중 올바르게 분류한 비율, Precision: AI로 예측된 샘플 중 실제 AI가 쓴 비율, Recall: 실제 AI 텍스트 중 모델이 탐지한 비율
 F1-Score: Precision과 Recall의 조화 평균, AUROC: 분류 임계값 변화에 따른 성능을 평가하는 곡선 면적
 
-🔹 성능 비교 표
-![KakaoTalk_20250521_134003713](https://github.com/user-attachments/assets/5b67f94a-3886-48a0-8cec-8010c65933d8)
+
+성능 비교 표
+![b3a5d6d6-2626-4ca1-8236-819068c4aeaa](https://github.com/user-attachments/assets/009c04de-34f2-4aac-a791-7a6eaba143b3)
+
+## 모델 성능 지표 비교
+
+같은 모델 (`text_detector_output/checkpoint-750`)을 사용하여 두 개의 테스트셋에 대해 성능을 비교하였습니다.  
+테스트셋은 **일반(Easy)**과 **난이도 높은(Hard)** 데이터셋으로 구성되었습니다.
+
+### 🔍 평가 지표 설명
+
+| 지표 (Metric) | 설명 |
+|---------------|------|
+| **Accuracy**  | 전체 예측 중 정답 비율. 전체적인 정확도. |
+| **Precision** | 양성이라고 예측한 것 중 실제로 양성인 비율. 오탐(False Positive)에 민감. |
+| **Recall**    | 실제 양성 중 모델이 맞춘 비율. 누락(False Negative)에 민감. |
+| **F1-score**  | Precision과 Recall의 조화 평균. 두 지표 간의 균형을 평가. |
+
+---
+
+### ✅ 성능 비교
+
+| **Dataset**       | Accuracy | Precision | Recall | F1-score |
+|-------------------|----------|-----------|--------|----------|
+| Easy Test Set     | 0.9983   | 1.0000    | 0.9967 | 0.9983   |
+| Hard Test Set     | 0.9356   | 0.8904    | 0.9933 | 0.9391   |
+
+> 📌 **해석**  
+- **Easy Test Set**에서는 거의 완벽한 성능을 보임.  
+- **Hard Test Set**에서는 **Recall은 유지**되었으나, **Precision이 감소**하여 오탐률 증가.  
+- 실제 환경에서 신뢰할 수 있는 성능을 보장하기 위해서는 다양한 조건의 테스트셋을 통한 평가가 중요함.
 
 # ROC Curve 시각화  *********추가해야함***********
 ![ROC 커브](https://github.com/user-attachments/assets/dae50bbe-93d1-482e-ac27-5c47937c88f2)
