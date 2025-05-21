@@ -105,6 +105,7 @@ F1-Score: Precision과 Recall의 조화 평균, AUROC: 분류 임계값 변화�
 ![KakaoTalk_20250521_134003713](https://github.com/user-attachments/assets/5b67f94a-3886-48a0-8cec-8010c65933d8)
 
 # ROC Curve 시각화  *********추가해야함***********
+![ROC 커브](https://github.com/user-attachments/assets/dae50bbe-93d1-482e-ac27-5c47937c88f2)
 
 🔹 성능 해석 및 분석
 BoW 모델은 단어 출현 빈도만 반영하여 문장 구조나 의미를 학습하지 못하였습니다.
