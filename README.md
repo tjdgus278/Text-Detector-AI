@@ -69,10 +69,7 @@ Accuracy: 전체 데이터 중 올바르게 분류한 비율, Precision: AI로 �
 F1-Score: Precision과 Recall의 조화 평균, AUROC: 분류 임계값 변화에 따른 성능을 평가하는 곡선 면적
 
 🔹 성능 비교 표
-모델	Accuracy	Precision	Recall	F1-Score	AUROC
-BoW + Logistic Regression	0.813	0.792	0.770	0.781	0.865
-TF-IDF + SVM	0.827	0.814	0.793	0.803	0.873
-DeBERTa v3 (Fine-tuned)	0.902	0.896	0.887	0.891	0.947
+![KakaoTalk_20250521_134003713](https://github.com/user-attachments/assets/5b67f94a-3886-48a0-8cec-8010c65933d8)
 
 # ROC Curve 시각화  *********추가해야함***********
 
