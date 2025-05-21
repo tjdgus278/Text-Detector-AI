@@ -137,18 +137,6 @@ Enhanced Mask Decoder를 활용해 마스킹 복원 성능을 강화
   - Colab/로컬 환경 모두 동작, 예외처리/폴더 자동 생성/로깅 등 실무형 코드 구현
 
 # 4. 모델 검증 및 성능 평가
-🔹 사용한 성능 지표
-Accuracy: 전체 데이터 중 올바르게 분류한 비율, Precision: AI로 예측된 샘플 중 실제 AI가 쓴 비율, Recall: 실제 AI 텍스트 중 모델이 탐지한 비율
-F1-Score: Precision과 Recall의 조화 평균, AUROC: 분류 임계값 변화에 따른 성능을 평가하는 곡선 면적
-
-
-성능 비교 표
-![b3a5d6d6-2626-4ca1-8236-819068c4aeaa](https://github.com/user-attachments/assets/009c04de-34f2-4aac-a791-7a6eaba143b3)
-
-## 모델 성능 지표 비교
-
-같은 모델 (`text_detector_output/checkpoint-750`)을 사용하여 두 개의 테스트셋에 대해 성능을 비교하였습니다.  
-테스트셋은 **일반(Easy)**과 **난이도 높은(Hard)** 데이터셋으로 구성되었습니다.
 
 ### 🔍 평가 지표 설명
 
@@ -158,6 +146,20 @@ F1-Score: Precision과 Recall의 조화 평균, AUROC: 분류 임계값 변화�
 | **Precision** | 양성이라고 예측한 것 중 실제로 양성인 비율. 오탐(False Positive)에 민감. |
 | **Recall**    | 실제 양성 중 모델이 맞춘 비율. 누락(False Negative)에 민감. |
 | **F1-score**  | Precision과 Recall의 조화 평균. 두 지표 간의 균형을 평가. |
+
+![b3a5d6d6-2626-4ca1-8236-819068c4aeaa](https://github.com/user-attachments/assets/009c04de-34f2-4aac-a791-7a6eaba143b3)
+
+## 모델 성능 지표 비교
+
+같은 모델 (`text_detector_output/checkpoint-750`)을 사용하여 두 개의 서로 다른 테스트셋에 대해 성능을 비교하였습니다.
+
+- **Easy Dataset**: GPT-3.5 Turbo 기반으로 생성된 문장들로 구성된 상대적으로 단순한 문장 패턴을 가진 데이터셋입니다.
+- **Hard Dataset**: 다양한 최신 LLM (Large Language Model) 기반으로 생성된 문장들이 포함되어 있으며, 다음과 같은 모델들이 사용되었습니다:
+  - GPT-4o, GPT-4o-mini, GPT-3.5-turbo
+  - Claude 3.1 (Sonnet), Qwen 2.5 (0.5B)
+  - LLaMA 3.1 8B, Zephyr, Gemini 등
+
+> 이처럼 Hard Dataset은 다양한 스타일과 표현 방식이 혼합되어 있어 모델의 일반화 성능을 평가하는 데 더 적합합니다.
 
 ---
 
