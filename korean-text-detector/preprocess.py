@@ -144,10 +144,6 @@ print("\n========== (grade, subject) 그룹 수 ==========")
 print(combined_df.groupby(['grade', 'subject']).ngroups)
 print("====================================\n")
 
-# ====== 아래 코드 삭제 ======
-# combined_df.to_csv(CRAFT.DF_AFTER_PREPROCESS_CSV_PATH, index=False, encoding='utf-8-sig')
-# print(f"Saved cleaned data to {CRAFT.DF_AFTER_PREPROCESS_CSV_PATH}, shape: {combined_df.shape}")
-
 def stratified_group_sample(df, train_n, valid_n, test_n, group_cols=['grade', 'subject']):
     train_list, valid_list, test_list = [], [], []
     grouped = df.groupby(group_cols)
